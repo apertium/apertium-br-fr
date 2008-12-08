@@ -1,8 +1,8 @@
 * text=auto !eol
 /COPYING -text
 /Makefile.am -text
-/apertium-fr-es.fr.metadix -text
-/apertium-fr-es.post-fr.dix -text
+/apertium-br-fr.fr.metadix -text
+/apertium-br-fr.post-fr.dix -text
 /autogen.sh -text
 /buscaPar.xsl -text
 /configure.ac -text
