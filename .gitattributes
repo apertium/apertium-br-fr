@@ -17,9 +17,9 @@
 /apertium-br-fr.fr.metadix -text
 /apertium-br-fr.post-fr.dix -text
 /autogen.sh -text
+/br-fr.prob -text svneol=unset#unset
 /buscaPar.xsl -text
 /configure.ac -text
-/cy-en.prob -text svneol=unset#unset
 /fr-br.prob -text
 /modes.xml -text
 /principal.xsl -text
