@@ -1,1 +1,10 @@
 * text=auto !eol
+/COPYING -text
+/Makefile.am -text
+/apertium-fr-es.fr.metadix -text
+/apertium-fr-es.post-fr.dix -text
+/autogen.sh -text
+/buscaPar.xsl -text
+/configure.ac -text
+/modes.xml -text
+/principal.xsl -text
