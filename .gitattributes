@@ -1,6 +1,14 @@
 * text=auto !eol
 /COPYING -text
 /Makefile.am -text
+/apertium-br-fr.br-fr.dix -text
+/apertium-br-fr.br-fr.rlx -text
+/apertium-br-fr.br-fr.t1x -text
+/apertium-br-fr.br-fr.t2x -text
+/apertium-br-fr.br-fr.t3x -text
+/apertium-br-fr.br.acx -text
+/apertium-br-fr.br.dix -text
+/apertium-br-fr.fr.acx -text
 /apertium-br-fr.fr.metadix -text
 /apertium-br-fr.post-fr.dix -text
 /autogen.sh -text
