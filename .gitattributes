@@ -22,5 +22,6 @@
 /configure.ac -text
 /fr-br.prob -text
 /modes.xml -text
+/parole-tags.txt -text
 /principal.xsl -text
 /regression-tests.sh -text
