@@ -23,5 +23,6 @@
 /fr-br.prob -text
 /modes.xml -text
 /parole-tags.txt -text
+/pending-tests.sh -text
 /principal.xsl -text
 /regression-tests.sh -text
