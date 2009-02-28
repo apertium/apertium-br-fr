@@ -20,6 +20,7 @@
 /br-fr.prob -text svneol=unset#unset
 /buscaPar.xsl -text
 /configure.ac -text
+dev/old_rules.t1x -text
 /fr-br.prob -text
 /modes.xml -text
 /parole-tags.txt -text
