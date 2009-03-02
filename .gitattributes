@@ -21,9 +21,9 @@
 /buscaPar.xsl -text
 /configure.ac -text
 dev/old_rules.t1x -text
+dev/parole-tags.txt -text
 /fr-br.prob -text
 /modes.xml -text
-/parole-tags.txt -text
 /pending-tests.sh -text
 /principal.xsl -text
 /regression-tests.sh -text
