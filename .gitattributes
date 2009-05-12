@@ -16,6 +16,7 @@
 /apertium-br-fr.fr.acx -text
 /apertium-br-fr.fr.metadix -text
 /apertium-br-fr.post-fr.dix -text
+/apertium-br-fr.pre-xfer-br.t1x -text
 /autogen.sh -text
 /br-fr.prob -text svneol=unset#unset
 /buscaPar.xsl -text
