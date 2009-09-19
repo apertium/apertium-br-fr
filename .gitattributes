@@ -21,6 +21,7 @@
 /br-fr.prob -text svneol=unset#unset
 /buscaPar.xsl -text
 /configure.ac -text
+dev/inconsistency.sh -text
 dev/mutation-replace.sh -text
 dev/old_rules.t1x -text
 dev/parole-tags.txt -text
