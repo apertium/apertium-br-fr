@@ -29,6 +29,7 @@ dev/old_rules.t1x -text
 dev/parole-tags.txt -text
 dev/testvoc-summary.txt -text
 /fr-br.prob -text
+/lexchoicebil.xsl -text
 /modes.xml -text
 /pending-tests.sh -text
 /principal.xsl -text
