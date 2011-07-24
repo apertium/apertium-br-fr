@@ -37,6 +37,15 @@ corpus/0003.mor.txt -text
 corpus/0003.sur.txt -text
 corpus/0003.syn.txt -text
 corpus/0003.tag.txt -text
+corpus/0004.mor.txt -text
+corpus/0004.sur.txt -text
+corpus/0004.syn.txt -text
+corpus/0004.tag.txt -text
+corpus/0005.dep.txt -text
+corpus/0005.mor.txt -text
+corpus/0005.sur.txt -text
+corpus/0005.syn.txt -text
+corpus/0005.tag.txt -text
 corpus/README -text
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
