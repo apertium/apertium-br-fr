@@ -32,6 +32,11 @@ corpus/0002.mor.txt -text
 corpus/0002.sur.txt -text
 corpus/0002.syn.txt -text
 corpus/0002.tag.txt -text
+corpus/0003.dep.txt -text
+corpus/0003.mor.txt -text
+corpus/0003.sur.txt -text
+corpus/0003.syn.txt -text
+corpus/0003.tag.txt -text
 corpus/README -text
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
