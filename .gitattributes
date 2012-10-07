@@ -1219,6 +1219,7 @@ corpus/alan/0008.sur.txt -text
 corpus/alan/0008.syn.txt -text
 corpus/alan/0008.tag.txt -text
 corpus/alan/README -text
+dev/apertium-br-fr.br-fr-hand-written.lrx -text
 dev/apertium-br-fr.br-fr.ldx -text
 dev/apertium-br-fr.br-fr.lrx -text
 dev/inconsistency-summary.sh -text
