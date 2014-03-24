@@ -1,5 +1,6 @@
 /*.bin
 /*.mode
+/.deps
 /INSTALL
 /Makefile
 /Makefile.in
@@ -13,3 +14,4 @@
 /install-sh
 /missing
 /modes
+/stamp-h1
