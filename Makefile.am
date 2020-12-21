@@ -123,12 +123,12 @@ apertium_br_modesdir=$(prefix)/share/apertium/modes/
 modes/$(PREFIX1).mode: modes.xml
 	apertium-validate-modes modes.xml
 	apertium-gen-modes modes.xml
-	cp *.mode modes/
-
-modes/$(PREFIX2).mode: modes.xml 
-	apertium-validate-modes modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
+#	cp *.mode modes/
+#
+#modes/$(PREFIX2).mode: modes.xml 
+#	apertium-validate-modes modes.xml
+#	apertium-gen-modes modes.xml
+#	cp *.mode modes/
 
 apertium_br_fr_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
                     $(PREFIX1).autobil.bin $(PREFIX2).autobil.bin \
