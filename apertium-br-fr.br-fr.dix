@@ -1746,7 +1746,7 @@
     <e r="RL"><p><l>sportel<s n="adj"/><s n="mf"/><s n="sp"/></l><r>sportif<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>sportel<s n="adj"/><s n="mf"/><s n="sp"/></l><r>sportif<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>sportel<s n="adj"/><s n="mf"/><s n="sp"/></l><r>sportif<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>	
-    <e r="LR"><p><l>stambouc’hus<s n="adj"/><s n="sint"/></l><r> bourratif<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>stambouc’hus<s n="adj"/><s n="sint"/></l><r>bourratif<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="LR"><p><l>stambouc’hus<s n="adj"/><s n="mf"/><s n="sp"/></l><r>bourratif<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>stambouc’hus<s n="adj"/><s n="mf"/><s n="sp"/></l><r>bourratif<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>stambouc’hus<s n="adj"/><s n="mf"/><s n="sp"/></l><r>bourratif<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
@@ -16959,7 +16959,7 @@
     <e><p><l>moraer<s n="n"/><s n="m"/></l><r>navigateur<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>moraer<s n="n"/><s n="f"/></l><r>navigateur<s n="n"/><s n="f"/></r></p></e> 
     <e><p><l>morailh<s n="n"/><s n="m"/></l><r>verrou<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>moranv<s n="n"/><s n="m"/></l><r> surnom<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>moranv<s n="n"/><s n="m"/></l><r>surnom<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mordok<s n="n"/><s n="m"/></l><r>malotru<s n="n"/><s n="m"/></r></p></e>   
     <e><p><l>mordreizher<s n="n"/><s n="m"/></l><r>paquebot<s n="n"/><s n="m"/></r></p></e> 
     <e><p><l>moredenn<s n="n"/><s n="f"/></l><r>assoupissement<s n="n"/><s n="m"/></r></p></e> 
