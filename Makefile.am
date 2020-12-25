@@ -1,4 +1,3 @@
-VERSION=0.5.0
 LANG1=br
 LANG2=fr
 PREFIX1=$(LANG1)-$(LANG2)
@@ -12,6 +11,8 @@ TARGETS_COMMON = $(BASENAME).$(LANG2).dix  \
      $(PREFIX1).rlx.bin $(PREFIX1).pre-xfer.t1x.bin \
      $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
      $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin
+
+@ap_include@
 
 # pre-$(LANG1).t1x.bin 
 
@@ -118,42 +119,21 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 #	   $(BASENAME).pre-$(LANG1).t1x 
 
 apertium_br_frdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_br_modesdir=$(prefix)/share/apertium/modes/
-
-modes/$(PREFIX1).mode: modes.xml
-	apertium-validate-modes modes.xml
-	apertium-gen-modes modes.xml
-#	cp *.mode modes/
-#
-#modes/$(PREFIX2).mode: modes.xml 
-#	apertium-validate-modes modes.xml
-#	apertium-gen-modes modes.xml
-#	cp *.mode modes/
 
 apertium_br_fr_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
                     $(PREFIX1).autobil.bin $(PREFIX2).autobil.bin \
                     $(PREFIX1).autogen.bin $(PREFIX2).autogen.bin \
                     $(PREFIX1).autopgen.bin \
                     $(PREFIX1).prob $(PREFIX2).prob \
-		    $(PREFIX1).rlx.bin \
-		    $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
-		    $(PREFIX1).pre-xfer.t1x.bin
+                    $(PREFIX1).rlx.bin \
+                    $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
+                    $(PREFIX1).pre-xfer.t1x.bin \
+                    $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x \
+                    $(BASENAME).$(PREFIX1).t3x \
+                    $(BASENAME).pre-xfer-br.t1x
 
 noinst_DATA=modes/$(PREFIX1).mode
-#           modes/$(PREFIX2).mode
 
-#       $(INSTALL_DATA) $(PREFIX2).mode $(DESTDIR)$(apertium_br_modesdir)
-
-install-data-local:
-	mv modes modes.bak
-	apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	rm -rf modes
-	mv modes.bak modes
-	test -d $(DESTDIR)$(apertium_br_modesdir) || mkdir $(DESTDIR)$(apertium_br_modesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_br_modesdir)
-	rm $(PREFIX1).mode
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_br_frdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_br_frdir)
-	$(INSTALL_DATA) $(BASENAME).pre-xfer-br.t1x $(DESTDIR)$(apertium_br_frdir)
+install-data-local: install-modes
 
 CLEANFILES = -rf $(TARGETS_COMMON) modes

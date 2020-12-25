@@ -1,6 +1,7 @@
 /*.bin
 /*.mode
 /.deps
+*~
 /INSTALL
 /Makefile
 /Makefile.in
@@ -15,3 +16,4 @@
 /missing
 /modes
 /stamp-h1
+/apertium-br-fr.fr.dix
