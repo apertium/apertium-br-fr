@@ -7,10 +7,14 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON = $(BASENAME).$(LANG2).dix  \
      $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
-     $(PREFIX1).autopgen.bin $(PREFIX2).automorf.bin $(PREFIX2).autobil.bin \
+     $(PREFIX1).autopgen.bin \
+     $(PREFIX2).automorf.bin $(PREFIX2).autobil.bin $(PREFIX2).autogen.bin \
      $(PREFIX1).rlx.bin $(PREFIX1).pre-xfer.t1x.bin \
      $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
-     $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin
+     $(PREFIX1).rtx.bin $(PREFIX2).rtx.bin \
+     $(PREFIX1).autoseq.bin $(PREFIX1).revautoseq.bin
+
+#     $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin
 
 @ap_include@
 
@@ -85,6 +89,18 @@ $(PREFIX1).t3x.bin: $(BASENAME).$(PREFIX1).t3x
 	apertium-validate-postchunk $(BASENAME).$(PREFIX1).t3x
 	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t3x $@
 
+$(PREFIX1).rtx.bin: $(BASENAME).$(PREFIX1).rtx
+	rtx-comp $< $@
+
+$(PREFIX2).rtx.bin: $(BASENAME).$(PREFIX2).rtx
+	rtx-comp $< $@
+
+$(PREFIX1).autoseq.bin: $(BASENAME).$(PREFIX1).lsx
+	lsx-comp lr $< $@
+
+$(PREFIX1).revautoseq.bin: $(BASENAME).$(PREFIX1).lsx
+	lsx-comp rl $< $@
+
 #$(PREFIX2).t1x.bin: $(BASENAME).$(PREFIX2).t1x
 #	apertium-validate-transfer $(BASENAME).$(PREFIX2).t1x
 #	apertium-preprocess-transfer $(BASENAME).$(PREFIX2).t1x $@
@@ -120,14 +136,8 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 
 apertium_br_frdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 
-apertium_br_fr_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
-                    $(PREFIX1).autobil.bin $(PREFIX2).autobil.bin \
-                    $(PREFIX1).autogen.bin $(PREFIX2).autogen.bin \
-                    $(PREFIX1).autopgen.bin \
+apertium_br_fr_DATA=$(TARGETS_COMMON) \
                     $(PREFIX1).prob $(PREFIX2).prob \
-                    $(PREFIX1).rlx.bin \
-                    $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
-                    $(PREFIX1).pre-xfer.t1x.bin \
                     $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x \
                     $(BASENAME).$(PREFIX1).t3x \
                     $(BASENAME).pre-xfer-br.t1x

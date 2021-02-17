@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary type="separable">
+  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+  <sdefs>
+	<sdef n="vpart"/>
+	<sdef n="obj"/>
+	<sdef n="pr"/>
+	<sdef n="n"/>
+	<sdef n="m"/>
+	<sdef n="sg"/>
+	<sdef n="vblex"/>
+	<sdef n="pri"/>
+	<sdef n="p3"/>
+  </sdefs>
+  
+  <pardefs>
+	<pardef n="e">
+	  <e r="RL"><p>
+		<l>e<s n="vpart"/><s n="obj"/></l>
+		<r>e penn<s n="pr"/></r>
+	  </p></e>
+	  <e r="LR">
+		<p><l>e<t/></l><r></r></p>
+		<p><l></l><r>e penn<s n="pr"/></r></p>
+	  </e>
+	</pardef>
+	<pardef n="penn">
+	  <e><p>
+		<l>pennãn<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/><j/></l>
+		<r></r>
+	  </p></e>
+	  <e r="LR"><p>
+		<l>penn<s n="n"/><s n="m"/><s n="sg"/><j/></l>
+		<r></r>
+	  </p></e>
+	</pardef>
+  </pardefs>
+
+  <section id="main" type="standard">
+	<e><par n="e"/><i><j/></i><par n="penn"/></e>
+  </section>
+</dictionary>
+
+<!--
+Resources:
+    http://wiki.apertium.org/wiki/Apertium_separable
+-->
