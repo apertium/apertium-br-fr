@@ -1837,8 +1837,8 @@
                                             
                       <lit v="{^de"/>
                       <lit-tag v="pr"/>
-                      <lit v="$"/>
-                      <b/>
+                      <lit v="$ "/>
+                      <!--<b/>-->
                       <lit v="^le"/>    
                           <lit-tag v="det.def"/>
                       <clip pos="1" part="gen"/>

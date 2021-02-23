@@ -1,4 +1,125 @@
-n: %;
-N: _;
+!!! ATTRIBUTES
+a_nom = n "n.acr" "n.unc" "np.loc" "np.top" "np.ant" "np.al" ;
+a_np_acr = np acr ;
+grau_adj = comp sup ;
+a_adj = adj "adj.pos" "adj.itg" "adj.ind" "vblex.pp" ;
+a_det = "det.dem" "det.ind" "det.def" "det.pos" predet num ;
+a_num = num "num.percent" "num.ord" ;
+a_verb = vblex vbser vbhaver vbmod ;
+a_part = obj subj opt neg ger ppres ref ;
+a_adv = adv preadv "adv.itg" ;
+a_pp = "vblex.pp" ;
+a_prn = prn ;
+a_rel = rel "rel.adv" ;
+tipus_prn = subj rel "rel.adv" "rel.nn" obj ind ref tn "tn.ref" itg pos ;
+tipoenc_pro = "ref.p3.mf.sp" "p1.mf.pl" "p1.mf.sg" "p2.mf.pl" "p2.mf.sg" "p3.f.pl" "p3.f.sg" "p3.mf.pl" "p3.mf.sg" "p3.m.pl" "p3.m.sg" "p3.nt" "mf.sg" adv ;
+pers = p1 impers p2 p3 ;
+gen = (GD m) m f @mf nt GD ;
+gen_sense_mf = m f GD nt ;
+gen_mf = mf ;
+nbr = (ND sg) sg pl @sp ND ;
+nbr_sense_sp = sg pl ND ;
+nbr_sp = sp ;
+temps_fin = cip cni fti ifi imp pii pis pri prs prh pih past ;
+temps = [temps_fin] pp ger inf ;
+neg = NEG ;
+syn_label = @X @←SUBJ @SUBJ→ @\+FMAINV @-FMAINV ;
 
-N -> n { 1 } ;
+!!! LEMMA LISTS
+verbref_iv_meta = brañsellat brañskellat digoumanantiñ koumanantiñ sevel ;
+!verbref_meta = approprier arrêter asseoir baigner balancer "baser# sur" "connecter# à" ébattre efforcer enorgueillir évanouir "faire# un nom" "former# en étang" fouler garer masturber "mettre# en colère" "mettre# en relation" "occuper# de" "passer# de" plaindre plaire "porter# candidat" réapproprier "rendre# compte" reposer pavaner souvenir tromper vanter ;
+!vbambser = accourir advenir affliger aller allonger apparaître arriver cacher connaître décéder descendre développer devenir entrer établir étendre imposer intervenir inviter monter mourir naître partir parvenir passer préoccuper rassasier reconnaître redescendre remonter rentrer repartir ressortir rester retomber revenir sortir tomber "tomber# amoureux" venir ;
+dias = Lun Merc’her Meurzh Sul Yaou Gwener Sadorn ;
+substances = aluminiom amann aour arc’hant arem argant bara bleud dir eoul fred greunit holen houarn koad koar metal neud paper pebr plom sklent sukr ;
+
+!meses = Genver C’hwevrer Meurzh Ebrel Mae Mezheven Gouere Gouhere Eost Gwengolo Here Du Even Kerzu
+!"miz Genver" "miz C’hwevrer" "miz Meurzh" "miz Ebrel" "miz Mae" "miz Mezheven" "miz Gouere" "miz Gouhere" "miz Eost" "miz Gwengolo" "miz Here" "miz Even" "miz Du" "miz Kerzu" ;
+
+meses = genver c’hwevrer meurzh ebrel mae mezheven gouere gouhere eost gwengolo here du even kerzu
+"miz genver" "miz c’hwevrer" "miz meurzh" "miz ebrel" "miz mae" "miz mezheven" "miz gouere" "miz gouhere" "miz eost" "miz gwengolo" "miz here" "miz even" "miz du" "miz kerzu" ;
+
+
+advneg = pas jamais ;
+advmod = ac’hub a-walc’h bras espar eston fin kenañ ken-ha-ken klok krak lip mat mik poch rik tre ;
+part_sing = alcool argent beurre bière café chance chanvre chouchenn cire eau farine genêt herbe huile lambig lessive limonade marbre or pain plaisir poivre sel sucre tabac thé vanille viande vin vinaigre travail ;
+nom_indef_paire = botez lunedoù maneg ;
+npf = Afrique "Afrique du Sud" Algérie Allemagne Alsace Amérique Andalousie Andorre Angleterre Arabie Argentine Asie Australie Autriche Autriche-Hongrie Belgique Biscaye Biélorussie Bolivie Bosnie Bretagne Basse-Bretagne Haute-Bretagne Bulgarie Cantabrie Caraïbe Catalogne Chine Colombie Corée Cornouaille Corse Croatie Corse Égypte Espagne Estonie Europe Estrémadure Éthiopie Finlande France Galice Grande-Bretagne Grenade Grèce Guadeloupe Guinée Guyane "Guyane Française" Hollande Hongrie Inde Indonésie Irlande Islande Italie Jamaïque Jordanie Libye Lituanie Lorraine Malte Martinique Navarre Norvège Nouvelle-Zélande Palestine Pennsylvanie Pologne Rioja Roumanie Russie Serbie Slovaquie Slovénie Somalie Suisse Suède Syrie Tanzanie Tchétchénie Thaïlande Tunisie Turquie Ukraine "Union Européenne" Yougoslavie Zélande ;
+npm = Afghanistan Alger Amsterdam Atlantique Atlas Bangladesh Bernabéu Brésil Cameroun Canada Caucase Chili Congo Danemark Elysée Etna Gabon Goëlo Guatemala Gujarat Irak Iran Japon Kenya Koweït Kurdistan Leon Léon Liban Luxembourg Maghreb Mali Mexique Monténégro Nicaragua Niger Nigeria Népal Ouganda Pakistan Panama Panamá Paraguay "Pays Basque" "Pays de Galles" Portugal Pérou Qatar Royaume-Uni Rwanda Soudan Sénégal Stromboli Tchad Uruguay Vatican Venezuela "Viêt nam" Équateur Trégor ;
+nppl = Açores Antilles Alpes Andes Alpes-Maritimes Amériques Asturies Baléares Canaries Côtes-d’Armor Côtes-du-Nord États-Unis "EE.UU." Philippines Pyrénées Pyrénées-Atlantiques USA ;
+menezioù = Alpoù Pireneoù "Menezioù Roc’hellek" Andoù ;
+broioùbreizh = bro-Bentevr bro-Borc’hoed bro-Dinan bro-Dreger bro-Gemper bro-Gemperle bro-Gerne bro-Gernev bro-Gwened bro-Leon bro-Naoned bro-Oueloù bro-Pourlet bro-Roazhon bro-Sant-Brieg bro-Sant-Maloù bro-Vigoudenn bro-Vrest bro-Wened bro-Zol ;
+adv_colloc_abans = assez très particulièrement ;
+adj_colloc_abans = autre beau bon dernier deuxième grand gros jeune joli lourd mauvais meilleur moindre nouveau petit pire premier second vieux vrai ;
+
+!!! TAG PATTERNS
+n: a_nom.gen.nbr;
+adj: a_adj.gen.nbr;
+np: a_nom.gen.nbr;
+det_: a_det.gen.nbr;
+det: (always 1(det_)[nbr=(if (1.nbr = sp) sp else 1.nbr),
+                     gen=(if ((1.gen = mf) and (1.nbr = sg)) m else 1.gen)]);
+
+vb_impers: a_verb.temps;
+vb_pers: a_verb.temps.pers.nbr;
+temps_impers = inf ger ;
+vblex: (if (1.temps in temps_impers) 1(vb_impers) else 1(vb_pers));
+
+cnjcoo: _;
+num: _.gen.nbr;
+adv: a_adv;
+
+temps > temps : pih pii, prh pri, past ifi, cip cni ;
+
+ANT: _; ! treat as ant<SN><sg>
+ANT -> np.ant { 1 } | ANT np.ant { 1 _ 2 } ;
+
+AP: _.gen.nbr;
+AP -> %adj { !(if (1.grau_adj/sl = sup) [ le@det.def.[$gen].[$nbr] _ ])
+             !(if (1.grau_adj/sl not = "") [ plus@preadv _ ])
+             %1 } |
+      %vblex.pp { %1(adj) } |
+	  %AP ha@cnjcoo AP { %1 _ 2 _ %3 } ;
+
+NA: _.gen.nbr;
+NA -> %n.$lem/sl [$nbr=(if (1.nbr/tl not = sp) 1.nbr/tl
+                        if (1.nbr/sl not = sp) 1.nbr/sl
+						else sg)]
+				 { %1 } |
+	  %NA AP { %1 _ %2 } ;
+
+NP: _.gen.nbr;
+NP -> %NA { 1 } |
+      %NP NA { %1 _ (if (2.lem incl substances) en@pr else de@pr) _ 2 } |
+      %NP np.al { %1 _ 2 } |
+      %NP np.loc { %1 _ de@pr _ 2 } |
+      %NP np.top { %1 _ de@pr _
+                   (if (2.lem/tl in npm)
+                       [ le@det.def.m.sg _ ]
+                    if (2.lem/tl in nppl)
+                       [ le@det.def.mf.pl _ ])
+                   2 } |
+	  num a@pr %[meses]@NA { %1 _ %3 } ;
+
+DP: _.pers.gen.nbr;
+prnpos_lemmas = "e hini" "o hini" "ma hini" "da hini" "he hini" "ho hini" "hon hini" ;
+prn_pos_f = "le mien" "le tien" "le sien" ;
+DP -> det %NP [$pers=p3] { %1 _ %2 } |
+   	  [prnpos_lemmas]@prn.pos %NP
+	       { *(det)[a_det="det.pos",nbr=sg,
+		            gen=(if (1.lem/tl incl prn_pos_f) f else mf),
+					lem=(if (1.lem/tl equalcl "le mien") mon
+					     if (1.lem/tl equalcl "le tien") ton
+						 if (1.lem/tl equalcl "le sien") son
+						 if (1.lem/tl equalcl "le nôtre") notre
+						 if (1.lem/tl equalcl "le vôtre") votre
+						 if (1.lem/tl equalcl "le leur") leur)]
+			  _ paire@n.f.sg _ de@pr _ %2 } |
+	   %NP DP { le@det.def.[$gen].[$nbr] _ %1 _ de@pr _ 2 } |
+	   det %NP DP { %1 _ %2 _ de@pr _ 3 } |
+	   det %NP det.dem { %3 _ %2 } ;
+
+V: _.pers.nbr.temps;
+V -> %vblex { %1 } ;
+
+blah: _;
+blah -> vpart { } ;
