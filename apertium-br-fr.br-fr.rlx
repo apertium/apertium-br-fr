@@ -1,6 +1,8 @@
 DELIMITERS            = sent ".";
 SOFT-DELIMITERS       = "<,>" ;
 
+SUBREADINGS = LTR;
+
 LIST BOS              = (>>>) (sent);
 LIST EOS              = (<<<) (sent);
 
@@ -620,7 +622,7 @@ SELECT CS IF (1C ("ne"ri adv));
 SELECT CS IF (0 ("nemet"ri)) (1 VerbFin); # check this, perhaps too loose
 
 #lavaret em eus dezhañ tremen
-REMOVE Prep IF (1 EOS);
+REMOVE Prep IF ((1 EOS) link 0 (not 1C Toponim));
 
 #Bevañ a ra e Mali 
 REMOVE DetPos IF (0 Prep) (0 DetPos) (1 NP) (NOT 1 SoftMutCons LINK 0 SoftMut);
@@ -947,3 +949,9 @@ MAP (@X) TARGET VerbFin (NOT 0 (+direct));
 SUBSTITUTE (cnjsub @+FMAINV) (cnjsub) (cnjsub);
 SUBSTITUTE (cnjadv @+FMAINV) (cnjadv) (cnjadv);
 SUBSTITUTE (adv @+FMAINV) (adv) (adv);
+
+SECTION
+
+SELECT NC IF (-1 Det);
+SELECT PrnInd IF (1 DetDef);
+SELECT Prep IF (1C Num);
