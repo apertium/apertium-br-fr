@@ -22,7 +22,7 @@ nbr_sense_sp = sg pl ND ;
 nbr_sp = sp ;
 temps_fin = cip cni fti ifi imp pii pis pri prs prh pih past ;
 temps = [temps_fin] pp ger inf ;
-neg = NEG ;
+neg = neg ;
 syn_label = @X @←SUBJ @SUBJ→ @\+FMAINV @-FMAINV ;
 
 !!! LEMMA LISTS
@@ -114,6 +114,7 @@ AP -> %adj { (if (1.grau_adj/sl = sup) [ %*(le) _ ])
 			   lemcase=(if (1.grau_adj/sl = "") $lemcase else aa)]
 		   } |
       %vblex.pp { %1(adj)[lemcase=$lemcase] } |
+	  %bezañ@vblex.pp vblex.pp { %1(adj)[lemcase=$lemcase] _ %2(adj) } |
 	  %AP ha@cnjcoo AP [$lem=adj_cnj_adj] { %1[lemcase=$lemcase] _ 2 _ %3 } ;
 
 NA: _.gen.nbr;
@@ -207,7 +208,7 @@ DP -> Det %NP [$pers=p3,$nbr=(if (1.nbr = pl) pl else 2.nbr)]
 	   Det %TOP [$definite=def] { %1[lemcase=$lemcase] _ 2 } ;
 	   !det %NP [demonstrativo_lemmas]@adv { ce@det.def.[$gen].[$nbr] _ %2 } ;
 
-prn_swap = nous vous toi ;
+!prn_swap = nous vous toi ;
 indirect_prn: (if ((1.lem equalcl "il") and (1.gen = f))
                   lui(prn)[tipus_prn=pro,pers=p3,gen=mf,nbr=sg,lemcase=1.lemcase]
 			   if (1.lem equalcl "toi")
@@ -215,53 +216,157 @@ indirect_prn: (if ((1.lem equalcl "il") and (1.gen = f))
 			   if (1.lem equalcl "eux")
 			      1(prn)[lem=leur,tipus_prn=pro,gen=mf]
 			   else 1(prn));
+pclt: tags;
+dir_pronoun: (if (1.obj_prn = o1sg)
+                 me(pclt)[lemcase=1.lemcase,tags="prn.pro.p1.mf.sg"]
+			  if (1.obj_prn = o1pl)
+			     nous(pclt)[lemcase=1.lemcase,tags="prn.pro.p1.mf.pl"]
+			  if (1.obj_prn = o2sg)
+			     te(pclt)[lemcase=1.lemcase,tags="prn.pro.p2.mf.sg"]
+			  if (1.obj_prn = o2pl)
+			     vous(pclt)[lemcase=1.lemcase,tags="prn.pro.p2.mf.pl"]
+			  if (1.obj_prn = o3sgm)
+			     le(pclt)[lemcase=1.lemcase,tags="prn.pro.p3.m.sg"]
+			  if (1.obj_prn = o3sgf)
+			     le(pclt)[lemcase=1.lemcase,tags="prn.pro.p3.f.sg"]
+			  else le(pclt)[lemcase=1.lemcase,tags="prn.pro.p3.mf.pl"]);
+ind_pronoun_pro: (if (1.ind_prn = i1sg)
+                     moi(pclt)[lemcase=1.lemcase,tags="prn.tn.p1.mf.sg"]
+				  if (1.ind_prn = i1pl)
+				     nous(pclt)[lemcase=1.lemcase,tags="prn.pro.p1.mf.pl"]
+			  	  if (1.ind_prn = i2sg)
+			         te(pclt)[lemcase=1.lemcase,tags="prn.pro.p2.mf.sg"]
+			      if (1.ind_prn = i2pl)
+			         vous(pclt)[lemcase=1.lemcase,tags="prn.pro.p2.mf.pl"]
+			      if (1.ind_prn = i3sgm)
+			         lui(pclt)[lemcase=1.lemcase,tags="prn.pro.p3.mf.sg"]
+			      if (1.ind_prn = i3sgf)
+			         lui(pclt)[lemcase=1.lemcase,tags="prn.pro.p3.mf.sg"]
+			      else leur(pclt)[lemcase=1.lemcase,tags="prn.pro.p3.mf.pl"]);
+ind_pronoun_enc: (if (1.ind_prn = i1sg)
+                     moi(pclt)[lemcase=1.lemcase,tags="prn.tn.p1.mf.sg"]
+				  if (1.ind_prn = i1pl)
+				     nous(pclt)[lemcase=1.lemcase,tags="prn.pro.p1.mf.pl"]
+			  	  if (1.ind_prn = i2sg)
+			         toi(pclt)[lemcase=1.lemcase,tags="prn.tn.p2.mf.sg"]
+			      if (1.ind_prn = i2pl)
+			         vous(pclt)[lemcase=1.lemcase,tags="prn.pro.p2.mf.pl"]
+			      if (1.ind_prn = i3sgm)
+			         lui(pclt)[lemcase=1.lemcase,tags="prn.pro.p3.mf.sg"]
+			      if (1.ind_prn = i3sgf)
+			         il(pclt)[lemcase=1.lemcase,tags="prn.tn.p3.f.sg"]
+			      else eux(pclt)[lemcase=1.lemcase,tags="prn.tn.p3.m.pl"]);
+ind_to_subj: (if (1.ind_prn = i1sg)
+                 moi(pclt)[lemcase=1.lemcase,tags="prn.tn.p1.mf.sg"]
+		      if (1.ind_prn = i1pl)
+			     nous(pclt)[lemcase=1.lemcase,tags="prn.pro.p1.mf.pl"]
+		  	  if (1.ind_prn = i2sg)
+		         tu(pclt)[lemcase=1.lemcase,tags="prn.tn.p2.mf.sg"]
+		      if (1.ind_prn = i2pl)
+		         vous(pclt)[lemcase=1.lemcase,tags="prn.pro.p2.mf.pl"]
+		      if (1.ind_prn = i3sgm)
+		         il(pclt)[lemcase=1.lemcase,tags="prn.tn.p3.m.sg"]
+		      if (1.ind_prn = i3sgf)
+		         il(pclt)[lemcase=1.lemcase,tags="prn.tn.p3.f.sg"]
+		      else il(pclt)[lemcase=1.lemcase,tags="prn.tn.p3.m.pl"]);
 
-V: _.pers.nbr.temps.gen;
-V -> %vblex.$lem/sl { (if ($lemh equalcl 1.lemh/sl) %1[lemcase=$lemcase]
-                       else %1[lemh=$lemh,lemq=$lemq,lemcase=$lemcase]) } |
-     %V adv { %1[lemcase=$lemcase,lem=$lem] _ 2 } |
-	 o@vpart.ger %V [$lemcase=1.lemcase/sl] { en(pr)[lemcase=$lemcase] _ train@n.m.sg _ de@pr _ %2 } |
-	 AP.vblex.pp %kaout@vblex { %2[lemcase=$lemcase] _ %1[lemcase=aa] } |
-	 V.*.inf a@vpart %ober@vblex { %1[lemcase=$lemcase] } |
-	 %V direct@prn { 2[lemcase=$lemcase] _ %1[lemcase=aa] } |
-	 %V da@pr indirect@prn
-	 	 { 3(indirect_prn)[lemcase=$lemcase] _ %1[lemcase=aa] } |
-	 2: %V direct@prn da@pr indirect@prn
-	     { (if (((2.pers = p2) or ((2.pers = p1) and (2.nbr = pl)))
-		        and (4.lem/tl not equalcl "le"))
-		       [ 2[lemcase=$lemcase] _ %1[lemcase=aa] _ 3 _ 4 ]
-			if ((2.lem equalcl "le") and (4.lem incl prn_swap))
-			   [ 4(indirect_prn)[lemcase=$lemcase] _ 2 _ %1[lemcase=aa] ]
-			else
-			   [ 2[lemcase=$lemcase] _ 4(indirect_prn) _ %1[lemcase=aa] ])
-		 } |
+obj_prn = o1sg o1pl o2sg o2pl o3sgm o3sgf o3pl;
+ind_prn = i1sg i1pl i2sg i2pl i3sgm i3sgf i3pl;
+prn_alone = o2sg o2pl o1pl;
+prn_swap = o3sgm o3sgf o3pl i1pl i2sg i2pl;
+
+V: _.temps.pers.nbr.gen.obj_prn.ind_prn;
+V -> %vblex.$lem/sl {
+          (if (($obj_prn in prn_swap) and ($ind_prn in prn_swap))
+		      [ %*(ind_pronoun_pro)[lemcase=$lemcase] _
+			    %*(dir_pronoun)[lemcase=aa] _ ]
+		   else
+		      [ (if ($obj_prn not = "") [ %*(dir_pronoun)[lemcase=$lemcase] _ ])
+			    (if (($obj_prn not in prn_alone) and ($ind_prn not = ""))
+				    [ %*(ind_pronoun_pro)[lemcase=(if ($obj_prn = "") $lemcase
+					                               else aa)]
+		              _ ]) ])
+          (if ($lemh equalcl 1.lemh/sl)
+		      %1[lemcase=(if (($obj_prn = "") and ($ind_prn = "")) $lemcase
+			              else aa)]
+           else %1[lemh=$lemh,lemq=$lemq,
+		           lemcase=(if (($obj_prn = "") and ($ind_prn = "")) $lemcase
+			                else aa)])
+		  (if (($ind_prn not = "") and ($obj_prn in prn_alone))
+		      [ _ à@pr _ %*(ind_pronoun_enc)[lemcase=aa] ])
+     } |
+	 10: adv.neg %V ket@adv { 1[lemcase=$lemcase] _ %2[lem=$lem] _ 3 } |
+	 adv.neg %V { 1[lemcase=$lemcase] _ %2 } |
+	 %V adv { %1[lemcase=$lemcase,lem=$lem] _ 2 } |
+	 o@vpart.ger.$lemcase/sl %V.inf
+          { en(pr)[lemcase=$lemcase] _ train@n.m.sg _ de@pr _ %2 } |
+	 AP.vblex.pp %kaout@V
+	      { %2[lemcase=$lemcase,
+	           ind_prn=(if ($obj_prn in prn_alone) "" else $ind_prn)]
+		    _ %1[lemcase=aa]
+			(if (($obj_prn in prn_alone) and ($ind_prn not = ""))
+			    [ _ à@pr _  %*(ind_pronoun_enc)[lemcase=aa] ])
+		   } |
+	 V.inf a@vpart %ober@vblex { %1[lemcase=$lemcase] } |
 	 ret@adj %bezañ@vblex [$lem=falloir] { %falloir(vblex)[a_verb=vbmod] } |
-	 %vbloc V.*.inf { %1(vblex)[lemcase=$lemcase] _ 2 } ;
+	 %vbloc V.*.inf { %1(vblex)[lemcase=$lemcase,obj_prn="",ind_prn=""] _
+	                  2[obj_prn=$obj_prn,ind_prn=$ind_prn] } |
+	 e@vpart.obj %V [$lemcase=1.lemcase/sl] { %2 } |
+	 %bezañ@V AP.vblex.pp.$lem { %1[lemcase=$lemcase,lem=avoir] _ 2 } |
+	 V.inf %bezañ@vbloc { 2(vblex)[lemcase=$lemcase] _
+	                      1[lemcase=aa,obj_prn=$obj_prn,ind_prn=$ind_prn] } |
+	 %"mont a ober"@V da@pr V.inf
+	       { %1[lemcase=$lemcase,obj_prn="",ind_prn=""] _
+		     3[obj_prn=(if (3.obj_prn not = "") 3.obj_prn else $obj_prn),
+			   ind_prn=(if (3.ind_prn not = "") 3.ind_prn else $ind_prn)] } |
+	 30: bezañ@vblex.pp %bezañ@vblex o@vpart V.inf
+	      { %2[lemcase=$lemcase,obj_prn="",ind_prn=""] _
+		    aller@vblex.pp.m.sg _
+		    4[obj_prn=(if (4.obj_prn not = "") 4.obj_prn else $obj_prn),
+			  ind_prn=(if (4.ind_prn not = "") 4.ind_prn else $ind_prn)] } |
+	 %V direct@prn [$obj_prn=(if (2.pers = p1)
+	                             (if (2.nbr = sg) o1sg else o1pl)
+							  if (2.pers = p2)
+							     (if (2.nbr = sg) o2sg else o2pl)
+							  if (2.nbr = pl) o3pl
+							  if (2.gen = f) o3sgf
+							  else o3sgm)]
+	         { %1[lemcase=$lemcase] } |
+	 %V da@pr indirect@prn [$ind_prn=(if (3.pers = p1)
+	                                     (if (3.nbr = sg) i1sg else i1pl)
+							          if (3.pers = p2)
+							             (if (3.nbr = sg) i2sg else i2pl)
+							          if (3.nbr = pl) i3pl
+							          if (3.gen = f) i3sgf
+							          else i3sgm)]
+	         { %1[lemcase=$lemcase] } ;
 
-VP: _.pers.nbr.temps.gen;
-VP -> %V.*.[temps_fin] { %1[lemcase=$lemcase] } |
-   	  V.*.inf %bezañ@vbloc { 2(vblex)[lemcase=$lemcase] _ 1[lemcase=aa] } |
-	  %bezañ@V AP { %1[lem=(if (2.a_adj = "vblex.pp") avoir else 1.lem)] _ 2 } |
-      adv.neg %VP { 1(adv_neg)[lemcase=$lemcase] _ %2 } |
-	  2: bezañ@vblex.pp %bezañ@V o@vpart.ger V.*.inf { %2 _ aller@vblex.pp.m.sg _ 4 } |
-	  %"mont a ober"@V da@pr V.*.inf { %1[lemcase=$lemcase] _ 3 } |
-	  %falloir@V da@pr indirect@prn V.*.inf [$pers=p3,$nbr=sg]
-	       { 1[pers=p3,nbr=sg] _ que@rel.mf.sp _ 3 _ 4[temps=prs,pers=3.pers,nbr=3.nbr] } |
+ind_p1 = i1sg i1pl;
+ind_p2 = i2sg i2pl;
+ind_p3 = i3sgm i3sgf i3pl;
+ind_sg = i1sg i2sg i3sgm i3sgf;
+ind_pl = i1pl i2pl i3pl;
+
+VP: _.temps.pers.nbr.gen;
+VP -> %V { %1[lemcase=$lemcase] } |
+	  %bezañ@V AP.adj { %1 _ 2 } |
+	  %falloir@V.*.[ind_prn] V.inf [$pers=p3,$nbr=sg]
+	       { %1[lemcase=$lemcase,ind_pro=""] _ que@rel.mf.sp _
+		     *(ind_to_subj)[lemcase=aa,ind_prn=1.ind_prn] _
+			 2[temps=prs,pers=(if (1.ind_prn in ind_p1) p1
+			                   if (1.ind_prn in ind_p2) p2
+							   else p3),
+			   nbr=(if (1.ind_prn in ind_sg) sg else pl)] } |
 	  %bezañ@V Det AP.*.sup { %1[nbr=(if ($nbr = sp) sg else $nbr)] _ 3 } |
-	  %V.*.[temps_fin] DP { %1[lemcase=$lemcase] _ 2 } |
 	  poent@n %bezañ@vblex V.*.inf
 	      { %2[lemcase=$lemcase] _ temps@n.m.sp _ de@pr _ 3 } ;
-
-NEG: _.pers.nbr;
-NEG -> adv.neg %bezañ@vbloc ket@adv { 1[lemcase=$lemcase] _ %2(vblex) _ 3 } |
-       adv.neg %V ket@adv { 1[lemcase=$lemcase] _ %2 _ 3 } ;
 
 subj_prn: (if (1.pers = impers)
               (if (1.lemcase not = aa) [ On@prn.pro.ref.p3.mf.sp _ ]
 			   else [ on@prn.pro.ref.p3.mf.sp _ ])
 		   else
 		      [ *(prn)[tipus_prn=tn,pers=1.pers,lemcase=1.lemcase,nbr=1.nbr,
-			           gen=(if ((1.pers = p3) and (1.nbr = sg))
+			           gen=(if (1.pers = p3)
 					           (if (1.gen = f) f else m)
 							else mf),
 					   lem=(if (1.pers = p3) il
@@ -271,18 +376,17 @@ subj_prn: (if (1.pers = impers)
 							else je)] _ ] );
 
 S: _;
-S -> VP { 1(subj_prn) _
+S -> 1: VP.[temps_fin] { 1(subj_prn)
           (if (1.pers = impers) 1[lemcase=aa,pers=p3,nbr=sg]
 		   else 1[lemcase=aa]) } |
 	 DP VP ?(1.pers = 2.pers) { 1 _ 2[gen=1.gen,nbr=1.nbr] } |
+	 VP.*.neg DP { 2[lemcase=$lemcase] _ 1[lemcase=aa] } |
 	 17: DP a@vpart VP { 1 _ (if ((3.pers = p3) and (3.nbr = sg))
 	                         3[pers=1.pers,nbr=1.nbr]
 						  else 3) } |
 	 AP bezañ@V DP { 3[lemcase=Aa] _ 2 _ 1[lemcase=aa,gen=3.gen] } |
-	 NEG DP V.*.inf
-	     { 2[lemcase=$lemcase] _ 1[lemcase=aa] _ 3 } |
-	 NEG VP { 2(subj_prn)[lemcase=$lemcase] _ 1[lemcase=aa] _ 2 } |
-	 NEG { 1(subj_prn)[lemcase=$lemcase] _ 1[lemcase=aa] } |
+	 vbloc DP VP.inf { 2[lemcase=$lemcase] _ 1(vblex)[lemcase=aa,nbr=2.nbr]
+	                   _ 3 } |
 	 S pr ANT { 1 _ 2 _ 3 } ; !@HACK
 
 blah: _;
