@@ -116,7 +116,8 @@ AP -> %adj { (if (1.grau_adj/sl = sup) [ %*(le) _ ])
       %vblex.pp { %1(adj)[lemcase=$lemcase] } |
 	  %bezañ@vblex.pp vblex.pp { %1(adj)[lemcase=$lemcase] _ %2(adj) } |
 	  %AP ha@cnjcoo AP [$lem=adj_cnj_adj] { %1[lemcase=$lemcase] _ 2 _ %3 } |
-	  nemet@pr indirect@prn [$lem=seul,$a_adj=adj,$grau_adj=""] { %seul(adj) } ;
+	  nemet@pr indirect@prn [$lem=seul,$a_adj=adj,$grau_adj=""] { %seul(adj) } |
+	  %AP adv { 2 _ %1 } ;
 
 NA: _.gen.nbr;
 NA -> %n.$lem/sl [$nbr=(if (1.nbr/tl not = sp) 1.nbr/tl
@@ -424,6 +425,8 @@ S -> 1: VP.[temps_fin] { 1(subj_prn)
 	 VP DP VP.inf { 2[lemcase=$lemcase] _ 1[lemcase=aa,nbr=2.nbr] _ 3 } |
 	 DP.p3 "en em"@vpart.ref VP.*.p3
 	    { 1[lemcase=$lemcase] _ se@prn.pro.ref.p3.mf.sp _ 3[nbr=1.nbr] } |
+	 VP.[temps_fin] AP DP
+	    { 3[lemcase=$lemcase] _ 1[lemcase=aa,nbr=3.nbr] _ 2[nbr=3.nbr] } |
 	 S pr ANT { 1 _ 2 _ 3 } ; !@HACK
 
 blah: _;
