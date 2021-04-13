@@ -207,59 +207,38 @@ DP -> Det %NP [$pers=p3,$nbr=(if (1.nbr = pl) pl else 2.nbr)]
 	   		{ (if (1.pers_no_default/tl = "") %1(prn_impers) else %1) } |
 	   Det %TOP [$definite=def] { %1[lemcase=$lemcase] _ 2 } ;
 
-pclt: tags;
-dir_pronoun: (if (1.obj_prn = o1sg)
-                 me(pclt)[lemcase=1.lemcase,tags="prn.pro.p1.mf.sg"]
-			  if (1.obj_prn = o1pl)
-			     nous(pclt)[lemcase=1.lemcase,tags="prn.pro.p1.mf.pl"]
-			  if (1.obj_prn = o2sg)
-			     te(pclt)[lemcase=1.lemcase,tags="prn.pro.p2.mf.sg"]
-			  if (1.obj_prn = o2pl)
-			     vous(pclt)[lemcase=1.lemcase,tags="prn.pro.p2.mf.pl"]
-			  if (1.obj_prn = o3sgm)
-			     le(pclt)[lemcase=1.lemcase,tags="prn.pro.p3.m.sg"]
-			  if (1.obj_prn = o3sgf)
-			     le(pclt)[lemcase=1.lemcase,tags="prn.pro.p3.f.sg"]
-			  else le(pclt)[lemcase=1.lemcase,tags="prn.pro.p3.mf.pl"]);
-ind_pronoun_pro: (if (1.ind_prn = i1sg)
-                     moi(pclt)[lemcase=1.lemcase,tags="prn.tn.p1.mf.sg"]
-				  if (1.ind_prn = i1pl)
-				     nous(pclt)[lemcase=1.lemcase,tags="prn.pro.p1.mf.pl"]
-			  	  if (1.ind_prn = i2sg)
-			         te(pclt)[lemcase=1.lemcase,tags="prn.pro.p2.mf.sg"]
-			      if (1.ind_prn = i2pl)
-			         vous(pclt)[lemcase=1.lemcase,tags="prn.pro.p2.mf.pl"]
-			      if (1.ind_prn = i3sgm)
-			         lui(pclt)[lemcase=1.lemcase,tags="prn.pro.p3.mf.sg"]
-			      if (1.ind_prn = i3sgf)
-			         lui(pclt)[lemcase=1.lemcase,tags="prn.pro.p3.mf.sg"]
-			      else leur(pclt)[lemcase=1.lemcase,tags="prn.pro.p3.mf.pl"]);
-ind_pronoun_enc: (if (1.ind_prn = i1sg)
-                     moi(pclt)[lemcase=1.lemcase,tags="prn.tn.p1.mf.sg"]
-				  if (1.ind_prn = i1pl)
-				     nous(pclt)[lemcase=1.lemcase,tags="prn.pro.p1.mf.pl"]
-			  	  if (1.ind_prn = i2sg)
-			         toi(pclt)[lemcase=1.lemcase,tags="prn.tn.p2.mf.sg"]
-			      if (1.ind_prn = i2pl)
-			         vous(pclt)[lemcase=1.lemcase,tags="prn.pro.p2.mf.pl"]
-			      if (1.ind_prn = i3sgm)
-			         lui(pclt)[lemcase=1.lemcase,tags="prn.pro.p3.mf.sg"]
-			      if (1.ind_prn = i3sgf)
-			         il(pclt)[lemcase=1.lemcase,tags="prn.tn.p3.f.sg"]
-			      else eux(pclt)[lemcase=1.lemcase,tags="prn.tn.p3.m.pl"]);
-ind_to_subj: (if (1.ind_prn = i1sg)
-                 moi(pclt)[lemcase=1.lemcase,tags="prn.tn.p1.mf.sg"]
-		      if (1.ind_prn = i1pl)
-			     nous(pclt)[lemcase=1.lemcase,tags="prn.pro.p1.mf.pl"]
-		  	  if (1.ind_prn = i2sg)
-		         tu(pclt)[lemcase=1.lemcase,tags="prn.tn.p2.mf.sg"]
-		      if (1.ind_prn = i2pl)
-		         vous(pclt)[lemcase=1.lemcase,tags="prn.pro.p2.mf.pl"]
-		      if (1.ind_prn = i3sgm)
-		         il(pclt)[lemcase=1.lemcase,tags="prn.tn.p3.m.sg"]
-		      if (1.ind_prn = i3sgf)
-		         il(pclt)[lemcase=1.lemcase,tags="prn.tn.p3.f.sg"]
-		      else il(pclt)[lemcase=1.lemcase,tags="prn.tn.p3.m.pl"]);
+dir_pronoun: (if (1.obj_prn = o1sg)    me@{1.lemcase}.prn.pro.p1.mf.sg
+			  if (1.obj_prn = o1pl)  nous@{1.lemcase}.prn.pro.p1.mf.pl
+			  if (1.obj_prn = o2sg)    te@{1.lemcase}.prn.pro.p2.mf.sg
+			  if (1.obj_prn = o2pl)  vous@{1.lemcase}.prn.pro.p2.mf.pl
+			  if (1.obj_prn = o3sgm)   le@{1.lemcase}.prn.pro.p3.m.sg
+			  if (1.obj_prn = o3sgf)   le@{1.lemcase}.prn.pro.p3.f.sg
+              else                     le@{1.lemcase}.prn.pro.p3.mf.pl
+             );
+ind_pronoun_pro: (if (1.ind_prn = i1sg)   moi@{1.lemcase}.prn.tn.p1.mf.sg
+				  if (1.ind_prn = i1pl)  nous@{1.lemcase}.prn.pro.p1.mf.pl
+			  	  if (1.ind_prn = i2sg)    te@{1.lemcase}.prn.pro.p2.mf.sg
+			      if (1.ind_prn = i2pl)  vous@{1.lemcase}.prn.pro.p2.mf.pl
+			      if (1.ind_prn = i3sgm)  lui@{1.lemcase}.prn.pro.p3.mf.sg
+			      if (1.ind_prn = i3sgf)  lui@{1.lemcase}.prn.pro.p3.mf.sg
+                  else                   leur@{1.lemcase}.prn.pro.p3.mf.pl
+                 );
+ind_pronoun_enc: (if (1.ind_prn = i1sg)  moi@{1.lemcase}.prn.tn.p1.mf.sg
+				  if (1.ind_prn = i1pl) nous@{1.lemcase}.prn.pro.p1.mf.pl
+			  	  if (1.ind_prn = i2sg)  toi@{1.lemcase}.prn.tn.p2.mf.sg
+			      if (1.ind_prn = i2pl) vous@{1.lemcase}.prn.pro.p2.mf.pl
+			      if (1.ind_prn = i3sgm) lui@{1.lemcase}.prn.pro.p3.mf.sg
+			      if (1.ind_prn = i3sgf)  il@{1.lemcase}.prn.tn.p3.f.sg
+                  else                   eux@{1.lemcase}.prn.tn.p3.m.pl
+                 );
+ind_to_subj: (if (1.ind_prn = i1sg)  moi@{1.lemcase}.prn.tn.p1.mf.sg
+		      if (1.ind_prn = i1pl) nous@{1.lemcase}.prn.pro.p1.mf.pl
+		      if (1.ind_prn = i2sg)   tu@{1.lemcase}.prn.tn.p2.mf.sg
+		      if (1.ind_prn = i2pl) vous@{1.lemcase}.prn.pro.p2.mf.pl
+		      if (1.ind_prn = i3sgm)  il@{1.lemcase}.prn.tn.p3.m.sg
+		      if (1.ind_prn = i3sgf)  il@{1.lemcase}.prn.tn.p3.f.sg
+		      else                    il@{1.lemcase}.prn.tn.p3.m.pl
+		     );
 
 obj_prn = o1sg o1pl o2sg o2pl o3sgm o3sgf o3pl;
 ind_prn = i1sg i1pl i2sg i2pl i3sgm i3sgf i3pl;
@@ -306,7 +285,7 @@ V -> %vblex.$lem/sl
 		     if ($lem equalcl en_train_de)
 		        [ en(pr)[lemcase=$lemcase] _ train@n.m.sg _ de@pr _ ]
 			 if ($lem equalcl aller)
-			    [ aller(pclt)[lemcase=$lemcase,tags="vblex.pp.m.sg"] _ ])
+			    [ aller@{$lemcase}.vblex.pp.m.sg _ ])
 			%2[lemcase=aa] } |
 	 %bezañ@V être@AP.vblex.pp en_train_de@V.inf
 	      { %1[lemcase=$lemcase] _ 3[lem=aller] } |
