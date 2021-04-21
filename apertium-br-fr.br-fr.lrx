@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rules>
+  <!--
+    This rule chooses "energía" as the translation of "power" when it is preceded by "wind".
+    Add your own rules within <rule> here, using the resources below as a guide
+  -->
+
+  <def-seqs>
+    <def-seq n="npf">
+      <or>
+        <match lemma="Afrika" tags="np.*"/>
+        <match lemma="Suafrika" tags="np.*"/>
+        <match lemma="Aljeria" tags="np.*"/>
+        <match lemma="Alamagn" tags="np.*"/>
+        <match lemma="bro-Alamagn" tags="np.*"/>
+        <match lemma="Elzas" tags="np.*"/>
+        <match lemma="Amerika" tags="np.*"/>
+        <match lemma="Andorra" tags="np.*"/>
+        <match lemma="bro-Saoz" tags="np.*"/>
+        <match lemma="Arc’hantina" tags="np.*"/>
+        <match lemma="Azia" tags="np.*"/>
+        <match lemma="Aostralia" tags="np.*"/>
+        <match lemma="Aostria" tags="np.*"/>
+        <match lemma="Aostria-Hungaria" tags="np.*"/>
+        <match lemma="Belgia" tags="np.*"/>
+        <match lemma="Belarus" tags="np.*"/>
+        <match lemma="Bolivia" tags="np.*"/>
+        <match lemma="Breizh" tags="np.*"/>
+        <match lemma="bzh" tags="np.*"/>
+        <match lemma="Breizh-Vihan" tags="np.*"/>
+        <match lemma="Breizh-Izel" tags="np.*"/>
+        <match lemma="Goueled-Breizh" tags="np.*"/>
+        <match lemma="Breizh-Uhel" tags="np.*"/>
+        <match lemma="Gorre-Breizh" tags="np.*"/>
+        <match lemma="Bulgaria" tags="np.*"/>
+        <match lemma="Katalonia" tags="np.*"/>
+        <match lemma="Sina" tags="np.*"/>
+        <match lemma="Kolombia" tags="np.*"/>
+        <match lemma="Korea" tags="np.*"/>
+        <match lemma="Kernev" tags="np.*"/>
+        <match lemma="Kerne" tags="np.*"/>
+        <match lemma="bro-Gernev" tags="np.*"/>
+        <match lemma="bro-Gerne" tags="np.*"/>
+        <match lemma="Korsika" tags="np.*"/>
+        <match lemma="Kroatia" tags="np.*"/>
+        <match lemma="Korsika" tags="np.*"/>
+        <match lemma="Egipt" tags="np.*"/>
+        <match lemma="Spagn" tags="np.*"/>
+        <match lemma="bro-Spagn" tags="np.*"/>
+        <match lemma="Estonia" tags="np.*"/>
+        <match lemma="Europa" tags="np.*"/>
+        <match lemma="Etiopia" tags="np.*"/>
+        <match lemma="Finland" tags="np.*"/>
+        <match lemma="Frañs" tags="np.*"/>
+        <match lemma="bro-C’hall" tags="np.*"/>
+        <match lemma="Galiza" tags="np.*"/>
+        <match lemma="Gres" tags="np.*"/>
+        <match lemma="bro-C’hres" tags="np.*"/>
+        <match lemma="Gwadeloup" tags="np.*"/>
+        <match lemma="Ginea" tags="np.*"/>
+        <match lemma="Gwiana C’hall" tags="np.*"/>
+        <match lemma="Hungaria" tags="np.*"/>
+        <match lemma="India" tags="np.*"/>
+        <match lemma="Indonezia" tags="np.*"/>
+        <match lemma="Iwerzhon" tags="np.*"/>
+        <match lemma="bro-Iwerzhon" tags="np.*"/>
+        <match lemma="Island" tags="np.*"/>
+        <match lemma="Italia" tags="np.*"/>
+        <match lemma="Jordania" tags="np.*"/>
+        <match lemma="Libia" tags="np.*"/>
+        <match lemma="Loren" tags="np.*"/>
+        <match lemma="Malta" tags="np.*"/>
+        <match lemma="Martinik" tags="np.*"/>
+        <match lemma="Norvegia" tags="np.*"/>
+        <match lemma="Zeland-Nevez" tags="np.*"/>
+        <match lemma="Palestina" tags="np.*"/>
+        <match lemma="Polonia" tags="np.*"/>
+        <match lemma="Roumania" tags="np.*"/>
+        <match lemma="Rusia" tags="np.*"/>
+        <match lemma="Serbia" tags="np.*"/>
+        <match lemma="Slovakia" tags="np.*"/>
+        <match lemma="Slovenia" tags="np.*"/>
+        <match lemma="Somalia" tags="np.*"/>
+        <match lemma="Suis" tags="np.*"/>
+        <match lemma="Sveden" tags="np.*"/>
+        <match lemma="Siria" tags="np.*"/>
+        <match lemma="Tanzania" tags="np.*"/>
+        <match lemma="Thailand" tags="np.*"/>
+        <match lemma="Tunizia" tags="np.*"/>
+        <match lemma="Turkia" tags="np.*"/>
+        <match lemma="Ukraina" tags="np.*"/>
+        <match lemma="Unaniezh Europa" tags="np.*"/>
+        <match lemma="Yougoslavia" tags="np.*"/>
+        <match lemma="Zeland" tags="np.*"/>
+        <match lemma="Breizh" tags="np.*"/>
+        <match lemma="Frañs" tags="np.*"/>
+        <match lemma="bro-Saoz" tags="np.*"/>
+        <match lemma="Iwerzhon" tags="np.*"/>
+      </or>
+    </def-seq>
+    <def-seq n="npm">
+      <or>
+        <match lemma="Afghanistan" tags="np.*"/>
+        <match lemma="Aljer" tags="np.*"/>
+        <match lemma="An Atlas" tags="np.*"/>
+        <match lemma="Bangladesh" tags="np.*"/>
+        <match lemma="Brazil" tags="np.*"/>
+        <match lemma="Kameroun" tags="np.*"/>
+        <match lemma="Kanada" tags="np.*"/>
+        <match lemma="Kaokaz" tags="np.*"/>
+        <match lemma="Kaokaz" tags="np.*"/>
+        <match lemma="Chile" tags="np.*"/>
+        <match lemma="Kongo" tags="np.*"/>
+        <match lemma="Danmark" tags="np.*"/>
+        <match lemma="Etna" tags="np.*"/>
+        <match lemma="Gabon" tags="np.*"/>
+        <match lemma="Guatemala" tags="np.*"/>
+        <match lemma="Gujarat" tags="np.*"/>
+        <match lemma="Irak" tags="np.*"/>
+        <match lemma="Iran" tags="np.*"/>
+        <match lemma="Japan" tags="np.*"/>
+        <match lemma="Kenya" tags="np.*"/>
+        <match lemma="Koweit" tags="np.*"/>
+        <match lemma="Kurdistan" tags="np.*"/>
+        <match lemma="Leon" tags="np.*"/>
+        <match lemma="bro-Leon" tags="np.*"/>
+        <match lemma="Bro-Leon" tags="np.*"/>
+        <match lemma="Liban" tags="np.*"/>
+        <match lemma="Luksembourg" tags="np.*"/>
+        <match lemma="Mali" tags="np.*"/>
+        <match lemma="Mec’hiko" tags="np.*"/>
+        <match lemma="Montenegro" tags="np.*"/>
+        <match lemma="Nicaragua" tags="np.*"/>
+        <match lemma="Niger" tags="np.*"/>
+        <match lemma="Nigeria" tags="np.*"/>
+        <match lemma="Nepal" tags="np.*"/>
+        <match lemma="Ouganda" tags="np.*"/>
+        <match lemma="Pakistan" tags="np.*"/>
+        <match lemma="Panamá" tags="np.*"/>
+        <match lemma="Paraguay" tags="np.*"/>
+        <match lemma="Euskadi" tags="np.*"/>
+        <match lemma="Euskal Herria" tags="np.*"/>
+        <match lemma="bro-Gembre" tags="np.*"/>
+        <match lemma="Kembre" tags="np.*"/>
+        <match lemma="Portugal" tags="np.*"/>
+        <match lemma="Perou" tags="np.*"/>
+        <match lemma="Katar" tags="np.*"/>
+        <match lemma="Rouantelezh Unanet" tags="np.*"/>
+        <match lemma="Rwanda" tags="np.*"/>
+        <match lemma="Soudan" tags="np.*"/>
+        <match lemma="Saoudan" tags="np.*"/>
+        <match lemma="Senegal" tags="np.*"/>
+        <match lemma="Stromboli" tags="np.*"/>
+        <match lemma="Tchad" tags="np.*"/>
+        <match lemma="Uruguay" tags="np.*"/>
+        <match lemma="Vatikan" tags="np.*"/>
+        <match lemma="Keoded ar Vatikan" tags="np.*"/>
+        <match lemma="Venezuela" tags="np.*"/>
+        <match lemma="Ecuador" tags="np.*"/>
+        <match lemma="Treger" tags="np.*"/>
+        <match lemma="bro-Dreger" tags="np.*"/>
+        <match lemma="Bro Dreger" tags="np.*"/>
+      </or>
+    </def-seq>
+    <def-seq n="nppl">
+      <or>
+        <match lemma="Azorez" tags="np.*"/>
+        <match lemma="Antilhez" tags="np.*"/>
+        <match lemma="Alpoù" tags="np.*"/>
+        <match lemma="Andoù" tags="np.*"/>
+        <match lemma="Balearez" tags="np.*"/>
+        <match lemma="Kanariez" tags="np.*"/>
+        <match lemma="Aodoù-an-Arvor" tags="np.*"/>
+        <match lemma="Aodoù-an-Hanternoz" tags="np.*"/>
+        <match lemma="Stadoù-Unanet" tags="np.*"/>
+        <match lemma="Filipinez" tags="np.*"/>
+        <match lemma="Pireneoù" tags="np.*"/>
+      </or>
+    </def-seq>
+    <def-seq n="cities_and_islands">
+      <or>
+        <match lemma="Pariz" tags="np.*"/>
+        <match lemma="Roazhon" tags="np.*"/>
+        <match lemma="Berlin" tags="np.*"/>
+        <match lemma="Brest" tags="np.*"/>
+        <match lemma="Groe" tags="np.*"/>
+        <match lemma="Eusa" tags="np.*"/>
+        <match lemma="Kemper" tags="np.*"/>
+      </or>
+    </def-seq>
+  </def-seqs>
+
+  <rule weight="0.1">
+    <match lemma="e" tags="pr">
+      <select lemma="dans"/>
+    </match>
+  </rule>
+  
+  <rule weight="1">
+    <match lemma="e" tags="pr">
+      <select lemma="en"/>
+    </match>
+    <repeat from="0" upto="1">
+      <match tags="det.*"/>
+    </repeat>
+    <seq n="npf"/>
+  </rule>
+
+  <rule weight="1">
+    <match lemma="e" tags="pr">
+      <select lemma="au"/>
+    </match>
+    <repeat from="0" upto="1">
+      <match tags="det.*"/>
+    </repeat>
+    <seq n="npm"/>
+  </rule>
+
+  <rule weight="1">
+    <match lemma="e" tags="pr">
+      <select lemma="aux"/>
+    </match>
+    <repeat from="0" upto="1">
+      <match tags="det.*"/>
+    </repeat>
+    <seq n="nppl"/>
+  </rule>
+
+  <rule weight="1">
+    <match lemma="e" tags="pr">
+      <select lemma="à"/>
+    </match>
+    <repeat from="0" upto="1">
+      <match tags="det.*"/>
+    </repeat>
+    <seq n="cities_and_islands"/>
+  </rule>
+</rules>

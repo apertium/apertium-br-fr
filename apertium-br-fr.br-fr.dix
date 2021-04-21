@@ -738,6 +738,10 @@
     <e><p><l>dre-gichen<s n="pr"/></l><r>par<b/>le<b/>côté<b/>de<s n="pr"/></r></p></e>
     <e c="  0"><p><l>e<s n="pr"/></l><r>dans<s n="pr"/></r></p></e>
     <e slr="1"><p><l>e<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
+    <e r="LR" w="1"><p><l>e<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
+    <e r="LR" w="1"><p><l>e<s n="pr"/></l><r>au<s n="pr"/></r></p></e>
+    <e r="LR" w="1"><p><l>e<s n="pr"/></l><r>aux<s n="pr"/></r></p></e>
+    <e r="LR" w="1"><p><l>e<s n="pr"/></l><r>à<s n="pr"/></r></p></e>
     <e><p><l>e-barzh<s n="pr"/></l><r>à<b/>l’intérieur<b/>de<s n="pr"/></r></p></e>
     <e><p><l>e<b/>bed<s n="pr"/></l><r>dans<b/>le<b/>domaine<b/>de<s n="pr"/></r></p></e>	
     <e><p><l>e<b/>darempred<b/>gant<s n="pr"/></l><r>en<b/>relation<b/>avec<s n="pr"/></r></p></e> 

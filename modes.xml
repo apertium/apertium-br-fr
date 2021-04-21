@@ -311,6 +311,9 @@
 	  <program name="lt-proc -b">
 		<file name="br-fr.autobil.bin"/>
 	  </program>
+      <program name="lrx-proc -m">
+        <file name="br-fr.lrx.bin"/>
+      </program>
 	  <program name="rtx-proc">
 		<file name="br-fr.rtx.bin"/>
 	  </program>

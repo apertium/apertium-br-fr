@@ -12,7 +12,8 @@ TARGETS_COMMON = $(BASENAME).$(LANG2).dix  \
      $(PREFIX1).rlx.bin $(PREFIX1).pre-xfer.t1x.bin \
      $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
      $(PREFIX1).rtx.bin $(PREFIX2).rtx.bin \
-     $(PREFIX1).autoseq.bin $(PREFIX1).revautoseq.bin
+     $(PREFIX1).autoseq.bin $(PREFIX1).revautoseq.bin \
+	 $(PREFIX1).lrx.bin
 
 #     $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin
 
@@ -100,6 +101,9 @@ $(PREFIX1).autoseq.bin: $(BASENAME).$(PREFIX1).lsx
 
 $(PREFIX1).revautoseq.bin: $(BASENAME).$(PREFIX1).lsx
 	lsx-comp rl $< $@
+
+$(PREFIX1).lrx.bin: $(BASENAME).$(PREFIX1).lrx
+	lrx-comp $< $@
 
 #$(PREFIX2).t1x.bin: $(BASENAME).$(PREFIX2).t1x
 #	apertium-validate-transfer $(BASENAME).$(PREFIX2).t1x

@@ -161,14 +161,12 @@ np_add_le = [npm] [nppl] ; ![npf]
 PP: _;
 PP -> pr TOP { (if (2.lem equalcl use_dans) 1[lem=dans,lemcase=$lemcase]
                 if (2.lem incl np_add_le) 1[lem=à,lemcase=$lemcase]
-				if (2.lem incl npf) 1[lem=en,lemcase=$lemcase]
-				else 1[lem=à,lemcase=$lemcase])
+                else 1[lemcase=$lemcase])
 			   (if (2.lem in np_add_le) [ _ 2(le) ])
 			   _ 2 } |
 	  pr Det TOP { (if (3.lem equalcl use_dans) 1[lem=dans,lemcase=$lemcase]
                     if (3.lem incl np_add_le) 1[lem=à,lemcase=$lemcase]
-					if (2.lem incl npf) 1[lem=en,lemcase=$lemcase]
-				    else 1[lem=à,lemcase=$lemcase])
+                    else 1[lemcase=$lemcase])
 				   _ 2[gen=3.gen,nbr=3.nbr] _ 3 } ;
 
 Det: _.a_det.gen.nbr;
