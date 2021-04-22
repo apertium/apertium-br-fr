@@ -90,8 +90,8 @@ $(PREFIX1).t3x.bin: $(BASENAME).$(PREFIX1).t3x
 	apertium-validate-postchunk $(BASENAME).$(PREFIX1).t3x
 	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t3x $@
 
-$(PREFIX1).rtx.bin: $(BASENAME).$(PREFIX1).rtx
-	rtx-comp $< $@
+$(PREFIX1).rtx.bin: $(BASENAME).$(PREFIX1).rtx $(BASENAME).$(PREFIX1).ltx
+	rtx-comp -l $(BASENAME).$(PREFIX1).ltx $< $@
 
 $(PREFIX2).rtx.bin: $(BASENAME).$(PREFIX2).rtx
 	rtx-comp $< $@

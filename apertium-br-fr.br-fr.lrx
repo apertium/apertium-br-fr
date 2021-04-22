@@ -188,12 +188,58 @@
         <match lemma="Kemper" tags="np.*"/>
       </or>
     </def-seq>
+    <def-seq n="menezioù">
+      <or>
+        <match lemma="Alpoù" tags="np.*"/>
+        <match lemma="Pireneoù" tags="np.*"/>
+        <match lemma="Menezioù Roc’hellek" tags="np.*"/>
+        <match lemma="Andoù" tags="np.*"/>
+      </or>
+    </def-seq>
+    <def-seq n="broioùbreizh">
+      <or>
+        <match lemma="bro-Bentevr" tags="np.*"/>
+        <match lemma="bro-Borc’hoed" tags="np.*"/>
+        <match lemma="bro-Dinan" tags="np.*"/>
+        <match lemma="bro-Dreger" tags="np.*"/>
+        <match lemma="bro-Gemper" tags="np.*"/>
+        <match lemma="bro-Gemperle" tags="np.*"/>
+        <match lemma="bro-Gerne" tags="np.*"/>
+        <match lemma="bro-Gernev" tags="np.*"/>
+        <match lemma="bro-Gwened" tags="np.*"/>
+        <match lemma="bro-Leon" tags="np.*"/>
+        <match lemma="bro-Naoned" tags="np.*"/>
+        <match lemma="bro-Oueloù" tags="np.*"/>
+        <match lemma="bro-Pourlet" tags="np.*"/>
+        <match lemma="bro-Roazhon" tags="np.*"/>
+        <match lemma="bro-Sant-Brieg" tags="np.*"/>
+        <match lemma="bro-Sant-Maloù" tags="np.*"/>
+        <match lemma="bro-Vigoudenn" tags="np.*"/>
+        <match lemma="bro-Vrest" tags="np.*"/>
+        <match lemma="bro-Wened" tags="np.*"/>
+        <match lemma="bro-Zol" tags="np.*"/>
+      </or>
+    </def-seq>
   </def-seqs>
 
   <rule weight="0.1">
     <match lemma="e" tags="pr">
       <select lemma="dans"/>
     </match>
+  </rule>
+
+  <rule weight="2">
+    <match lemma="e" tags="pr">
+      <select lemma="dans"/>
+    </match>
+    <repeat from="0" upto="1">
+      <match tags="det.*"/>
+    </repeat>
+    <or>
+      <seq n="menezioù"/>
+      <seq n="broioùbreizh"/>
+      <match contains="bro-" tags="np.*"/>
+    </or>
   </rule>
   
   <rule weight="1">
@@ -208,7 +254,7 @@
 
   <rule weight="1">
     <match lemma="e" tags="pr">
-      <select lemma="au"/>
+      <select lemma="à"/>
     </match>
     <repeat from="0" upto="1">
       <match tags="det.*"/>
@@ -218,7 +264,7 @@
 
   <rule weight="1">
     <match lemma="e" tags="pr">
-      <select lemma="aux"/>
+      <select lemma="à"/>
     </match>
     <repeat from="0" upto="1">
       <match tags="det.*"/>

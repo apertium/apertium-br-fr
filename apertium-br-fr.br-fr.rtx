@@ -43,9 +43,14 @@ advneg = pas jamais ;
 advmod = ac’hub a-walc’h bras espar eston fin kenañ ken-ha-ken klok krak lip mat mik poch rik tre ;
 part_sing = alcool argent beurre bière café chance chanvre chouchenn cire eau farine genêt herbe huile lambig lessive limonade marbre or pain plaisir poivre sel sucre tabac thé vanille viande vin vinaigre travail ;
 nom_indef_paire = botez lunedoù maneg ;
-npf = Afrique "Afrique du Sud" Algérie Allemagne Alsace Amérique Andalousie Andorre Angleterre Arabie Argentine Asie Australie Autriche Autriche-Hongrie Belgique Biscaye Biélorussie Bolivie Bosnie Bretagne Basse-Bretagne Haute-Bretagne Bulgarie Cantabrie Caraïbe Catalogne Chine Colombie Corée Cornouaille Corse Croatie Corse Égypte Espagne Estonie Europe Estrémadure Éthiopie Finlande France Galice Grande-Bretagne Grenade Grèce Guadeloupe Guinée Guyane "Guyane Française" Hollande Hongrie Inde Indonésie Irlande Islande Italie Jamaïque Jordanie Libye Lituanie Lorraine Malte Martinique Navarre Norvège Nouvelle-Zélande Palestine Pennsylvanie Pologne Rioja Roumanie Russie Serbie Slovaquie Slovénie Somalie Suisse Suède Syrie Tanzanie Tchétchénie Thaïlande Tunisie Turquie Ukraine "Union Européenne" Yougoslavie Zélande ;
-npm = Afghanistan Alger Amsterdam Atlantique Atlas Bangladesh Bernabéu Brésil Cameroun Canada Caucase Chili Congo Danemark Elysée Etna Gabon Goëlo Guatemala Gujarat Irak Iran Japon Kenya Koweït Kurdistan Leon Léon Liban Luxembourg Maghreb Mali Mexique Monténégro Nicaragua Niger Nigeria Népal Ouganda Pakistan Panama Panamá Paraguay "Pays Basque" "Pays de Galles" Portugal Pérou Qatar Royaume-Uni Rwanda Soudan Sénégal Stromboli Tchad Uruguay Vatican Venezuela "Viêt nam" Équateur Trégor ;
-nppl = Açores Antilles Alpes Andes Alpes-Maritimes Amériques Asturies Baléares Canaries Côtes-d’Armor Côtes-du-Nord États-Unis "EE.UU." Philippines Pyrénées Pyrénées-Atlantiques USA ;
+npf_le = Afrique "Afrique du Sud" Algérie Allemagne Alsace Amérique Andalousie Andorre Angleterre Arabie Argentine Asie Australie Autriche Autriche-Hongrie Belgique Biscaye Biélorussie Bolivie Bosnie Bretagne Basse-Bretagne Haute-Bretagne Bulgarie Cantabrie Caraïbe Catalogne Chine Colombie Corée Cornouaille Corse Croatie Corse Égypte Espagne Estonie Europe Estrémadure Éthiopie Finlande Galice Grande-Bretagne Grenade Grèce Guadeloupe Guinée Guyane "Guyane Française" Hollande Hongrie Inde Indonésie Irlande Islande Italie Jamaïque Jordanie Libye Lituanie Lorraine Malte Martinique Navarre Norvège Nouvelle-Zélande Palestine Pennsylvanie Pologne Rioja Roumanie Russie Serbie Slovaquie Slovénie Somalie Suisse Suède Syrie Tanzanie Tchétchénie Thaïlande Tunisie Turquie Ukraine "Union Européenne" Yougoslavie Zélande ;
+npf = [npf_le] France ;
+npm_le = Afghanistan Alger Amsterdam Atlantique Atlas Bangladesh Bernabéu Brésil Cameroun Canada Caucase Chili Congo Danemark Elysée Etna Gabon Goëlo Guatemala Gujarat Irak Iran Japon Kenya Koweït Kurdistan Leon Léon Liban Luxembourg Maghreb Mali Mexique Monténégro Nicaragua Niger Nigeria Népal Ouganda Pakistan Panama Panamá Paraguay "Pays Basque" "Pays de Galles" Portugal Pérou Qatar Royaume-Uni Rwanda Soudan Sénégal Stromboli Tchad Uruguay Vatican Venezuela "Viêt nam" Équateur Trégor ;
+npm = [npm_le] ;
+nppl_le = Açores Antilles Alpes Andes Alpes-Maritimes Amériques Asturies Baléares Canaries Côtes-du-Nord États-Unis "EE.UU." Philippines Pyrénées Pyrénées-Atlantiques USA ;
+nppl = [nppl_le] Côtes-d’Armor ;
+np_add_le = [npm_le] [nppl_le] [npf_le] ;
+
 menezioù = Alpoù Pireneoù "Menezioù Roc’hellek" Andoù ;
 broioùbreizh = bro-Bentevr bro-Borc’hoed bro-Dinan bro-Dreger bro-Gemper bro-Gemperle bro-Gerne bro-Gernev bro-Gwened bro-Leon bro-Naoned bro-Oueloù bro-Pourlet bro-Roazhon bro-Sant-Brieg bro-Sant-Maloù bro-Vigoudenn bro-Vrest bro-Wened bro-Zol ;
 adv_colloc_abans = assez très particulièrement ;
@@ -132,18 +137,25 @@ NA -> %n.$lem/sl [$nbr=(if (1.nbr/tl not = sp) 1.nbr/tl
 	               [ %2[lemcase=$lemcase] _ %1[lemcase=aa] ]
 				else [ %1[lemcase=$lemcase] _ %2 ]) } ;
 
-TOP: _.gen.nbr;
-TOP -> np.top [$gen=(if (1.lem/tl incl npm) m
-                     if (1.lem/tl incl npf) f
-			         else mf),
-	           $nbr=(if (1.lem/tl incl nppl) pl
-	                 else sg),
-			   $lem=(if (1.lem/sl incl menezioù) use_dans
-			         if (1.lem/sl incl broioùbreizh) use_dans
-					 else 1.lem/tl)]
-		  { 1(np_top) } ;
+top_base: _.gen.nbr;
+top_base -> np.top [$gen=(if (1.gen/tl not = GD) 1.gen/tl
+                          if (1.lem/tl incl npm) m
+                          if (1.lem/tl incl npf) f
+                          else mf),
+                    $nbr=(if (1.nbr/tl not = ND) 1.nbr/tl
+                          if (1.lem/tl incl nppl) pl
+                          else sg),
+                    $lem=1.lem/tl]
+            { 1(np_top) } ;
 
 definite = (indef indef) def indef ;
+TOP: _.gen.nbr.definite;
+TOP -> "top_ind" 0.1: %top_base [$definite=indef] { 1 } |
+       "top_def" %top_base [$definite=def] { 1(le)[lemcase=$lemcase] _ 1 } |
+       "top_both" %top_base [$definite=def]
+               { (if ($definite = def) [ 1(le)[lemcase=$lemcase] _ ] ) 1 } |
+       Det %TOP { %2[lemcase=$lemcase] } ;
+
 NP: _.gen.nbr.definite;
 NP -> %NA { %1[lemcase=$lemcase] } |
       %NP NA { %1[lemcase=$lemcase] _
@@ -152,22 +164,13 @@ NP -> %NA { %1[lemcase=$lemcase] } |
 			   2 } |
       %NP np.al { %1 _ 2 } |
       %NP np.loc { %1 _ de@pr _ 2 } |
-      %NP TOP [$definite=def]
-	      { %1[lemcase=$lemcase] _ de@pr _ 2(le)[lemcase=aa] _ 2 } |
+      %NP TOP [$definite=def] { %1[lemcase=$lemcase] _ de@pr _ 2[lemcase=aa] } |
 	  num a@pr %[meses]@NA { %1 _ %3 } ;
 
-np_add_le = [npm] [nppl] ; ![npf]
-
 PP: _;
-PP -> pr TOP { (if (2.lem equalcl use_dans) 1[lem=dans,lemcase=$lemcase]
-                if (2.lem incl np_add_le) 1[lem=à,lemcase=$lemcase]
-                else 1[lemcase=$lemcase])
-			   (if (2.lem in np_add_le) [ _ 2(le) ])
-			   _ 2 } |
-	  pr Det TOP { (if (3.lem equalcl use_dans) 1[lem=dans,lemcase=$lemcase]
-                    if (3.lem incl np_add_le) 1[lem=à,lemcase=$lemcase]
-                    else 1[lemcase=$lemcase])
-				   _ 2[gen=3.gen,nbr=3.nbr] _ 3 } ;
+PP -> 5: e@pr TOP
+         { 1[lemcase=$lemcase] _ 2[lemcase=aa,definite=indef] } |
+      pr DP { 1 _ 2[lemcase=aa] } ;
 
 Det: _.a_det.gen.nbr;
 Det -> %det { 1[gen=(if (1.gen/tl = mf) mf
@@ -186,7 +189,8 @@ prn_pos_f = "le mien" "le tien" "le sien" ;
 DP -> Det %NP [$pers=p3,$nbr=(if (1.nbr = pl) pl else 2.nbr)]
    	  	  { %1[lemcase=$lemcase] _ %2 } |
    	  ANT [$pres=p3,$gen=m,$nbr=sg] { 1 } |
-	  TOP [$pres=p3,$gen=m,$nbr=sg] { 1 } |
+	  TOP [$pres=p3,$gen=m,$nbr=sg]
+          { 1[lemcase=$lemcase] } |
 	   %NP DP { %*(le)[lemcase=$lemcase] _ %1[lemcase=aa,definite=def] _ de@pr _ 2[definite=def] } |
 	   num %NP DP { 1 _ %2[definite=def,nbr=1.nbr] _ de@pr _ 3[definite=def] } |
 	   Det %NP DP { %1 _ %2 _ de@pr _ 3 } |
@@ -194,9 +198,11 @@ DP -> Det %NP [$pers=p3,$nbr=(if (1.nbr = pl) pl else 2.nbr)]
 	   Det num.$nbr %NP { %1 _ 2 _ %3 } |
 	   Det AP %NP { %1 _ %2 _ %3 } |
 	   Det predet %NP { %2[lemcase=$lemcase] _ %1[lemcase=2.lemcase] _ %3 } |
+       Det predet %NP [demonstrativo_lemmas]@adv
+            { %2[lemcase=$lemcase] _ %*(ce)[lemcase=2.lemcase] _ %3 } |
 	   num.$nbr eus@pr %DP { 1[gen=(if (3.gen = mf) m else 3.gen)] _ 2 _ 3 } |
 	   Det %NP Det.det.dem { %3 _ %2 } |
-	   Det %NP [demonstrativo_lemmas]@adv { %*(ce)[lemcase=$lemcase] _ %2 } |
+	   10: Det %NP [demonstrativo_lemmas]@adv { %*(ce)[lemcase=$lemcase] _ %2 } |
 	   Det num.$nbr %NP [demonstrativo_lemmas]@adv { %*(ce)[lemcase=$lemcase] _ 2 _ %3 } |
 	   %NP { (if ($definite = def) [ %*(le)[lemcase=$lemcase] _ ])
 	         %1[lemcase=(if ($definite = def) aa else $lemcase)] } |
