@@ -70,10 +70,11 @@ det: (always 1(det_)[nbr=(if (1.nbr = sp) sp else 1.nbr),
 predet: (always 1(det));
 
 vb_impers: a_verb.temps;
-vb_pers: a_verb.temps.pers.nbr;
+vb_pers: a_verb.temps.pers.nbr_sense_sp;
 temps_impers = inf ger ;
 vblex: (if (1.temps in temps_impers) 1(vb_impers)
-        else 1(vb_pers)[nbr=(if (1.nbr = sp) sg else 1.nbr)]);
+        else 1(vb_pers)[nbr_sense_sp=(if (1.nbr = sp) sg else 1.nbr),
+                        pers=(if (1.pers = impers) p3 else 1.pers)]);
 
 cnjcoo: _;
 num: _.gen.nbr;
@@ -195,6 +196,7 @@ DP -> Det %NP [$pers=p3,$nbr=(if (1.nbr = pl) pl else 2.nbr)]
 	   num %NP DP { 1 _ %2[definite=def,nbr=1.nbr] _ de@pr _ 3[definite=def] } |
 	   Det %NP DP { %1 _ %2 _ de@pr _ 3 } |
 	   num.$nbr %NP { 1 _ %2 } |
+       20: num.$nbr pr Det %NP { %1 _ %2 _ %3[nbr=4.nbr] _ 4 } |
 	   Det num.$nbr %NP { %1 _ 2 _ %3 } |
 	   Det AP %NP { %1 _ %2 _ %3 } |
 	   Det predet %NP { %2[lemcase=$lemcase] _ %1[lemcase=2.lemcase] _ %3 } |
@@ -417,3 +419,4 @@ blah -> vpart { } ;
 
 NNNNN: _;
 NNNNN -> S NNNNN { 1 } ; !@HACK
+NNNNN -> DP NNNNN { 1 } ;

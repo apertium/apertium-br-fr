@@ -254,6 +254,13 @@
 
   <rule weight="1">
     <match lemma="e" tags="pr">
+      <select lemma="en"/>
+    </match>
+    <match tags="num.*"/>
+  </rule>
+
+  <rule weight="1">
+    <match lemma="e" tags="pr">
       <select lemma="à"/>
     </match>
     <repeat from="0" upto="1">
@@ -280,5 +287,21 @@
       <match tags="det.*"/>
     </repeat>
     <seq n="cities_and_islands"/>
+  </rule>
+
+  <rule weight="0.1">
+    <match lemma="a" tags="pr">
+      <select lemma="à"/>
+    </match>
+  </rule>
+
+  <rule weight="1">
+    <match lemma="a" tags="pr">
+      <select lemma="de"/>
+    </match>
+    <or>
+      <match lemma="talvoudegezh" tags="n.*"/>
+      <match lemma="kalon" tags="n.*"/>
+    </or>
   </rule>
 </rules>

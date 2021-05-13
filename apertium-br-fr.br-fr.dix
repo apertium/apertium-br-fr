@@ -654,7 +654,8 @@
 	
     <!-- Araogennoù - Prepositions -->
 
-    <e><p><l>a<s n="pr"/></l><r>à<s n="pr"/></r></p></e> 
+    <e><p><l>a<s n="pr"/></l><r>à<s n="pr"/></r></p></e>
+    <e w="1"><p><l>a<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
     <e><p><l>abalamour<s n="pr"/></l><r>à<b/>cause<s n="pr"/></r></p></e>
     <e><p><l>abalamour<b/>da<s n="pr"/></l><r>à<b/>cause<b/>de<s n="pr"/></r></p></e>
     <e><p><l>abaoe<s n="pr"/></l><r>depuis<s n="pr"/></r></p></e>

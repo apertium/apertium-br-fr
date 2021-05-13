@@ -314,7 +314,7 @@
       <program name="lrx-proc -m">
         <file name="br-fr.lrx.bin"/>
       </program>
-	  <program name="rtx-proc">
+	  <program name="rtx-proc -F">
 		<file name="br-fr.rtx.bin"/>
 	  </program>
       <program name="lt-proc $1">
