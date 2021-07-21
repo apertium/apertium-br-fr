@@ -1,0 +1,352 @@
+[09yIHtEVByTH#0] ^Ober/Ober<vblex><inf>$ ^a/a<vpart>$ ^raio/ober<vblex><fti><p3><sg><@+FMAINV>$ ^se/se<prn><dem><mf><sg><@X>$ ^hec’h-unan/direct<prn><ref><p3><f><sg>$
+[/09yIHtEVByTH]
+[0PNTaBiQEvJi#0] ^Dedennus/Dedennus<adj><mf><sp>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^da/da<pr>/da<det><pos><mf><sp>$ ^labour/labour<n><m><sg>$
+[/0PNTaBiQEvJi]
+[0fNrIvS672vh#0] ^Ti/Ti<n><m><sg>$ ^bihan/bihan<adj><mf><sp>$ ^du/du<adj><mf><sp>$
+[/0fNrIvS672vh]
+[0vzqEhzsCmCr#0] ^Al/An<det><def><sp>$ ^levr/levr<n><m><sg>$ ^-mañ/mañ<adv>$ ^a/a<vpart>$ ^brenimp/prenañ<vblex><fti><p1><pl><@+FMAINV>$ ^warc’hoazh/warc’hoazh<adv>$
+[/0vzqEhzsCmCr]
+[10NQVT2CQ2Ep#0] ^an/an<det><def><sp>$ ^trede/trede<adj><mf><sp>/trede<num><ord><mf><sp>$
+[/10NQVT2CQ2Ep]
+[1LroBt9zeeIk#0] ^an/an<det><def><sp>$ ^trede/trede<adj><mf><sp>/trede<num><ord><mf><sp>$ ^hini/hini<adv>/hini<prn><ind><mf><sg>$
+[/1LroBt9zeeIk]
+[1rJHh7n5scg9#0] ^En em/En em<vpart><ref>$ ^walc’hiñ/gwalc’hiñ<vblex><inf>$ ^a/a<vpart>$ ^ran/ober<vblex><pri><p1><sg><@+FMAINV>$
+[/1rJHh7n5scg9]
+[2QbBPGfgpwQr#0] ^Bez'/Bezañ<vblex><inf>$ ^e/e<vpart><obj>$ ^rankan/rankout<vblex><pri><p1><sg><@+FMAINV>$ ^mont/mont<vblex><inf>$ ^bremañ/bremañ<adv>$
+[/2QbBPGfgpwQr]
+[3heuvyBqkFu8#0] ^An/An<det><def><sp>$ ^den/den<n><m><sg>$ ^en em/en em<vpart><ref>$ ^wel/gwelet<vblex><pri><p3><sg><@+FMAINV>/gwelout<vblex><pri><p3><sg><@+FMAINV>$ ^er/e<pr>+an<det><def><sp>$ ^melezour/melezour<n><m><sg>$
+[/3heuvyBqkFu8]
+[4cuqZKd9OKQJ#0] ^Biken/Biken<adv>$ ^ne/ne<adv><neg>$ ^gredfes/krediñ<vblex><cni><p2><sg><@+FMAINV>$ ^pokat/pokat<vblex><inf>$ ^dezhi/da<pr>+indirect<prn><obj><p3><f><sg>$
+[/4cuqZKd9OKQJ]
+[4gLIYfjFE3ZY#0] ^Skuizh/Skuizh<adj><mf><sp>$ ^on/bezañ<vblex><pri><p1><sg><@+FMAINV>$
+[/4gLIYfjFE3ZY]
+[4gfALWtEZZ5r#0] ^a/a<pr>/a<vpart>$ ^wel/gwel<n><m><sg>/gwelet<vblex><pri><p3><sg><@+FMAINV>/gwelout<vblex><pri><p3><sg><@+FMAINV>$ ^d'an holl/d’an holl<adv>$
+[/4gfALWtEZZ5r]
+[4i5Hh4Rlkffc#0] ^Dont war wel/Dont# war wel<vblex><inf>$
+[/4i5Hh4Rlkffc]
+[4u4pyWGltQYx#0] ^Ne/Ne<adv><neg>$ ^red/redek<vblex><pri><p3><sg><@+FMAINV>$ ^ket/ket<adv>$ ^buan/buan<adv>/buan<adj><mf><sp>$ ^ar/an<det><def><sp>$ ^vugale/bugel<n><m><pl>$
+[/4u4pyWGltQYx]
+[4ubusxPo9Brj#0] ^a-benn pemzektez/a-benn pemzektez<adv>$
+[/4ubusxPo9Brj]
+[58Uc_ObbAY09#0] ^bras/bras<adj><mf><sp>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$
+[/58Uc_ObbAY09]
+[5M70_ksP1Cgy#0] ^Trizek/Trizek<num><mf><pl>$ ^sizhunvezh/sizhunvezh<n><f><sg>$ ^e/e<vpart><obj>$ ^oa/bezañ<vblex><pii><p3><sg><@+FMAINV>$ ^padet/padout<vblex><pp>$ ^kendivizoù/kendiviz<n><m><pl>$ ^ar/an<det><def><sp>$ ^prosez/prosez<n><m><sg>$^,/,<cm>$ ^etre/etre<pr>/etre<adj><mf><sp>$ ^C'hwevrer/C’hwevrer<n><m><sp>$ ^ha/ha<cnjcoo>$ ^Mezheven/Mezheven<n><m><sp>$ ^2007/2007<num><mf><pl>$
+[/5M70_ksP1Cgy]
+[5vPc4YrVXh4z#0] ^Rankout/Rankout<vblex><inf>$ ^a/a<vpart>$ ^ran/ober<vblex><pri><p1><sg><@+FMAINV>$ ^en em/en em<vpart><ref>$ ^ginnig/kinnig<vblex><pri><p3><sg><@+FMAINV>$
+[/5vPc4YrVXh4z]
+[64rAqi-Dp7S_#0] ^Ober/Ober<vblex><inf>$ ^a/a<vpart>$ ^raio/ober<vblex><fti><p3><sg><@+FMAINV>$ ^se/se<prn><dem><mf><sg><@X>$ ^e-unan/direct<prn><ref><p3><m><sg>$
+[/64rAqi-Dp7S_]
+[6HQURGv182yq#0] ^ur/un<det><ind><sp>$ ^vezh/mezh<n><f><sg>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$
+[/6HQURGv182yq]
+[6x7ZKF6YWgNL#0] ^hiziv/hiziv<adv>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^yen/yen<adj><mf><sp>$
+[/6x7ZKF6YWgNL]
+[73KmzKyDSX0l#0] ^Ur/Un<det><ind><sp>$ ^prof/prof<n><m><sg>$ ^am eus/kaout<vblex><pri><p1><sg><@+FMAINV>$ ^bet/kaout<vblex><pp>$
+[/73KmzKyDSX0l]
+[7Ge6jTH8EJzJ#0] ^An/An<det><def><sp>$ ^den/den<n><m><sg>$ ^hag/ha<cnjcoo>$ ^a/a<vpart>$ ^zeuy/dont<vblex><fti><p3><sg><@+FMAINV>$ ^fenoz/fenoz<adv>$
+[/7Ge6jTH8EJzJ]
+[7NRETGIgVZk6#0] ^kentañ/kentañ<adj><mf><sp>/kentañ<num><ord><mf><sp>$ ^klevet/klevet<vblex><inf>/klevet<vblex><pp>/klevout<vblex><pp>$
+[/7NRETGIgVZk6]
+[7_5ZQQAdjqla#0] ^an/an<det><def><sp>$ ^emvod/emvod<n><m><sg>$ ^kentañ/kentañ<adj><mf><sp>$
+[/7_5ZQQAdjqla]
+[7dtoqCGwcoSa#0] ^N'/Ne<adv><neg>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^ket/ket<adv>$ ^ret/ret<adj><mf><sp>$ ^deoc'h/da<pr>+indirect<prn><obj><p2><mf><pl>$ ^reiñ/reiñ<vblex><inf>$ ^ho/ho<det><pos><mf><sp>$ ^chomlec'h/chomlec’h<n><m><sg>$
+[/7dtoqCGwcoSa]
+[7otExNOAuK7Z#0] ^an/an<det><def><sp>$ ^hini/hini<adv>/hini<prn><ind><mf><sg>$ ^gentañ/kentañ<adj><mf><sp>/kentañ<num><ord><mf><sp>$
+[/7otExNOAuK7Z]
+[7wb2xqELSXgF#0] ^kentañ/kentañ<adj><mf><sp>/kentañ<num><ord><mf><sp>$ ^gwech/gwech<n><f><sg>$ ^am boa/kaout<vblex><pii><p1><sg><@+FMAINV>$ ^gwelet/gwelet<vblex><pp>/gwelout<vblex><pp>$ ^anezhañ/direct<prn><obj><p3><m><sg>$
+[/7wb2xqELSXgF]
+[8aF5zdplwCxT#0] ^mad/mad<n><m><sg>$ ^an/an<det><def><sp>$ ^holl/holl<adv>/holl<predet><mf><sp>/holl<prn><ind><mf><pl>$
+[/8aF5zdplwCxT]
+[8cpNL1dibdmV#0] ^dilun kentañ/dilun kentañ<adv>$
+[/8cpNL1dibdmV]
+[8d4JRVO2Fx7b#0] ^Ne/Ne<adv><neg>$ ^vin/bezañ<vblex><fti><p1><sg><@+FMAINV>$ ^ket/ket<adv>$ ^evit/evit<pr>$ ^dont/dont<vblex><inf>$
+[/8d4JRVO2Fx7b]
+[8uDD8CtfvNZe#0] ^Hoc'h-unan/Direct<prn><ref><p2><mf><pl>$
+[/8uDD8CtfvNZe]
+[9QyL9mWr8Iil#0] ^Ma-unan/Direct<prn><ref><p1><mf><sg>$
+[/9QyL9mWr8Iil]
+[9oM277rGU1f9#0] ^N'/Ne<adv><neg>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^ket/ket<adv>$ ^dav/dav<adj><mf><sp>$ ^mont/mont<vblex><inf>$ ^ken/ken<pr>/ken<adv>/ken<preadv>$ ^buan/buan<adv>/buan<adj><mf><sp>$
+[/9oM277rGU1f9]
+[BiB8vEnIFLhy#0] ^e/e<pr>/e<n><m><sp>/e<det><pos><m><sp>$ ^Karreg/Karreg<n><f><sg>$ ^an/an<det><def><sp>$ ^tan/tan<n><m><sg>$
+[/BiB8vEnIFLhy]
+[BxBSI0Tn4C-L#0] ^d'an/da<pr>+an<det><def><sp>$ ^trede/trede<num><ord><mf><sp>$
+[/BxBSI0Tn4C-L]
+[Cm2BYxQjssDD#0] ^D'an/Da<pr>+an<det><def><sp>$ ^emgann/emgann<n><m><sg>$ ^ez/e<vpart><obj>$ ^a/mont<vblex><pri><p3><sg><@+FMAINV>/monet<vblex><pri><p3><sg><@+FMAINV>$
+[/Cm2BYxQjssDD]
+[D0rJ4qQ7Nl4Y#0] ^Diskouez/Diskouez<vblex><inf>$ ^a/a<vpart>$ ^rin/ober<vblex><fti><p1><sg><@+FMAINV>$ ^an/an<det><def><sp>$ ^timbr/timbr<n><m><sg>$ ^-se/se<adv>$ ^dit/da<pr>+indirect<prn><obj><p2><mf><sg>$
+[/D0rJ4qQ7Nl4Y]
+[DBVn2mzL-cbq#0] ^Gwechall/Gwezhall<adv>$ ^e/e<vpart><obj>$ ^vezen/bezañ<vblex><pih><p1><sg><@+FMAINV>$ ^o/o<vpart><ger>$ ^pesketa/pesketa<vblex><inf>$ ^e/e<pr>$ ^Loktudi/Loktudi<np><top><sg>$
+[/DBVn2mzL-cbq]
+[D_wNku4f-BMt#0] ^an/an<det><def><sp>$ ^drede/trede<adj><mf><sp>/trede<num><ord><mf><sp>$
+[/D_wNku4f-BMt]
+[EQTlMr8DyWLq#0] ^degouezhet/degouezhout<vblex><pp>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^da eil/da eil<adv>$
+[/EQTlMr8DyWLq]
+[E_FqgBMQI9Bf#0] ^da/da<pr>/da<det><pos><mf><sp>$ ^drede/trede<adj><mf><sp>/trede<num><ord><mf><sp>$
+[/E_FqgBMQI9Bf]
+[EvT3bxxPztAx#0] ^an/an<det><def><sp>$ ^holl/holl<adv>/holl<predet><mf><sp>/holl<prn><ind><mf><pl>$ ^anezho/eus<pr>+indirect<prn><obj><p3><mf><pl>$
+[/EvT3bxxPztAx]
+[FBW9x1Xsnvug#0] ^Er/E<pr>+an<det><def><sp>$ ^Gouarnamant/Gouarnamant<n><m><sg>$
+[/FBW9x1Xsnvug]
+[FdWk7F1l6pew#0] ^an/an<det><def><sp>$ ^eil/eil<adj><mf><sp>/eil<num><ord><mf><sp>$ ^gwech/gwech<n><f><sg>$ ^din/da<pr>+indirect<prn><obj><p1><mf><sg>$ ^gwelet/gwelet<vblex><inf>/gwelet<vblex><pp>/gwelout<vblex><pp>$ ^se/se<prn><dem><mf><sg><@X>$
+[/FdWk7F1l6pew]
+[FsQh5qOCEpSP#0] ^ar/an<det><def><sp>$ ^gentañ/kentañ<adj><mf><sp>/kentañ<num><ord><mf><sp>$
+[/FsQh5qOCEpSP]
+[GG0BA9s6aJgf#0] ^Emaon/Bezañ<vbloc><pri><p1><sg><@+FMAINV>$ ^oc'h/bezañ<vblex><pri><p2><pl><@+FMAINV>$ ^en em/en em<vpart><ref>$ ^walc'hiñ/gwalc’hiñ<vblex><inf>$
+[/GG0BA9s6aJgf]
+[GWYJLOcuKjRc#0] ^ar/an<det><def><sp>$ ^c'hentañ/kentañ<adj><mf><sp>/kentañ<num><ord><mf><sp>$ ^gwech/gwech<n><f><sg>$
+[/GWYJLOcuKjRc]
+[GsD5nMydNoze#0] ^amañ/amañ<adv>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$
+[/GsD5nMydNoze]
+[H-wHo3E2FzkJ#0] ^Ezhomm/Ezhomm<n><m><sg>$ ^am eus/kaout<vblex><pri><p1><sg><@+FMAINV>$ ^koad/koad<n><m><sg>$ ^evit/evit<pr>$ ^ober/ober<vblex><inf>$ ^tan/tan<n><m><sg>$
+[/H-wHo3E2FzkJ]
+[HDFHsZTwhabI#0] ^Er/E<pr>+an<det><def><sp>$ ^sal/sal<n><f><sg>$ ^dour/dour<n><m><sg>$ ^en em/en em<vpart><ref>$ ^walc'han/gwalc’hañ<vblex><pri><p1><sg><@+FMAINV>/gwalc’hiñ<vblex><pri><p1><sg><@+FMAINV>$
+[/HDFHsZTwhabI]
+[HK30neRaKqF3#0] ^Soñjal/Soñjal<vblex><inf>$ ^a/a<vpart>$ ^ran/ober<vblex><pri><p1><sg><@+FMAINV>$ ^enni/e<pr>+indirect<prn><obj><p3><f><sg>$
+[/HK30neRaKqF3]
+[HQ667Q-TfqRo#0] ^Laouen/Laouen<adj><mf><sp>$ ^e/e<vpart><obj>$ ^oa/bezañ<vblex><pii><p3><sg><@+FMAINV>$ ^Katell/Katell<np><ant><f><sg>$
+[/HQ667Q-TfqRo]
+[HsBPNZaNXu0M#0] ^Troc’het/Troc’hañ<vblex><pp>$ ^em eus/kaout<vblex><pri><p1><sg><@+FMAINV>$ ^ma/ma<det><pos><mf><sp>$ ^biz/biz<n><m><sg>$ ^bihan/bihan<adj><mf><sp>$
+[/HsBPNZaNXu0M]
+[HucBoG4aYrLR#0] ^mont/mont<vblex><inf>$ ^an/an<det><def><sp>$ ^holl/holl<adv>/holl<predet><mf><sp>/holl<prn><ind><mf><pl>$ ^er-maez/er-maez<adv>$
+[/HucBoG4aYrLR]
+[IHRPnh-low8Q#0] ^al/an<det><def><sp>$ ^lodenn/lodenn<n><f><sg>$ ^gentañ/kentañ<adj><mf><sp>$
+[/IHRPnh-low8Q]
+[JLF1tAVXYLZc#0] ^D'an/Da<pr>+an<det><def><sp>$ ^emgann/emgann<n><m><sg>$ ^ez/e<vpart><obj>$ ^ez/mont<vblex><pri><p2><sg><@+FMAINV>/monet<vblex><pri><p2><sg><@+FMAINV>$
+[/JLF1tAVXYLZc]
+[Jus6REBU-w5G#0] ^O-unan/Direct<prn><ref><p3><mf><pl>$
+[/Jus6REBU-w5G]
+[KVBnid95MmRb#0] ^a-benn/a-benn<pr>$ ^ur/un<det><ind><sp>$ ^sizhun/sizhun<n><f><sg>$
+[/KVBnid95MmRb]
+[Kd0-k0BPaGsf#0] ^En em/En em<vpart><ref>$ ^walc'hiñ/gwalc’hiñ<vblex><inf>$ ^a/a<vpart>$ ^ran/ober<vblex><pri><p1><sg><@+FMAINV>$
+[/Kd0-k0BPaGsf]
+[KuDRQsup0pVd#0] ^Ti/Ti<n><m><sg>$ ^bihan/bihan<adj><mf><sp>$
+[/KuDRQsup0pVd]
+[Lq9OGE10riLD#0] ^piv/piv<prn><itg><mf><sp>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^ar/an<det><def><sp>$ ^pempvet/pempvet<adj><mf><sp>$^?/?<sent>$
+[/Lq9OGE10riLD]
+[MGU0hkd1VkRF#0] ^Re/Re<adv>/Re<n><m><sg>/Re<prn><ind><mf><pl>$ ^zo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^re/re<adv>/re<n><m><sg>/re<prn><ind><mf><pl>$
+[/MGU0hkd1VkRF]
+[Mw_12qflSBAB#0] ^Eno/Eno<adv>$ ^ez eus/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^tud/den<n><m><pl>$
+[/Mw_12qflSBAB]
+[NVcVoQD1zW-m#0] ^hi/prpers<prn><subj><p3><f><sg><@SUBJ→>$ ^zo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^pempvet/pempvet<adj><mf><sp>$
+[/NVcVoQD1zW-m]
+[NbAXNrs7IWcm#0] ^ar/an<det><def><sp>$ ^pempvet/pempvet<adj><mf><sp>$ ^deiz/deiz<n><m><sg>$
+[/NbAXNrs7IWcm]
+[NpY8ZmiKJPQT#0] ^Ober/Ober<vblex><inf>$ ^a/a<vpart>$ ^rin/ober<vblex><fti><p1><sg><@+FMAINV>$ ^se/se<prn><dem><mf><sg><@X>$ ^ma-unan/direct<prn><ref><p1><mf><sg>$
+[/NpY8ZmiKJPQT]
+[OCdNSbyqAz9A#0] ^kentañ/kentañ<adj><mf><sp>/kentañ<num><ord><mf><sp>$ ^tra/tra<n><m><sg>$ ^zo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^d'/da<pr>$ ^ober/ober<vblex><inf>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^mont kuit/mont# kuit<vblex><inf>$ ^alemañ/alemañ<adv>$
+[/OCdNSbyqAz9A]
+[OG-N__VJjnQ2#0] ^an/an<det><def><sp>$ ^drede/trede<adj><mf><sp>/trede<num><ord><mf><sp>$ ^hini/hini<adv>/hini<prn><ind><mf><sg>$
+[/OG-N__VJjnQ2]
+[Q4KXURkigJK3#0] ^trede/trede<adj><mf><sp>/trede<num><ord><mf><sp>$ ^tra/tra<n><m><sg>$
+[/Q4KXURkigJK3]
+[QP11hB9PeIXp#0] ^an/an<det><def><sp>$ ^eil/eil<adj><mf><sp>/eil<num><ord><mf><sp>$
+[/QP11hB9PeIXp]
+[QXawWKELxL1F#0] ^Da/Da<pr>$ ^Wened/Gwened<np><top><sg>$ ^ez/e<vpart><obj>/e<pr>+da<det><pos><mf><sp>$ ^i/i<n><m><sp>/mont<vblex><fti><p2><sg><@+FMAINV>/monet<vblex><fti><p2><sg><@+FMAINV>/prpers<prn><subj><p3><mf><pl><@X>$
+[/QXawWKELxL1F]
+[Q_aGiAj6FpjK#0] ^Er/E<pr>+an<det><def><sp>$ ^sal/sal<n><f><sg>$ ^dour/dour<n><m><sg>$ ^on/bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^en em/en em<vpart><ref>$ ^walc'het/gwalc’hañ<vblex><pp>/gwalc’hiñ<vblex><pp>$
+[/Q_aGiAj6FpjK]
+[RIdgckfvzzPq#0] ^Barnet/Barn<vblex><pp>$ ^e/e<vpart><obj>$ ^vo/bezañ<vblex><fti><p3><sg><@+FMAINV>$ ^c’hwec’h/c’hwec’h<num><mf><pl>$ ^stourmer/stourmer<n><m><sg>$ ^an/an<det><def><sp>$ ^adunvanidigezh/adunvanidigezh<n><f><sg>$ ^d'ar Yaou/d’ar Yaou<adv>$ ^12/12<num><mf><pl>$ ^a/a<pr>$ ^viz C'hwevrer/miz C’hwevrer<n><m><sp>$ ^e/e<pr>/e<n><m><sp>/e<det><pos><m><sp>$ ^Lez-kastiz/Lez#-kastiz<n><f><sg>$ ^Naoned/Naoned<np><top><sg>$
+[/RIdgckfvzzPq]
+[RS_Mrp2s2xhR#0] ^ar/an<det><def><sp>$ ^c'hentañ/kentañ<adj><mf><sp>/kentañ<num><ord><mf><sp>$ ^a/a<pr>$ ^viz Meurzh/miz Meurzh<n><m><sp>$
+[/RS_Mrp2s2xhR]
+[RUIHXYEd2wAp#0] ^Ar Redadeg/Ar Redadeg<np><al><mf><sg>$ ^a/a<vpart>$ ^zo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^he/he<det><pos><f><sp>$ ^fal/pal<n><f><sg>/pal<n><m><sg>$ ^talvoudekaat/talvoudekaat<vblex><inf>$ ^ar/an<det><def><sp>$ ^yezh/yezh<n><f><sg>$
+[/RUIHXYEd2wAp]
+[RgC1rKezwxt1#0] ^Tri/Tri<num><m><pl>$ ^miz/miz<n><m><sg>$ ^'zo/bezañ<vblex><pri><p3><sg><@+FMAINV>$
+[/RgC1rKezwxt1]
+[S6Voeim7SN0f#0] ^Hon-unan/Direct<prn><ref><p1><mf><pl>$
+[/S6Voeim7SN0f]
+[SG7doC9dwTOp#0] ^Daoust da/Daoust da<pr>$ ^se/se<prn><dem><mf><sg><@X>$
+[/SG7doC9dwTOp]
+[TdNOA7ETYyYR#0] ^Ret/Ret<adj><mf><sp>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^dit/da<pr>+indirect<prn><obj><p2><mf><sg>$ ^chom/chom<vblex><inf>$ ^hep/hep<pr>$ ^dont/dont<vblex><inf>$
+[/TdNOA7ETYyYR]
+[TfplbKDXj4Rq#0] ^Ar/An<det><def><sp>$ ^paotr/paotr<n><m><sg>$ ^a/a<vpart>$ ^welan/gwelet<vblex><pri><p1><sg><@+FMAINV>/gwelout<vblex><pri><p1><sg><@+FMAINV>$ ^a/a<vpart>$ ^zo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^skuizh/skuizh<adj><mf><sp>$
+[/TfplbKDXj4Rq]
+[Twi7ZHkCcpJu#0] ^Ret/Ret<adj><mf><sp>$ ^e/e<vpart><obj>$ ^vefe/bezañ<vblex><cni><p3><sg><@+FMAINV>$ ^deomp/da<pr>+indirect<prn><obj><p1><mf><pl>$ ^en em/en em<vpart><ref>$ ^gavout/kavout<vblex><inf>$
+[/Twi7ZHkCcpJu]
+[URSq7ZPZNHQW#0] ^er/e<pr>+an<det><def><sp>$ ^Menezioù Roc'hellek/Menezioù Roc’hellek<np><top><pl>$
+[/URSq7ZPZNHQW]
+[USc_IB1vDkru#0] ^e brezhoneg/e brezhoneg<adv>$
+[/USc_IB1vDkru]
+[WAAB9zOKR5nS#0] ^Perak/Perak<adv><itg>$ ^en em/en em<vpart><ref>$ ^walc'hez/gwalc’hañ<vblex><pri><p2><sg><@+FMAINV>/gwalc’hiñ<vblex><pri><p2><sg><@+FMAINV>$ ^?/?<sent>$
+[/WAAB9zOKR5nS]
+[W_WcmfCVEtsB#0] ^Poent/Poent<n><m><sg>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^mont/mont<vblex><inf>$
+[/W_WcmfCVEtsB]
+[WggVCKQoYtC4#0] ^Me/Prpers<prn><subj><p1><mf><sg><@X>$ ^en em/en em<vpart><ref>$ ^walc'h/gwalc’hiñ<vblex><pri><p3><sg><@+FMAINV>/gwalc’hañ<vblex><pri><p3><sg><@+FMAINV>$
+[/WggVCKQoYtC4]
+[XQO3qHEW0pQw#0] ^Evit ma/Evit ma<cnjadv>/Evit<pr>+ma<det><pos><mf><sp>$ ^vevo/beviñ<vblex><fti><p3><sg><@+FMAINV>/bevañ<vblex><fti><p3><sg><@+FMAINV>$ ^ar/an<det><def><sp>$ ^yezh/yezh<n><f><sg>$
+[/XQO3qHEW0pQw]
+[YJiYz5WxNJpu#0] ^Evit ar poent/Evit ar poent<adv>$ ^e/e<vpart><obj>$ ^c’heller/gellout<vblex><pri><impers><sp><@+FMAINV>$ ^ober/ober<vblex><inf>$ ^gant/gant<pr>$ ^e/e<n><m><sp>/e<det><pos><m><sp>$ ^ijinadenn/ijinadenn<n><f><sg>$ ^en un/e<pr>+un<det><ind><sp>$ ^dek/dek<num><mf><pl>$ ^yezh/yezh<n><f><sg>$ ^bennak/bennak<adj><mf><sp>$
+[/YJiYz5WxNJpu]
+[Z0-8d66Hx916#0] ^Deuet/Dont<vblex><pp>$ ^e/e<vpart><obj>$ ^oa/bezañ<vblex><pii><p3><sg><@+FMAINV>$ ^an/an<det><def><sp>$ ^holl/holl<adv>/holl<predet><mf><sp>/holl<prn><ind><mf><pl>$
+[/Z0-8d66Hx916]
+[ZMEtYBHHOofF#0] ^an/an<det><def><sp>$ ^trede/trede<adj><mf><sp>/trede<num><ord><mf><sp>$ ^tizh/tizh<n><m><sg>$
+[/ZMEtYBHHOofF]
+[Zk3mHnxg60LK#0] ^tra/tra<n><m><sg>$ ^gentañ/kentañ<adj><mf><sp>$
+[/Zk3mHnxg60LK]
+[_StYJY_mJk-m#0] ^a-benn/a-benn<pr>$ ^miz/miz<n><m><sg>$
+[/_StYJY_mJk-m]
+[_YfzDp4Crn1F#0] ^Goulenn/Goulenn<vblex><inf>/Goulenn<n><m><sg>$ ^a/a<vpart>$ ^reont/ober<vblex><pri><p3><pl><@+FMAINV>$ ^ma/ma<cnjsub>$ ^vo/bezañ<vblex><fti><p3><sg><@+FMAINV>$ ^digoret/digoriñ<vblex><pp>/digeriñ<vblex><pp>$ ^an/an<det><def><sp>$ ^nor/dor<n><f><sg>$
+[/_YfzDp4Crn1F]
+[_bffnV6FZPaw#0] ^er/e<pr>+an<det><def><sp>$ ^C'haokaz/Kaokaz<np><top><sg>$
+[/_bffnV6FZPaw]
+[_gB_39iLIeyV#0] ^Ret/Ret<adj><mf><sp>$ ^e/e<vpart><obj>$ ^vo/bezañ<vblex><fti><p3><sg><@+FMAINV>$ ^dibab/dibab<vblex><inf>/dibab<n><m><sg>$ ^goude-se/goude-se<adv>$
+[/_gB_39iLIeyV]
+[_lo93ccpYqwC#0] ^Gwellañ/Gwell<adj><sint><sup>$ ^ma/ma<cnjsub>$ ^c’hallez/gallout<vblex><pri><p2><sg><@+FMAINV>$
+[/_lo93ccpYqwC]
+[_osW-9zrchHU#0] ^Er bloaz-mañ/Er bloaz-mañ<adv>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^aet/mont<vblex><pp>/monet<vblex><pp>$ ^un/un<det><ind><sp>$ ^tamm/tamm<n><m><sg>$ ^mat/mat<adj><mf><sp>$ ^war-raok/war-raok<adv>$ ^al/an<det><def><sp>$ ^luskad/luskad<n><m><sg>$
+[/_osW-9zrchHU]
+[a4zIr1RzkE1a#0] ^D'ar mare ma/D’ar mare ma<cnjadv>$ ^komzan/komz<vblex><pri><p1><sg><@+FMAINV>$
+[/a4zIr1RzkE1a]
+[aogI35_6qP_R#0] ^N'eus/Ne<adv>+bezañ<vblex><pri><impers><sp>/Ne<adv>+kaout<vblex><pri><p1><pl>$ ^ket/ket<adv>$ ^tu/tu<n><m><sg>$ ^siwazh/siwazh<adv>$
+[/aogI35_6qP_R]
+[asiB4VUIDcgr#0] ^An/An<det><def><sp>$ ^iliz/iliz<n><f><sg>$ ^hag/ha<cnjcoo>$ ^a/a<vpart>$ ^welit/gwelet<vblex><pri><p2><pl><@+FMAINV>/gwelout<vblex><pri><p2><pl><@+FMAINV>$ ^ahont/ahont<adv>$ ^a/a<vpart>$ ^zo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^bras/bras<adj><mf><sp>$
+[/asiB4VUIDcgr]
+[b8f_9RKGVPV5#0] ^an/an<det><def><sp>$ ^trede/trede<adj><mf><sp>/trede<num><ord><mf><sp>$ ^klas/klas<n><m><sg>$
+[/b8f_9RKGVPV5]
+[bE1F-BAvsN8u#0] ^Er/E<pr>+an<det><def><sp>$ ^sal/sal<n><f><sg>$ ^dour/dour<n><m><sg>$ ^en em/en em<vpart><ref>$ ^walc'hen/gwalc’hañ<vblex><pii><p1><sg><@+FMAINV>/gwalc’hiñ<vblex><pii><p1><sg><@+FMAINV>$
+[/bE1F-BAvsN8u]
+[bh-p9G8cG7qo#0] ^hi/prpers<prn><subj><p3><f><sg><@X>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^ar/an<det><def><sp>$ ^bempvet/pempvet<adj><mf><sp>$
+[/bh-p9G8cG7qo]
+[bjwV9A4B8ix_#0] ^piv/piv<prn><itg><mf><sp>$ ^zo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^da/da<pr>/da<det><pos><mf><sp>$ ^bevare/pevare<adv><itg>/pevare<adj><mf><sp>$^?/?<sent>$
+[/bjwV9A4B8ix_]
+[cBj78HFcSw3I#0] ^Chañs/Chañs<n><f><sg>$ ^am eus/kaout<vblex><pri><p1><sg><@+FMAINV>$ ^bet/kaout<vblex><pp>$
+[/cBj78HFcSw3I]
+[clMGrc4chDu4#0] ^Hec'h-unan/Direct<prn><ref><p3><f><sg>$
+[/clMGrc4chDu4]
+[cmCLWYi-5zBv#0] ^Ur/Un<det><ind><sp>$ ^c’hi/ki<n><m><sg>$ ^bihan/bihan<adj><mf><sp>$ ^a/a<vpart>$ ^welan/gwelet<vblex><pri><p1><sg><@+FMAINV>/gwelout<vblex><pri><p1><sg><@+FMAINV>$
+[/cmCLWYi-5zBv]
+[dfHzi6FZW5hV#0] ^er Menez/e<pr>+Ar Menez<np><top><sg>$ ^Bre/Bre<n><m><sg>$
+[/dfHzi6FZW5hV]
+[ecbs2HkRVVOm#0] ^n'eus/ne<adv>+bezañ<vblex><pri><impers><sp>/ne<adv>+kaout<vblex><pri><p1><pl>$ ^bet/bezañ<vblex><pp>/kaout<vblex><pp>$ ^degaset/degas<vblex><pp>$ ^titour/titour<n><m><sg>$ ^nevez/nevez<adj><mf><sp>$ ^ebet/ebet<adv>$
+[/ecbs2HkRVVOm]
+[f-27lhZU2KnP#0] ^Da-unan/Direct<prn><ref><p2><mf><sg>$
+[/f-27lhZU2KnP]
+[f8OdEqaiZFUW#0] ^Pe/Pe<cnjcoo>/Pe<adj><itg><mf><sp>$ ^war/war<pr>$ ^dachenn/tachenn<n><f><sg>$ ^diorren/diorren<vblex><inf>/diorren<n><m><sg>$ ^ar/an<det><def><sp>$ ^yezh/yezh<n><f><sg>$
+[/f8OdEqaiZFUW]
+[g3OivVSG0z5O#0] ^Oc'h/Bezañ<vblex><pri><p2><pl><@+FMAINV>$ ^en em/en em<vpart><ref>$ ^walc'hiñ/gwalc’hiñ<vblex><inf>$ ^e/e<vpart><obj>$ ^oan/bezañ<vblex><pii><p1><sg><@+FMAINV>$
+[/g3OivVSG0z5O]
+[g5AomPBJ7w1O#0] ^ar/an<det><def><sp>$ ^bloaz/bloaz<n><m><sg>$ ^kentañ/kentañ<adj><mf><sp>$
+[/g5AomPBJ7w1O]
+[gAYB1AqWWXUS#0] ^E penn/E penn<pr>$ ^ar/an<det><def><sp>$ ^raktres/raktres<n><m><sg>$ ^emañ/bezañ<vbloc><pri><p3><sg><@+FMAINV>$ ^Nadine/Nadine<np><ant><f><sg>$ ^Thouvenin/*Thouvenin$ ^hag/ha<cnjcoo>$ ^he doa/kaout<vblex><pii><p3><f><sg><@+FMAINV>$ ^graet berzh/ober# berzh<vblex><pp>$ ^e/e<pr>$ ^Lannarstêr/Lannarstêr<np><top><sg>$ ^gant/gant<pr>$ ^raktres/raktres<n><m><sg>$ ^an/an<det><def><sp>$ ^dorioù/dor<n><f><pl>$^./.<sent>$
+[/gAYB1AqWWXUS]
+[gDpnNupqbRYf#0] ^er/e<pr>+an<det><def><sp>$ ^Roc'h Tredudon/Roc'h Tredudon<np><top><sg>$
+[/gDpnNupqbRYf]
+[gEVyrjmOy_ER#0] ^En em/En em<vpart><ref>$ ^walc'het/gwalc’hañ<vblex><pp>/gwalc’hiñ<vblex><pp>$ ^on/bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^er/e<pr>+an<det><def><sp>$ ^sal/sal<n><f><sg>$ ^dour/dour<n><m><sg>$
+[/gEVyrjmOy_ER]
+[gNSjH_n2l1hj#0] ^En em/En em<vpart><ref>$ ^walc'hiñ/gwalc’hiñ<vblex><inf>$ ^a/a<vpart>$ ^rin/ober<vblex><fti><p1><sg><@+FMAINV>$
+[/gNSjH_n2l1hj]
+[h24oH7ZUZU89#0] ^a-benn/a-benn<pr>$ ^3/3<num><mf><pl>$ ^devezh/devezh<n><m><sg>$
+[/h24oH7ZUZU89]
+[hEFjdEBT26mU#0] ^Un/Un<det><ind><sp>$ ^abadenn/abadenn<n><f><sg>$ ^evit/evit<pr>$ ^ar re/ar re<prn><rel><mf><sg>$ ^yaouank/yaouank<adj><mf><sp>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$
+[/hEFjdEBT26mU]
+[hF0dp5Ork0yC#0] ^a-benn/a-benn<pr>$ ^bloaz/bloaz<n><m><sg>$
+[/hF0dp5Ork0yC]
+[hWkvahsGFNXA#0] ^Amañ/Amañ<adv>$ ^emañ/bezañ<vbloc><pri><p3><sg><@+FMAINV>$
+[/hWkvahsGFNXA]
+[hbvEHL3HVMhY#0] ^En em/En em<vpart><ref>$ ^c'houlenn/goulenn<vblex><pri><p3><sg><@+FMAINV>$ ^a/a<vpart>$ ^ran/ober<vblex><pri><p1><sg><@+FMAINV>$
+[/hbvEHL3HVMhY]
+[jN7K86Mr6gmW#0] ^eil/eil<adj><mf><sp>/eil<num><ord><mf><sp>$ ^tra/tra<n><m><sg>$
+[/jN7K86Mr6gmW]
+[jxQ7tDRHZCCO#0] ^ar/an<det><def><sp>$ ^priz/priz<n><m><sg>$ ^kentañ/kentañ<adj><mf><sp>$
+[/jxQ7tDRHZCCO]
+[jyExrg985xGz#0] ^D'an/Da<pr>+an<det><def><sp>$ ^emgann/emgann<n><m><sg>$ ^ez/e<vpart><obj>$ ^an/mont<vblex><pri><p1><sg><@+FMAINV>/monet<vblex><pri><p1><sg><@+FMAINV>$
+[/jyExrg985xGz]
+[k6JMMcRPLY0y#0] ^Savet/Sevel<vblex><tv><tv><tv><pp>$ ^ha/ha<cnjcoo>$ ^renet/ren<vblex><pp>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^al/an<det><def><sp>$ ^lec’hienn/lec’hienn<n><f><sg>$ ^gant/gant<pr>$ ^Philippe/Philippe<np><ant><m><sg>$ ^Argouarc’h/Argouarc’h<np><cog><mf><sg>$
+[/k6JMMcRPLY0y]
+[kcOqA-9XHHwF#0] ^An/An<det><def><sp>$ ^doping/*doping$ ^hag/ha<cnjcoo>$ ^en deus/kaout<vblex><pri><p3><m><sg><@+FMAINV>$ ^breinet/breinañ<vblex><pp>$ ^an/an<det><def><sp>$ ^dro/tro<n><f><sg>$ ^diwezhañ/diwezhañ<adj><mf><sp>$
+[/kcOqA-9XHHwF]
+[keJeAAVFqj6Z#0] ^Da/Da<pr>/Da<det><pos><mf><sp>$ ^dad/tad<n><m><sg>$ ^a/a<vpart>$ ^zo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^bras/bras<adj><mf><sp>$
+[/keJeAAVFqj6Z]
+[keQ7FNk9QYZk#0] ^E-unan/Direct<prn><ref><p3><m><sg>$
+[/keQ7FNk9QYZk]
+[kwZ3uy112g6I#0] ^degouezhet/degouezhout<vblex><pp>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^da/da<pr>/da<det><pos><mf><sp>$ ^drede/trede<adj><mf><sp>/trede<num><ord><mf><sp>$
+[/kwZ3uy112g6I]
+[l6dcW5GoCqSh#0] ^En em/En em<vpart><ref>$ ^walc'het/gwalc’hañ<vblex><pp>/gwalc’hiñ<vblex><pp>$ ^on/bezañ<vblex><pri><p1><sg><@+FMAINV>$
+[/l6dcW5GoCqSh]
+[lQGmkcEQ5CVV#0] ^Ar pezh a/Ar pezh a<prn><rel><mf><sg>$ ^fell/fellout<vblex><pri><p3><sg><@+FMAINV>$ ^deomp/da<pr>+indirect<prn><obj><p1><mf><pl>$ ^ober/ober<vblex><inf>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^liammañ/liammañ<vblex><inf>$ ^anezho/direct<prn><obj><p3><mf><pl>$
+[/lQGmkcEQ5CVV]
+[m6giDZHCoArm#0] ^Gallout/Gallout<vblex><inf>$ ^a/a<vpart>$ ^rin/ober<vblex><fti><p1><sg><@+FMAINV>$ ^ober/ober<vblex><inf>$ ^kement-se/kement-se<prn><dem><mf><sg><@X>$
+[/m6giDZHCoArm]
+[mQaESQ99fHnT#0] ^Arabat/Arabat<pr>/Arabat<adv>/Arab<adj><sint><excl>$ ^debriñ/debriñ<vblex><inf>$ ^ar re/ar re<prn><rel><mf><sg>$ ^a/a<vpart>$ ^zo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^brein/brein<adj><mf><sp>$
+[/mQaESQ99fHnT]
+[nBOx0SVY8NqY#0] ^ar/an<det><def><sp>$ ^c'hentañ/kentañ<adj><mf><sp>/kentañ<num><ord><mf><sp>$
+[/nBOx0SVY8NqY]
+[ngLEhDBKkF-v#0] ^Mont a rin/Mont a ober<vblex><fti><p1><sg><@+FMAINV>$ ^gant/gant<pr>$ ^ar re-se/ar re-se<prn><dem><mf><pl><@X>$
+[/ngLEhDBKkF-v]
+[ns-TEWFgUqc_#0] ^lavaret/lavaret<vblex><inf>/lavaret<vblex><pp>/lavarout<vblex><pp>$ ^un/un<det><ind><sp>$ ^dra/tra<n><m><sg>$ ^bennal/*bennal$ ^d'an holl/d’an holl<adv>$
+[/ns-TEWFgUqc_]
+[oOiKZBHoRpVF#0] ^Emaon/Bezañ<vbloc><pri><p1><sg><@+FMAINV>$ ^o/o<vpart><ger>$ ^vont/mont<vblex><inf>$ ^d'/da<pr>$ ^en em/en em<vpart><ref>$ ^walc'hiñ/gwalc’hiñ<vblex><inf>$
+[/oOiKZBHoRpVF]
+[ofkEQs9YCOFH#0] ^Hiziv/Hiziv<adv>$ ^ez eus/bezañ<vblex><pri><p3><sg><@+FMAINV>$
+[/ofkEQs9YCOFH]
+[pCxfnDvz6qyN#0] ^Rak/Rak<pr>/Rak<cnjsub>/Rak<cnjcoo>$ ^-se/se<adv>$
+[/pCxfnDvz6qyN]
+[pWjY-RAfUiPr#0] ^Er/E<pr>+an<det><def><sp>$ ^stal/stal<n><f><sg>$ ^ez eus/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^traoù/tra<n><m><pl>$ ^marc'had-mat/marc’had-mat<adj><mf><sp>$
+[/pWjY-RAfUiPr]
+[pr4z9HnxwEKq#0] ^Da/Da<pr>$ ^Vreizh/Breizh<np><top><sg>$
+[/pr4z9HnxwEKq]
+[q16p8K4mSrlR#0] ^an/an<det><def><sp>$ ^dro/tro<n><f><sg>$ ^gentañ/kentañ<adj><mf><sp>$
+[/q16p8K4mSrlR]
+[qT_cQnVET1XS#0] ^Pegoulz/Pegoulz<adv><itg>$ ^ez/e<vpart><obj>$ ^po tro da/kaout# tro da<vblex><fti><p2><sg><@+FMAINV>/kaout# tro da<vblex><fti><p2><pl><@+FMAINV>$ ^zont/dont<vblex><inf>$ ^?/?<sent>$
+[/qT_cQnVET1XS]
+[qdM1TffEPpb6#0] ^an/an<det><def><sp>$ ^eil/eil<adj><mf><sp>/eil<num><ord><mf><sp>$ ^gwech/gwech<n><f><sg>$
+[/qdM1TffEPpb6]
+[qgh8QQcGaN_m#0] ^Dec'h/Dec’h<adv>$ ^en doa/kaout<vblex><pii><p3><m><sg><@+FMAINV>$ ^klasket/klask<vblex><pp>$ ^ar/an<det><def><sp>$ ^c'henstrollad/kenstrollad<n><m><sg>$ "^Rusia/Rusia<np><top><sg>$ ^Arall/Arall<adj><ind><mf><sp>$" ^manifestiñ/manifestiñ<vblex><inf>$ ^war/war<pr>$ ^plasenn/plasenn<n><f><sg>$ ^Trioumfalnaia/*Trioumfalnaia$
+[/qgh8QQcGaN_m]
+[qwQ1GgmdJMWK#0] ^Klañv/Klañv<adj><mf><sp>$ ^on/bezañ<vblex><pri><p1><sg><@+FMAINV>$
+[/qwQ1GgmdJMWK]
+[r0Hc1LNypwTf#0] ^Gouzout/Gouzout<vblex><inf>$ ^a/a<vpart>$ ^ran/ober<vblex><pri><p1><sg><@+FMAINV>$ ^an/an<det><def><sp>$ ^tu/tu<n><m><sg>$ ^d'/da<pr>$ ^ober/ober<vblex><inf>$ ^an/an<det><def><sp>$ ^dra/tra<n><m><sg>$ ^-se/se<adv>$
+[/r0Hc1LNypwTf]
+[rOzG-maKrl7X#0] ^degouezhet/degouezhout<vblex><pp>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^da gentañ/da gentañ<adv>/da<pr>+kentañ<adj><mf><sp>$
+[/rOzG-maKrl7X]
+[rUp9RXdc1ZuF#0] ^Ar/An<det><def><sp>$ ^c’hoad/koad<n><m><sg>$ ^e/e<pr>/e<n><m><sp>/e<det><pos><m><sp>$ ^lec’h/lec’h<n><m><sg>$ ^ma/ma<cnjsub>$ ^oamp/bezañ<vblex><pii><p1><pl><@+FMAINV>$ ^o/o<vpart><ger>$ ^vale/bale<vblex><inf>$
+[/rUp9RXdc1ZuF]
+[rVb5L8kztLZv#0] ^Bara/Bara<n><m><sg>$ ^a/a<vpart>$ ^zo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^war/war<pr>$ ^an/an<det><def><sp>$ ^daol/taol<n><f><sg>$
+[/rVb5L8kztLZv]
+[s76c9e5_SJ9x#0] ^D'ar Gwener/D’ar Gwener<adv>$ ^6/6<num><mf><pl>$ ^a/a<pr>$ ^viz Meurzh/miz Meurzh<n><m><sp>$^,/,<cm>$ ^eus/eus<pr>$ ^9 e./9e<num><mf><sg>$ ^da/da<pr>$ ^12 e./12e<num><mf><sg>$ ^hag/ha<cnjcoo>$ ^eus/eus<pr>$ ^1 e./1e<num><mf><sg>$ ^30/30<num><mf><pl>$ ^da/da<pr>$ ^5 e./5e<num><mf><sg>$ ^g.m./g.m.<adv>$^,/,<cm>$ ^ha/ha<cnjcoo>$ ^d'ar Sadorn/d’ar Sadorn<adv>$ ^7/7<num><mf><pl>$ ^a/a<pr>$ ^viz Meurzh/miz Meurzh<n><m><sp>$^,/,<cm>$ ^eus/eus<pr>$ ^9/9<num><mf><pl>$ ^e/e<pr>/e<n><m><sp>/e<det><pos><m><sp>$ ^da/da<pr>$ ^12/12<num><mf><pl>$ ^e/e<pr>/e<n><m><sp>/e<det><pos><m><sp>$^,/,<cm>$ ^e/e<vpart><obj>$ ^vo/bezañ<vblex><fti><p3><sg><@+FMAINV>$ ^dorioù/dor<n><f><pl>$ ^digor/digor<adj><mf><sp>$ ^e/e<pr>/e<n><m><sp>/e<det><pos><m><sp>$ ^skol Diwan/skol# Diwan<n><f><sg>$ ^Gwened/Gwened<np><top><sg>$^./.<sent>$
+[/s76c9e5_SJ9x]
+[sIpk6JtUu7XF#0] ^Buan/Buan<adv>/Buan<adj><mf><sp>$ ^e/e<vpart><obj>$ ^rede/redek<vblex><pii><p3><sg><@+FMAINV>$ ^ar/an<det><def><sp>$ ^vugale/bugel<n><m><pl>$
+[/sIpk6JtUu7XF]
+[sWskqwSOvIln#0] ^Mestr/Mestr<n><m><sg>$ ^an/an<det><def><sp>$ ^ti/ti<n><m><sg>$ ^bihan/bihan<adj><mf><sp>$
+[/sWskqwSOvIln]
+[t3panbI1mnvc#0] ^Baleadennoù/Baleadenn<n><f><pl>$ ^kontet/kontañ<vblex><pp>$ ^hag/ha<cnjcoo>$ ^heñchet/heñchañ<vblex><pp>$ ^er/e<pr>+an<det><def><sp>$ ^c’hoadoù/koad<n><m><pl>$ ^a/a<vpart>$ ^vo/bezañ<vblex><fti><p3><sg><@+FMAINV>$ ^aozet/aozañ<vblex><pp>/aoziñ<vblex><pp>$ ^ivez/ivez<adv>$
+[/t3panbI1mnvc]
+[tBPvaiQjpXgG#0] ^kador/kador<n><f><sg>$ ^goad/koad<n><m><sg>$ ^ar/an<det><def><sp>$ ^vro/bro<n><f><sg>$
+[/tBPvaiQjpXgG]
+[tfTP-SZc0tR1#0] ^ar/an<det><def><sp>$ ^wech/gwech<n><f><sg>$ ^kentañ/kentañ<adj><mf><sp>$
+[/tfTP-SZc0tR1]
+[uClS5LImahcH#0] ^Skuizh/Skuizh<adj><mf><sp>$ ^e/e<vpart><obj>$ ^vi/bezañ<vblex><fti><p2><sg><@+FMAINV>$
+[/uClS5LImahcH]
+[uGFkEK1CnNyW#0] ^Pa/Pa<cnjsub>$ ^zihunan/dihuniñ<vblex><pri><p1><sg><@+FMAINV>$ ^re/re<adv>/re<n><m><sg>/re<prn><ind><mf><pl>$ ^abred/abred<adv>/abred<adj><mf><sp>$ ^ne/ne<adv><neg>$ ^savan/sevel<vblex><pri><p1><sg><@+FMAINV>$ ^ket/ket<adv>$ ^diouzhtu/diouzhtu<adv>$
+[/uGFkEK1CnNyW]
+[uZ4YoNVhvJWs#0] ^Er/E<pr>+an<det><def><sp>$ ^C'huzul/Kuzul<n><m><sg>$ ^Rannvro/Rannvro<n><f><sg>$
+[/uZ4YoNVhvJWs]
+[uqHJeBjgBAtu#0] ^En em/En em<vpart><ref>$ ^gannet/kannañ<vblex><pp>$ ^out/bezañ<vblex><pri><p2><sg><@+FMAINV>$ ^c'hoazh/c’hoazh<adv>$ ^?/?<sent>$
+[/uqHJeBjgBAtu]
+[uxwuZLt-4gOG#0] ^Lavaret/Lavaret<vblex><pp>/Lavarout<vblex><pp>$ ^ez eus/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^dit/da<pr>+indirect<prn><obj><p2><mf><sg>$ ^mont d'ar gêr/mont a ober# d’ar gêr<vblex><inf>/mont a ober# da gaout<vblex><inf>/mont a ober# da vakañsiñ<vblex><inf>$
+[/uxwuZLt-4gOG]
+[uzjb8mKIt9il#0] ^An/An<det><def><sp>$ ^ti/ti<n><m><sg>$ ^du-se/du-se<adv>$
+[/uzjb8mKIt9il]
+[v5KAhI6oAtkB#0] ^un/un<det><ind><sp>$ ^ti/ti<n><m><sg>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$
+[/v5KAhI6oAtkB]
+[vpfsdWPoRTQG#0] ^Kalz re/Kalz re<adv>$ ^hir/hir<adj><mf><sp>$ ^eo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^ar/an<det><def><sp>$ ^film/film<n><m><sg>$
+[/vpfsdWPoRTQG]
+[vzl60VYD778I#0] ^an/an<det><def><sp>$ ^hini/hini<adv>/hini<prn><ind><mf><sg>$ ^kentañ/kentañ<adj><mf><sp>/kentañ<num><ord><mf><sp>$
+[/vzl60VYD778I]
+[wNaTx5ERkzQ_#0] ^N'/Ne<adv><neg>$ ^on/bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^ket/ket<adv>$ ^en em/en em<vpart><ref>$ ^walc'het/gwalc’hañ<vblex><pp>/gwalc’hiñ<vblex><pp>$ ^c'hoazh/c’hoazh<adv>$
+[/wNaTx5ERkzQ_]
+[wbWwXTh9CTUe#0] ^An/An<det><def><sp>$ ^holl/holl<predet><mf><sp>$ ^vediaoù/media<n><m><pl>$ ^a/a<vpart>$ ^lak/lakat<vblex><pri><p3><sg><@+FMAINV>$ ^ar/an<det><def><sp>$ ^gaoz/kaoz<n><f><sg>$ ^war-se/war-se<adv>$
+[/wbWwXTh9CTUe]
+[x7Ex2gj3VzMW#0] ^an/an<det><def><sp>$ ^holl/holl<adv>/holl<predet><mf><sp>/holl<prn><ind><mf><pl>$ ^ac'hanomp/eus<pr>+indirect<prn><obj><p1><mf><pl>$ ^a/a<vpart>$ ^oa/bezañ<vblex><pii><p3><sg><@+FMAINV>$ ^eno/eno<adv>$
+[/x7Ex2gj3VzMW]
+[x7lDltzBGjNX#0] ^kenavo ar c'hentañ/kenavo ar c’hentañ<ij>$
+[/x7lDltzBGjNX]
+[xExQT0NMBtuv#0] ^n'eus/ne<adv>+bezañ<vblex><pri><impers><sp>/ne<adv>+kaout<vblex><pri><p1><pl>$ ^morse/morse<adv>$ ^bet/bezañ<vblex><pp>/kaout<vblex><pp>$ ^kement a/kement a<pr>$ ^dud/den<n><m><pl>$
+[/xExQT0NMBtuv]
+[xnMsAfe7oyMx#0] ^ar/an<det><def><sp>$ ^pevarzekvet/pevarzekvet<adj><mf><sp>$ ^kantved/kantved<n><m><sg>$
+[/xnMsAfe7oyMx]
+[z8FSzz_jq30m#0] ^chas/ki<n><m><pl>$ ^ar/an<det><def><sp>$ ^c’helenner/kelenner<n><m><sg>$ ^Aouregan/Aouregan<np><cog><mf><sg>$ ^a/a<vpart>$ ^oa/bezañ<vblex><pii><p3><sg><@+FMAINV>$ ^bet/bezañ<vblex><pp>$ ^prenet/prenañ<vblex><pp>$ ^er/e<pr>+an<det><def><sp>$ ^C'hastell-Nevez/Kastell-Nevez<np><top><sg>$
+[/z8FSzz_jq30m]
+[z9uuZNd-i-Rk#0] ^Me/Prpers<prn><subj><p1><mf><sg><@SUBJ→>$ ^zo/bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^o/o<vpart><ger>$ ^vont/mont<vblex><inf>$ ^da/da<pr>$ ^zebriñ/debriñ<vblex><inf>$
+[/z9uuZNd-i-Rk]
+[zt6N1fX2A-uv#0] ^a-benn/a-benn<pr>$ ^2/2<num><mf><pl>$ ^vloaz/bloaz<n><m><sg>$
+[/zt6N1fX2A-uv]

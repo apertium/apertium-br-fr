@@ -1,0 +1,910 @@
+[-0UETIyS907K#0] ^Un<det><ind><sp>$ ^kador<n><f><sg>$ ^koad<n><m><sg>$^.<sent>$
+[/-0UETIyS907K]
+[-Gw4BZ7NrKWd#0] ^Karout<vblex><inf>$ ^a<vpart>$ ^ober<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p2><mf><sg>$^.<sent>$
+[/-Gw4BZ7NrKWd]
+[-L6Cy-yVHCuE#0] ^An<det><def><sp>$ ^levr<n><m><pl>$ ^bras<adj><mf><sp>$ ^mañ<adv>$^.<sent>$
+[/-L6Cy-yVHCuE]
+[-fXQi75htCLj#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p2><mf><sg>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/-fXQi75htCLj]
+[-niY0z1bDxx7#0] ^Du<n><m><sp>$ ^du<adj><mf><sp>$^.<sent>$
+[/-niY0z1bDxx7]
+[00KFjAcCnYOM#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><pl>$ ^da<pr>+indirect<prn><obj><p1><mf><pl>$^.<sent>$
+[/00KFjAcCnYOM]
+[079x_hyhXXWd#0] ^Gwelet<vblex><inf>$ ^a<vpart>$ ^ober<vblex><fti><p1><sg><@+FMAINV>$ ^direct<prn><obj><p1><mf><pl>$^.<sent>$
+[/079x_hyhXXWd]
+[08IbAmW44PJe#0] ^Hiziv<adv>$
+[/08IbAmW44PJe]
+[0CUDmRsZv2P2#0] ^An<det><def><sp>$ ^den<n><m><sg>$ ^bras<adj><mf><sp>$^.<sent>$
+[/0CUDmRsZv2P2]
+[0Garskj0CnkB#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><sg>$^.<sent>$
+[/0Garskj0CnkB]
+[0QFEOW9ceJyS#0] ^E<pr>$ ^Berlin<np><top><sg>$
+[/0QFEOW9ceJyS]
+[0VmUw_Sf3NPM#0] ^Da gentañ<adv>+kentañ<adj><mf><sp>$ ^ministr<n><m><sg>$ ^Montenegro<np><top><sg>$
+[/0VmUw_Sf3NPM]
+[0mti1Sf0SEgF#0] ^An<det><def><sp>$ ^abadenn<n><f><pl>$ ^klewelet<adj><mf><sp>$ ^diseurt<adj><mf><sp>$ ^produiñ<vblex><pp>$ ^e brezhoneg<adv>$^.<sent>$
+[/0mti1Sf0SEgF]
+[0ukhHpJVWScs#0] ^Bezañ<vbloc><pri><p3><sg><@+FMAINV>$ ^an<det><def><sp>$ ^bugel<n><m><pl>$ ^o<vpart><ger>$ ^debriñ<vblex><inf>$^.<sent>$
+[/0ukhHpJVWScs]
+[0v824tnmy_28#0] ^An<det><def><sp>$ ^6<num><mf><pl>$ ^a<pr>$ ^miz Mae<n><m><sp>$ ^2009<num><mf><pl>$
+[/0v824tnmy_28]
+[1U1shkBbQ4Hl#0] ^Unan<num><mf><sg>$ ^eus<pr>$ ^an<det><def><sp>$ ^oberer<n><m><pl>$ ^pennañ<adj><mf><sp>$^.<sent>$
+[/1U1shkBbQ4Hl]
+[1WnyKfCuevQS#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p2><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/1WnyKfCuevQS]
+[1Znvz0-Wfft3#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><sg>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/1Znvz0-Wfft3]
+[1lK2vA8oI_dF#0] ^E<pr>$ ^buhez<n><f><sg>$ ^un<det><ind><sp>$ ^yezh<n><f><sg>$
+[/1lK2vA8oI_dF]
+[1v4ZpCq90nGc#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p1><mf><pl>$^.<sent>$
+[/1v4ZpCq90nGc]
+[21aeb9fp0CsP#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p2><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/21aeb9fp0CsP]
+[29mVkbFJxwPt#0] ^Bras<adj><mf><sp>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^ti<n><m><sg>$ ^Herve<np><ant><m><sg>$^.<sent>$
+[/29mVkbFJxwPt]
+[2L8mmI4Vq38B#0] ^E<pr>$ ^Bro-Dreger<np><top><sg>$
+[/2L8mmI4Vq38B]
+[2SQ12DZ8tOIV#0] ^Kevreañ# ouzh<vblex><pri><p1><pl><@+FMAINV>$
+[/2SQ12DZ8tOIV]
+[2ZgVMkY9U_J1#0] ^Skrivadeg<n><f><sg>$ ^e brezhoneg<adv>$ ^e<pr>$ ^Kemper<np><top><sg>$ ^e miz Meurzh<adv>$
+[/2ZgVMkY9U_J1]
+[2eaN3Mb7v8Os#0] ^Pevar<num><m><pl>$ ^bloaz<n><m><sg>$^.<sent>$
+[/2eaN3Mb7v8Os]
+[2plwhEXiTIuI#0] ^Prezidant<n><m><sg>$ ^Kevre<n><m><sg>$ ^Gouren<n><m><sg>$ ^Aodoù-an-Arvor<np><top><sg>$^.<sent>$
+[/2plwhEXiTIuI]
+[2xlkMM7JA95h#0] ^Kastellin<np><top><sg>$^,<cm>$ ^etre<pr>$ ^an<det><def><sp>$ ^30<num><mf><pl>$ ^a<pr>$ ^miz Mae<n><m><sp>$ ^ha<cnjcoo>$ ^an<det><def><sp>$ ^15<num><mf><pl>$ ^a<pr>$ ^miz Even<n><m><sp>$
+[/2xlkMM7JA95h]
+[35axij-BrcJy#0] ^Ne<adv><neg>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^ket<adv>$ ^bezañ<vblex><pp>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/35axij-BrcJy]
+[38N7g6J_NlHN#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p2><mf><sg>$^.<sent>$
+[/38N7g6J_NlHN]
+[3KK_OcFcSB-H#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/3KK_OcFcSB-H]
+[3T7tf3LJTOtv#0] ^Ne<adv><neg>$ ^implijout<vblex><pri><p3><sg><@+FMAINV>$ ^ket<adv>$^.<sent>$
+[/3T7tf3LJTOtv]
+[3YnV7vjgqq-y#0] ^Gwelet<vblex><inf>$ ^a<vpart>$ ^ober<vblex><fti><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><m><sg>$ ^dimerc’her kentañ<adv>$^.<sent>$
+[/3YnV7vjgqq-y]
+[3c-m5IStzD1l#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/3c-m5IStzD1l]
+[3k9fY42vMs3T#0] ^Mestr<n><m><sg>$ ^an<det><def><sp>$ ^ti<n><m><sg>$^.<sent>$
+[/3k9fY42vMs3T]
+[3qrjTzeMZGPD#0] ^Brav<adj><sint><sup>$ ^ti<n><m><sg>$ ^Karaez<np><top><sg>$
+[/3qrjTzeMZGPD]
+[3skw3FZmsU91#0] ^da<pr>+an<det><def><sp>$ ^6<num><mf><pl>$ ^a<pr>$ ^miz Eost<n><m><sp>$
+[/3skw3FZmsU91]
+[437ls5thrIa-#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/437ls5thrIa-]
+[4DR6LrjahQY8#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/4DR6LrjahQY8]
+[4E4nbgTFoQzt#0] ^da<pr>+an<det><def><sp>$ ^c’hwec’h<num><mf><pl>$ ^a<pr>$ ^miz Eost<n><m><sp>$
+[/4E4nbgTFoQzt]
+[4HV57rFqt5zl#0] ^Frañs<np><top><sg>$
+[/4HV57rFqt5zl]
+[4P5KJUZIHzuG#0] ^Bras<adj><mf><sp>$ ^ha<cnjcoo>$ ^speredek<adj><mf><sp>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^an<det><def><sp>$ ^paotr<n><m><sg>$^.<sent>$
+[/4P5KJUZIHzuG]
+[4WrrDHCA91CH#0] ^O<vpart><ger>$ ^kanañ<vblex><inf>$ ^bezañ<vbloc><pri><p3><sg><@+FMAINV>$^.<sent>$
+[/4WrrDHCA91CH]
+[4b9gmwZFDV48#0] ^Dor<n><f><sg>$ ^levraoueg<n><f><sg>$ ^an<det><def><sp>$ ^skolaj<n><m><sg>$^.<sent>$
+[/4b9gmwZFDV48]
+[4vQNAKDq5_0x#0] ^C’hwec’h<num><mf><pl>$ ^den<n><m><sg>$ ^skuizh<adj><mf><sp>$^.<sent>$
+[/4vQNAKDq5_0x]
+[51qdmngyODEx#0] ^Dre ma<cnjsub>$ ^bezañ<vblex><prh><p3><pl><@+FMAINV>$ ^paeañ<vblex><pp>$ ^er skol-veur<adv>$ ^orin<n><m><sg>$^.<sent>$
+[/51qdmngyODEx]
+[56nj-OxNw4Q1#0] ^Mestr<n><m><sg>$ ^an<det><def><sp>$ ^ti<n><m><sg>$ ^du<adj><mf><sp>$^.<sent>$
+[/56nj-OxNw4Q1]
+[591Zo3GR5Unq#0] ^da<pr>+an<det><def><sp>$ ^30<num><mf><pl>$ ^ha<cnjcoo>$ ^31<num><mf><pl>$ ^a<pr>$ ^miz Meurzh<n><m><sp>$ ^2008<num><mf><pl>$
+[/591Zo3GR5Unq]
+[59f25c6vh0BV#0] ^Unan<num><mf><sg>$ ^eus<pr>$ ^grevus<adj><sint><sup>$ ^gwalldaol<n><m><pl>$ ^Iwerzhon<np><top><sg>$
+[/59f25c6vh0BV]
+[5QlKhyPrn8Rk#0] ^Gallout<vblex><inf>$ ^a<vpart>$ ^ober<vblex><pri><p1><sg><@+FMAINV>$ ^ober<vblex><inf>$ ^an<det><def><sp>$ ^tra<n><m><sg>$ ^se<adv>$^.<sent>$
+[/5QlKhyPrn8Rk]
+[5aleur7lE7VE#0] ^O<vpart><ger>$ ^kanañ<vblex><inf>$^.<sent>$
+[/5aleur7lE7VE]
+[5cb9Z_bSQRED#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$^.<sent>$
+[/5cb9Z_bSQRED]
+[5yUJA9X4HJSE#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$^.<sent>$
+[/5yUJA9X4HJSE]
+[65I0VH1krbk0#0] ^Yann<np><ant><m><sg>$ ^a<vpart>$ ^dont<vblex><fti><p3><sg><@+FMAINV>$ ^ha<cnjcoo>$ ^a<vpart>$ ^ober<vblex><fti><p3><sg><@+FMAINV>$ ^un<det><ind><sp>$ ^prezegenn<n><f><sg>$^.<sent>$
+[/65I0VH1krbk0]
+[6I-W6OGXKeaD#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$^.<sent>$
+[/6I-W6OGXKeaD]
+[6LkauUPn9PRs#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$^.<sent>$
+[/6LkauUPn9PRs]
+[6LyDT_42yrbF#0] ^Ne<adv><neg>$ ^kaout<vblex><pri><p1><pl><@+FMAINV>$ ^ket<adv>$ ^kaout<vblex><pp>$ ^kalz a<pr>$ ^tra<n><m><pl>$^.<sent>$
+[/6LyDT_42yrbF]
+[6MZKtFGVmF9s#0] ^Gwelet<vblex><inf>$ ^a<vpart>$ ^ober<vblex><fti><p1><sg><@+FMAINV>$ ^direct<prn><obj><p2><mf><pl>$^.<sent>$
+[/6MZKtFGVmF9s]
+[6TWVWWo5idHk#0] ^E<pr>+an<det><def><sp>$ ^Pireneoù<np><top><pl>$
+[/6TWVWWo5idHk]
+[6jh3xvgsQioa#0] ^Re<prn><ind><mf><pl>$ ^an<det><def><sp>$ ^skipailh<n><m><sg>$^.<sent>$
+[/6jh3xvgsQioa]
+[6oIUrTitujc3#0] ^Sinadur<n><m><sg>$ ^an<det><def><sp>$ ^emglev<n><m><sg>$ ^se<adv>$^.<sent>$
+[/6oIUrTitujc3]
+[6pyteIlsmzc4#0] ^Ne<adv><neg>$ ^garanañ<vblex><pri><p3><sg><@+FMAINV>$ ^ket<adv>$ ^direct<prn><obj><p2><mf><sg>$^.<sent>$
+[/6pyteIlsmzc4]
+[6z1HkyP7noGw#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><pl>$ ^da<pr>+indirect<prn><obj><p1><mf><pl>$^.<sent>$
+[/6z1HkyP7noGw]
+[729nIIHHPMkG#0] ^E<pr>+an<det><def><sp>$ ^Stadoù-Unanet<np><top><pl>$
+[/729nIIHHPMkG]
+[7CT8Km4V9_G3#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/7CT8Km4V9_G3]
+[7aMbl_UYRUDt#0] ^Hiziv<adv>$^,<cm>$ ^pep tra<prn><def><mf><sg>$ ^a<vpart>$ ^cheñch<vblex><pri><p3><sg><@+FMAINV>$ ^fonnus<adv>$
+[/7aMbl_UYRUDt]
+[7avgtCKm4AVo#0] ^Iwerzhoneg<n><m><sg>$^,<cm>$ ^gouezeleg<n><m><sg>$ ^Bro-Skos<np><top><sg>$ ^ha<cnjcoo>$ ^manaveg<n><m><sg>$^.<sent>$
+[/7avgtCKm4AVo]
+[7idRyfa46ocg#0] ^Ti<n><m><sg>$ ^gwenn<adj><mf><sp>$ ^ha<cnjcoo>$ ^du<adj><mf><sp>$^.<sent>$
+[/7idRyfa46ocg]
+[7zKssu54SREw#0] ^Bras<adj><mf><sp>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^an<det><def><sp>$ ^paotr<n><m><sg>$^.<sent>$
+[/7zKssu54SREw]
+[82fzW1l6ro7G#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p2><mf><sg>$^.<sent>$
+[/82fzW1l6ro7G]
+[861sABm9MWON#0] ^An<det><def><sp>$ ^plac’h<n><f><sg>$ ^bihan<adj><mf><sp>$ ^se<adv>$
+[/861sABm9MWON]
+[8CtHHjFvXcHq#0] ^An<det><def><sp>$ ^stad<n><f><sg>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^unan<num><mf><sg>$ ^eus<pr>$ ^stumm<n><m><pl>$ ^aozadur<n><m><sg>$ ^politikel<adj><mf><sp>$ ^un<det><ind><sp>$ ^bro<n><f><sg>$^.<sent>$
+[/8CtHHjFvXcHq]
+[8H0N8Ys4Yl5f#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$^.<sent>$
+[/8H0N8Ys4Yl5f]
+[8Hu__0VuRw7V#0] ^E<pr>+an<det><def><sp>$ ^kegin<n><f><sg>$
+[/8Hu__0VuRw7V]
+[8NdAcpFygkw-#0] ^E<pr>$ ^Pariz<np><top><sg>$
+[/8NdAcpFygkw-]
+[8WjrjLFAZ6gd#0] ^An<det><def><sp>$^.<sent>$
+[/8WjrjLFAZ6gd]
+[90SmRdz_NPUA#0] ^Un<det><ind><sp>$ ^saviad<n><m><sg>$ ^disheñvel<adj><mf><sp>$ ^a-walc’h<adv>$^.<sent>$
+[/90SmRdz_NPUA]
+[98oSlB9TSJzg#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/98oSlB9TSJzg]
+[9JoSxFXBMS02#0] ^E<pr>+an<det><def><sp>$ ^Alpoù<np><top><pl>$
+[/9JoSxFXBMS02]
+[9eI4WgE7ikKk#0] ^An<det><def><sp>$ ^levr<n><m><pl>$ ^istor<n><m><sg>$^.<sent>$
+[/9eI4WgE7ikKk]
+[9f-uRECDAl5z#0] ^Un<det><ind><sp>$^.<sent>$
+[/9f-uRECDAl5z]
+[A2TbCkI9C7cF#0] ^Gant ma<cnjadv>$ ^bezañ<vblex><fti><p3><sg><@+FMAINV>$ ^brav<adj><mf><sp>$ ^an<det><def><sp>$ ^amzer<n><f><sg>$
+[/A2TbCkI9C7cF]
+[A8RM6qXUYxfv#0] ^5000<num><mf><pl>$ ^klik<n><m><sg>$ ^war<pr>$ ^an<det><def><sp>$ ^troer<n><m><sg>$ ^abaoe<adv>$ ^penn-kentañ<n><m><sg>$ ^an<det><def><sp>$ ^miz<n><m><sg>$^.<sent>$
+[/A8RM6qXUYxfv]
+[ABN8mYPo2HSi#0] ^Gouezeleg<n><m><sg>$ ^Bro-Skos<np><top><sg>$ ^ha<cnjcoo>$ ^manaveg<n><m><sg>$^.<sent>$
+[/ABN8mYPo2HSi]
+[AKcPhDQQ4Agz#0] ^Bep<det><ind><mf><sg>$ ^milved<n><m><sg>$^.<sent>$
+[/AKcPhDQQ4Agz]
+[APBrtHBffgNR#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/APBrtHBffgNR]
+[AW2G49a3g3PP#0] ^Emglev<n><m><sg>$ ^gant<pr>$ ^an<det><def><sp>$ ^skol#-m#eur<n><f><sg>$ ^da<pr>+an<det><def><sp>$ ^15<num><mf><pl>$ ^a<pr>$ ^miz Genver<n><m><sp>$
+[/AW2G49a3g3PP]
+[AeipxeGsrmbl#0] ^Ret<adj><mf><sp>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^da<pr>+an<det><def><sp>$ ^den<n><m><pl>$ ^dont<vblex><inf>$^.<sent>$
+[/AeipxeGsrmbl]
+[AmDez9wwd0HX#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/AmDez9wwd0HX]
+[Araa5UVxU8Nx#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$^.<sent>$
+[/Araa5UVxU8Nx]
+[BNFVDxPHv868#0] ^An<det><def><sp>$ ^daou<num><m><pl>$ ^ti<n><m><sg>$ ^mañ<adv>$^.<sent>$
+[/BNFVDxPHv868]
+[BR9whGZ1Tdf1#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/BR9whGZ1Tdf1]
+[BRYDM-W4F7Gx#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/BRYDM-W4F7Gx]
+[BVBIiiipnJRD#0] ^Bras<adj><sint><sup>$^.<sent>$
+[/BVBIiiipnJRD]
+[BtF276NzKXS0#0] ^Ret<adj><mf><sp>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^da<pr>+indirect<prn><obj><p1><mf><pl>$ ^dont<vblex><inf>$^.<sent>$
+[/BtF276NzKXS0]
+[By_BssxWXSdr#0] ^Fonnus<adj><sint><comp>$^,<cm>$ ^berr<adj><sint><comp>$ ^ha<cnjcoo>$ ^efedus<adj><sint><comp>$
+[/By_BssxWXSdr]
+[C-ExpDL-yxQh#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p2><mf><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/C-ExpDL-yxQh]
+[C8uUCkGaXhsh#0] ^E<pr>$ ^Roazhon<np><top><sg>$
+[/C8uUCkGaXhsh]
+[CAcsABiyauGJ#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p2><mf><sg>$^.<sent>$
+[/CAcsABiyauGJ]
+[COJfydAzJ4Cw#0] ^E<pr>$ ^Kanariez<np><top><pl>$
+[/COJfydAzJ4Cw]
+[Cb3Rtuhsq-Zj#0] ^An<det><def><sp>$ ^c’hwec’h<num><mf><pl>$ ^tra<n><m><sg>$ ^se<adv>$^.<sent>$
+[/Cb3Rtuhsq-Zj]
+[CpJjGbExLilw#0] ^Debriñ<vblex><inf>$ ^a<vpart>$ ^ober<vblex><pri><p1><sg><@+FMAINV>$ ^un<det><ind><sp>$ ^aval<n><m><sg>$^.<sent>$
+[/CpJjGbExLilw]
+[D4ehD8rs5zdF#0] ^Klask<vblex><inf>$ ^a<vpart>$ ^ober<vblex><pri><p1><sg><@+FMAINV>$ ^mont# kuit<vblex><inf>$^.<sent>$
+[/D4ehD8rs5zdF]
+[D6P8r0MkOoMp#0] ^Re<prn><ind><mf><pl>$ ^an<det><def><sp>$ ^bro<n><f><sg>$^.<sent>$
+[/D6P8r0MkOoMp]
+[DIPu4s_JLrbh#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/DIPu4s_JLrbh]
+[DKAR45i67Bhx#0] ^Gant<pr>$ ^bugel<n><m><pl>$ ^an<det><def><sp>$ ^ti<n><m><sg>$^.<sent>$
+[/DKAR45i67Bhx]
+[DRS9EaMEpZin#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^c’hoari<vblex><inf>$^.<sent>$
+[/DRS9EaMEpZin]
+[DTEGu54nHOJo#0] ^Unan<num><mf><sg>$ ^eus<pr>$ ^ti<n><m><pl>$ ^brav<adj><sint><sup>$ ^Karaez<np><top><sg>$
+[/DTEGu54nHOJo]
+[DdN9ZPr_G4Xv#0] ^Meur a<det><ind><mf><pl>$ ^miz<n><m><sg>$^.<sent>$
+[/DdN9ZPr_G4Xv]
+[DhePu4UOlEsf#0] ^Pevar<num><m><pl>$ ^den<n><m><sg>$ ^bennak<adj><mf><sp>$^.<sent>$
+[/DhePu4UOlEsf]
+[Dq9uqXQywEmn#0] ^Gant<pr>+ma<det><pos><mf><sp>$ ^tad<n><m><sg>$
+[/Dq9uqXQywEmn]
+[E9eXEguFUvKG#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p1><mf><pl>$^.<sent>$
+[/E9eXEguFUvKG]
+[EEfg3Fbqwfs9#0] ^Kador<n><f><sg>$ ^koad<n><m><sg>$^.<sent>$
+[/EEfg3Fbqwfs9]
+[ENFKeD1U6zVr#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^lavarout<vblex><inf>$ ^da<pr>+indirect<prn><obj><p2><mf><sg>$^.<sent>$
+[/ENFKeD1U6zVr]
+[Eh_3153bY9LY#0] ^Kreñvaat<vblex><inf>$ ^koulz ha<cnjadv>$ ^micherelaat<vblex><inf>$ ^an<det><def><sp>$ ^kelenn<n><m><sg>$ ^brezhoneg<n><m><sg>$
+[/Eh_3153bY9LY]
+[EpRlHhbW86fq#0] ^Tuadur<n><m><sg>$ ^an<det><def><sp>$ ^bloavezh<n><m><pl>$ ^tremen<vblex><pp>$
+[/EpRlHhbW86fq]
+[EprdC8IAtqL2#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/EprdC8IAtqL2]
+[F4Mv4kYx51fx#0] ^Digeriñ<vblex><inf>$ ^un<det><ind><sp>$ ^eil<adj><mf><sp>$ ^lec’h<n><m><sg>$ ^publik<adj><mf><sp>$^.<sent>$
+[/F4Mv4kYx51fx]
+[F7b-Kqv_KVzU#0] ^Klask<vblex><inf>$ ^ober<vblex><inf>$^.<sent>$
+[/F7b-Kqv_KVzU]
+[FQ4UYpdtCMAk#0] ^Ne<adv><neg>$ ^dont<vblex><fti><p3><sg><@+FMAINV>$ ^ket<adv>$ ^Katell<np><ant><f><sg>$ ^da<pr>$ ^komz<vblex><inf>$^.<sent>$
+[/FQ4UYpdtCMAk]
+[FoMtngrO_V-d#0] ^Kumun<n><f><pl>$ ^bras<adj><mf><sp>$ ^an<det><def><sp>$ ^bro<n><f><sg>$^.<sent>$
+[/FoMtngrO_V-d]
+[Fy48MMTRhG61#0] ^Sellout a ober# ouzh<vblex><pri><p3><sg><@+FMAINV>$ ^un<det><ind><sp>$ ^plac’h<n><f><sg>$^.<sent>$
+[/Fy48MMTRhG61]
+[GnnUJfLB4MlI#0] ^Evañ<vblex><pp>$ ^kaout<vblex><pri><p3><f><sg><@+FMAINV>$^.<sent>$
+[/GnnUJfLB4MlI]
+[Gyv5vuJP7yW5#0] ^An<det><def><sp>$ ^den<n><m><sg>$ ^drol<adj><mf><sp>$^.<sent>$
+[/Gyv5vuJP7yW5]
+[GznXiIyhoMYy#0] ^3<num><mf><pl>$ ^levr<n><m><sg>$ ^ouzhpenn<adv>$^.<sent>$
+[/GznXiIyhoMYy]
+[H2qB69Wk09n1#0] ^Ma<cnjsub>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^skuizh<adj><mf><sp>$^.<sent>$
+[/H2qB69Wk09n1]
+[H85sD0h4hkcP#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/H85sD0h4hkcP]
+[HBN9CpQ4EHg6#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$^.<sent>$
+[/HBN9CpQ4EHg6]
+[HERZrCQfQGP4#0] ^E<pr>+Penn-ar-Bed<np><top><sg>$
+[/HERZrCQfQGP4]
+[HTyWVJHdX7VA#0] ^An<det><def><sp>$ ^amzer<n><f><sg>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^brav<adj><mf><sp>$^.<sent>$
+[/HTyWVJHdX7VA]
+[HYyPXtpMj8hq#0] ^An<det><def><sp>$ ^den<n><m><sg>$ ^nemet<pr>+indirect<prn><obj><p3><m><sg>$
+[/HYyPXtpMj8hq]
+[HiuTLGPm8yRm#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p2><mf><sg>$^.<sent>$
+[/HiuTLGPm8yRm]
+[HnwrTFQIIKOj#0] ^Ne<adv><neg>$ ^bezañ<vblex><pri><impers><pl><@+FMAINV>$ ^ket<adv>$ ^mont# war-raok<vblex><pp>$^.<sent>$
+[/HnwrTFQIIKOj]
+[Hpv4BtxlyHrZ#0] ^Ne<adv><neg>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^ket<adv>$ ^roiñ<vblex><pp>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/Hpv4BtxlyHrZ]
+[IcYlB_iOQuGd#0] ^E ti<pr>$ ^e<det><pos><m><sp>$ ^tad<n><m><sg>$
+[/IcYlB_iOQuGd]
+[IlH_adRPcSST#0] ^An<det><def><sp>$ ^levr<n><m><sg>$ ^mañ<adv>$^.<sent>$
+[/IlH_adRPcSST]
+[IlthW6IW_xDr#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p1><mf><pl>$^.<sent>$
+[/IlthW6IW_xDr]
+[IzpgO4bg3q5b#0] ^Poent<n><m><sg>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^da<pr>$ ^Francis<np><ant><m><sg>$ ^debriñ<vblex><inf>$^.<sent>$
+[/IzpgO4bg3q5b]
+[J4-MihxWWc3m#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/J4-MihxWWc3m]
+[J5m5t2lH0yMF#0] ^Prpers<prn><subj><p1><mf><pl><@SUBJ→>$ ^a<vpart>$ ^roiñ<vblex><pri><p3><sg><@+FMAINV>$ ^an<det><def><sp>$ ^laezh<n><m><sg>$ ^da<pr>$ ^Mari<n><m><sg>$^.<sent>$
+[/J5m5t2lH0yMF]
+[J7b0pNsfxqjH#0] ^E<pr>$ ^Filipinez<np><top><pl>$
+[/J7b0pNsfxqjH]
+[JKcret0uwDEM#0] ^Dav<adj><mf><sp>$ ^e<vpart><obj>$ ^bezañ<vblex><cip><p3><sg><@+FMAINV>$^.<sent>$
+[/JKcret0uwDEM]
+[JNKGpbFW7D4l#0] ^Dor<n><f><sg>$ ^melen<adj><mf><sp>$ ^an<det><def><sp>$ ^skolaj<n><m><sg>$^.<sent>$
+[/JNKGpbFW7D4l]
+[JZaAkqDmNq9C#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p2><mf><sg>$^.<sent>$
+[/JZaAkqDmNq9C]
+[JqEgEJC71WpP#0] ^Re<adv>$ ^skipailh<n><m><sg>$ ^an<det><def><sp>$ ^bro<n><f><sg>$^.<sent>$
+[/JqEgEJC71WpP]
+[K2fi6fHMt4mt#0] ^Debriñ<vblex><inf>$ ^a<vpart>$ ^ober<vblex><pri><p1><sg><@+FMAINV>$^.<sent>$
+[/K2fi6fHMt4mt]
+[K3TXVm4ALJM0#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/K3TXVm4ALJM0]
+[K6IqJusH3YM9#0] ^Poent<n><m><sg>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^mont a ober# d’ar gêr<vblex><inf>$^.<sent>$
+[/K6IqJusH3YM9]
+[KMosH9_QY7dD#0] ^Bezañ# o paouez<vbloc><pri><p1><sg><@+FMAINV>$ ^echuiñ<vblex><inf>$ ^ma<det><pos><mf><sp>$ ^levr<n><m><sg>$^.<sent>$
+[/KMosH9_QY7dD]
+[KPuyvE2J_8ye#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><mf><pl>$^.<sent>$
+[/KPuyvE2J_8ye]
+[KUr5AAN4U4Vp#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/KUr5AAN4U4Vp]
+[KV21FYS8a6sp#0] ^Ne<adv><neg>$ ^ober<vblex><pri><p3><sg><@+FMAINV>$ ^ket<adv>$ ^glav<n><m><sg>$^.<sent>$
+[/KV21FYS8a6sp]
+[KeDFNxW4H761#0] ^An<det><def><sp>$ ^ti<n><m><sg>$ ^gwenn<adj><mf><sp>$ ^se<adv>$^.<sent>$
+[/KeDFNxW4H761]
+[KfR8-gSTQTq1#0] ^arzour<n><m><pl>$ ^Breizh<np><top><sg>$^.<sent>$
+[/KfR8-gSTQTq1]
+[KxJfjBbZcVC1#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><pl>$^.<sent>$
+[/KxJfjBbZcVC1]
+[L-UcVSjPQc7h#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/L-UcVSjPQc7h]
+[L5rYIoaZDfVL#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><mf><pl>$^.<sent>$
+[/L5rYIoaZDfVL]
+[L9uyKdIYwYca#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><sg>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/L9uyKdIYwYca]
+[LHPQq3Dec40_#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/LHPQq3Dec40_]
+[LLXSboVKBWMz#0] ^A-raok<adv>$ ^bezañ<vblex><inf>$ ^dont<vblex><pp>$^.<sent>$
+[/LLXSboVKBWMz]
+[LRuhsgaLj2y9#0] ^E<n><m><sp>$ ^dezerzh<n><m><sg>$ ^Gobi<np><top><sg>$
+[/LRuhsgaLj2y9]
+[L_9WHqDVDmAF#0] ^Ret<adj><mf><sp>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$ ^dont<vblex><inf>$^.<sent>$
+[/L_9WHqDVDmAF]
+[La2ss7zbd0pq#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/La2ss7zbd0pq]
+[Ln2__cXEa8sd#0] ^Evañ<vblex><pp>$ ^kaout<vblex><pri><p3><m><sg><@+FMAINV>$^.<sent>$
+[/Ln2__cXEa8sd]
+[M9XUp1B4SnOj#0] ^Dilun<adv>$ ^beure<n><m><sg>$ ^e<vpart><obj>$ ^gwelet<vblex><fti><p1><sg><@+FMAINV>$ ^an<det><def><sp>$ ^maer<n><m><sg>$ ^da<pr>$ ^11<num><mf><pl>$ ^eur<n><f><sg>$^.<sent>$
+[/M9XUp1B4SnOj]
+[MBX9x2T2QvWH#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/MBX9x2T2QvWH]
+[MOrWrD-0zTaI#0] ^An<det><def><sp>$ ^levr<n><m><pl>$ ^mañ<adv>$^.<sent>$
+[/MOrWrD-0zTaI]
+[MigV87gQmx-S#0] ^Un<det><ind><sp>$ ^kazeg<n><f><sg>$ ^bihan<adj><mf><sp>$ ^ha<cnjcoo>$ ^glas<adj><mf><sp>$^.<sent>$
+[/MigV87gQmx-S]
+[N2NftVZ76J0p#0] ^Bezañ<vbloc><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^mont<vblex><inf>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/N2NftVZ76J0p]
+[NB-sDYRop1Rn#0] ^Kador<n><f><sg>$ ^koad<n><m><sg>$ ^Yann<np><ant><m><sg>$^.<sent>$
+[/NB-sDYRop1Rn]
+[NWFTkxbclHYa#0] ^An<det><def><sp>$ ^5<num><mf><pl>$ ^a<pr>$ ^miz Mae<n><m><sp>$
+[/NWFTkxbclHYa]
+[NXCJJxdLVep3#0] ^Ma<cnjsub>$ ^dont<vblex><pri><p2><sg><@+FMAINV>$ ^gant<pr>+indirect<prn><obj><p1><mf><sg>$^.<sent>$
+[/NXCJJxdLVep3]
+[NeZdGNCA5K-X#0] ^Ti<n><m><sg>$ ^mignon<n><f><pl>$ ^ma<det><pos><mf><sp>$ ^c’hoar<n><f><sg>$^.<sent>$
+[/NeZdGNCA5K-X]
+[ODY8pcmhwAgN#0] ^E<pr>$ ^Groe<np><top><sg>$
+[/ODY8pcmhwAgN]
+[OH0swcP47sGY#0] ^Ne<adv><neg>$ ^bezañ<vblex><pri><p3><pl><@+FMAINV>$ ^ket<adv>$ ^mont# war-raok<vblex><pp>$^.<sent>$
+[/OH0swcP47sGY]
+[OLYrr-89bV5Q#0] ^1<num><mf><sg>$ ^levr<n><m><sg>$ ^ouzhpenn<adv>$^.<sent>$
+[/OLYrr-89bV5Q]
+[OZpG--UOCkWK#0] ^An<det><def><sp>$ ^c’hwec’h<num><mf><pl>$^.<sent>$
+[/OZpG--UOCkWK]
+[OanOcPa6vBdy#0] ^Daou<num><f><pl>$ ^gwech<n><f><sg>$ ^bras<adj><sint><comp>$
+[/OanOcPa6vBdy]
+[Oggrb3NPJECv#0] ^Ne<adv><neg>$ ^bezañ<vbloc><pri><p3><sg><@+FMAINV>$ ^ket<adv>$ ^an<det><def><sp>$ ^bugel<n><m><pl>$ ^o<vpart><ger>$ ^debriñ<vblex><inf>$^.<sent>$
+[/Oggrb3NPJECv]
+[P9EhRBzahodK#0] ^A-raok<adv>$ ^mont# kuit<vblex><inf>$^.<sent>$
+[/P9EhRBzahodK]
+[PK6o-RlHoiVq#0] ^Ober<vblex><inf>$ ^a<vpart>$ ^ober<vblex><pri><p3><sg><@+FMAINV>$ ^gwastell<n><f><pl>$^.<sent>$
+[/PK6o-RlHoiVq]
+[PrU1_KBOagia#0] ^Meur a<det><ind><mf><pl>$ ^levr<n><m><sg>$^.<sent>$
+[/PrU1_KBOagia]
+[Q1g2v4g4R2GW#0] ^Pe<adj><itg><mf><sp>$ ^kant<n><m><sg>$ ^an<det><def><sp>$ ^den<n><m><pl>$
+[/Q1g2v4g4R2GW]
+[QTXAryKccJK6#0] ^Pevar<num><m><pl>$ ^lec’h<n><m><sg>$ ^divyezhek<adj><mf><sp>$ ^nevez<adj><mf><sp>$ ^digoriñ<vblex><pp>$
+[/QTXAryKccJK6]
+[QYNo6HtGejTT#0] ^Ar re<prn><rel><mf><sg>$ ^a<vpart>$ ^lenn<vblex><pri><p1><sg><@+FMAINV>$
+[/QYNo6HtGejTT]
+[Q_PbRUAoPMX4#0] ^Deskiñ<vblex><inf>$ ^a<vpart>$ ^ober<vblex><pri><impers><sp><@+FMAINV>$ ^tra<n><m><pl>$ ^amañ<adv>$^.<sent>$
+[/Q_PbRUAoPMX4]
+[QtbOg4umgpm4#0] ^An<det><def><sp>$ ^c’hwec’h<num><mf><pl>$ ^den<n><m><sg>$^.<sent>$
+[/QtbOg4umgpm4]
+[QvhdMUpatn5v#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/QvhdMUpatn5v]
+[QxHX-vTXZ-Qo#0] ^E<pr>$ ^Japan<np><top><sg>$
+[/QxHX-vTXZ-Qo]
+[QyLkiGJrOZB3#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/QyLkiGJrOZB3]
+[R0R7xc2A75ZB#0] ^Ne<adv><neg>$ ^kaout<vblex><pri><p3><f><sg><@+FMAINV>$ ^ket<adv>$ ^ober<vblex><pp>$^.<sent>$
+[/R0R7xc2A75ZB]
+[RNcdYDohaQ48#0] ^Ret<adj><mf><sp>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^da<pr>+indirect<prn><obj><p2><mf><sg>$ ^dont<vblex><inf>$^.<sent>$
+[/RNcdYDohaQ48]
+[RW-mxHmqw_Ln#0] ^Etre<pr>$ ^Roazhon<np><top><sg>$ ^ha<cnjcoo>$ ^Sant-Maloù<np><top><sg>$
+[/RW-mxHmqw_Ln]
+[RsK2TwzPoD3J#0] ^An<det><def><sp>$ ^tra<n><m><sg>$ ^se<adv>$^.<sent>$
+[/RsK2TwzPoD3J]
+[Rtk4d9JZ6dS3#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$^.<sent>$
+[/Rtk4d9JZ6dS3]
+[RzEi20TtJuK3#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p2><mf><sg>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/RzEi20TtJuK3]
+[RzgcezrpddHP#0] ^Un<det><ind><sp>$ ^diskar<n><m><sg>$ ^fonnus<adj><sint><comp>$^-<guio>$^fonnus<adj><sint><sup>$
+[/RzgcezrpddHP]
+[S3UlXIrjMzir#0] ^Skrivañ<vblex><inf>$ ^a<vpart>$ ^ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^Erwan Le Bourdonnec<np><ant><mf><sg>$^.<sent>$
+[/S3UlXIrjMzir]
+[S9ryz1tpEqyP#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><sg>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/S9ryz1tpEqyP]
+[SQN-NSx2It0D#0] ^E<pr>$ ^Iwerzhon<np><top><sg>$
+[/SQN-NSx2It0D]
+[SSJpFZj8_ZXq#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p2><mf><sg>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/SSJpFZj8_ZXq]
+[Sk2PiZ4vmID1#0] ^Ouzhpenn<pr>$ ^25<num><mf><pl>$^.<sent>$
+[/Sk2PiZ4vmID1]
+[SpXvQJm9vZtU#0] ^Tangi<np><ant><m><sg>$ ^a<vpart>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^bezañ<vblex><pp>$ ^kas<vblex><pp>$ ^dirak<pr>$ ^an<det><def><sp>$ ^lez#-b#arn<n><f><sg>$^.<sent>$
+[/SpXvQJm9vZtU]
+[SqaPP6LyacMY#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/SqaPP6LyacMY]
+[SsY18Dbdf_Oc#0] ^Ne<adv><neg>$ ^gouzout<vblex><pri><p3><sg><@+FMAINV>$ ^ket<adv>$^.<sent>$
+[/SsY18Dbdf_Oc]
+[SyC7mrWHBbjS#0] ^Da<det><pos><mf><sp>$ ^merc’h<n><f><sg>$ ^nemet<pr>+indirect<prn><obj><p3><f><sg>$
+[/SyC7mrWHBbjS]
+[T4EpxR3g1WUI#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/T4EpxR3g1WUI]
+[T5PdyYakKEep#0] ^An<det><def><sp>$ ^6<num><mf><pl>$^.<sent>$
+[/T5PdyYakKEep]
+[TIcocPD7XkPf#0] ^Katell<np><ant><f><sg>$ ^a<vpart>$ ^dont# da<vblex><fti><p3><sg><@+FMAINV>$ ^komz<n><f><sg>$^.<sent>$
+[/TIcocPD7XkPf]
+[TKVZ2gEmWqsY#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p2><mf><sg>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/TKVZ2gEmWqsY]
+[TiGvjIvDszi6#0] ^An<det><def><sp>$ ^darn# b#rasañ<n><f><sg>$ ^eus<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/TiGvjIvDszi6]
+[TjJpvZIrOZ43#0] ^Kaout<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^plijadur<n><f><sg>$ ^gant<pr>$ ^an<det><def><sp>$ ^plac’h<n><f><sg>$^.<sent>$
+[/TjJpvZIrOZ43]
+[Tn2sYwRSzq4j#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p1><mf><pl>$^.<sent>$
+[/Tn2sYwRSzq4j]
+[To5Dc-jJ2D8C#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/To5Dc-jJ2D8C]
+[URkFPs4MFF8B#0] ^Ne<adv><neg>$ ^bezañ<vblex><cni><p3><sg><@+FMAINV>$ ^hentad# divyezhek<n><m><sg>$ ^ebet<adv>$ ^e<pr>+Ar Releg-Kerhuon<np><top><sg>$^.<sent>$
+[/URkFPs4MFF8B]
+[UUTnZ6yhU93-#0] ^An<det><def><sp>$ ^holl<predet><mf><sp>$ ^levr<n><m><pl>$^.<sent>$
+[/UUTnZ6yhU93-]
+[UaUiW1e8fhQo#0] ^Un<det><ind><sp>$ ^liamm<n><m><sg>$ ^a<pr>+kalon<n><f><sg>$^.<sent>$
+[/UaUiW1e8fhQo]
+[UbczVEbAVHv5#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$^.<sent>$
+[/UbczVEbAVHv5]
+[UyliI1m609PS#0] ^Jean<np><ant><m><sg>$ ^Pierre<np><ant><m><sg>$ ^Cluzel<np><cog><mf><sg>$^,<cm>$ ^Prezidant<n><m><sg>$ ^Radio France<np><al><mf><sg>$ ^a<vpart>$ ^bezañ<vblex><pii><p3><sg><@+FMAINV>$ ^e<pr>$ ^Kemper<np><top><sg>$ ^da<pr>+an<det><def><sp>$ ^6<num><mf><pl>$ ^a<pr>$ ^miz Here<n><m><sp>$ ^evit<pr>$ ^sinañ<vblex><inf>$ ^an<det><def><sp>$ ^emglev<n><m><sg>$ ^Ya d’ar Brezhoneg<np><al><mf><sg>$^.<sent>$
+[/UyliI1m609PS]
+[V2_NSTWivMYZ#0] ^Ober<vblex><inf>$ ^a<vpart>$ ^ober<vblex><pri><p3><sg><@+FMAINV>$ ^un<det><ind><sp>$ ^gwastell<n><f><sg>$^.<sent>$
+[/V2_NSTWivMYZ]
+[V9Y8IQgFzQ2T#0] ^Ne<adv><neg>$ ^gallout<vblex><pri><p1><sg><@+FMAINV>$ ^ket<adv>$ ^ober<vblex><inf>$ ^an<det><def><sp>$ ^tra<n><m><sg>$ ^se<adv>$^.<sent>$
+[/V9Y8IQgFzQ2T]
+[VN0HYQ6yECHs#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p2><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/VN0HYQ6yECHs]
+[VPb0kdQtRDJ-#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^lavarout<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p2><mf><sg>$^.<sent>$
+[/VPb0kdQtRDJ-]
+[VStX3qcpk4Q7#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p1><mf><pl>$^.<sent>$
+[/VStX3qcpk4Q7]
+[VUyJ5uktRpWK#0] ^Evit<pr>$ ^gouzout<vblex><inf>$ ^piv<prn><itg><mf><sp>$ ^a<vpart>$ ^bezañ<vblex><pii><p3><sg><@+FMAINV>$ ^an<det><def><sp>$ ^brav<adj><sint><sup>$
+[/VUyJ5uktRpWK]
+[WJXtcl0x9s1B#0] ^E<pr>+an<det><def><sp>$ ^stal<n><f><sg>$ ^se<adv>$
+[/WJXtcl0x9s1B]
+[WUmFVnumGLIN#0] ^Treuzkas<vblex><inf>$ ^an<det><def><sp>$ ^brezhoneg<n><m><sg>$ ^e<pr>+an<det><def><sp>$ ^familh<n><f><pl>$
+[/WUmFVnumGLIN]
+[We8k7TsfCsXm#0] ^Re<adv>$ ^Barcelona<np><top><sg>$^.<sent>$
+[/We8k7TsfCsXm]
+[WeJM0of0YUTx#0] ^Gwelet<vblex><inf>$ ^a<vpart>$ ^ober<vblex><fti><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><m><sg>$^.<sent>$
+[/WeJM0of0YUTx]
+[Wp1ko1dEnbDj#0] ^E<pr>$ ^Breizh<np><top><sg>$
+[/Wp1ko1dEnbDj]
+[WpuCUw3uTlgE#0] ^E<pr>+an<det><def><sp>$ ^Azorez<np><top><pl>$
+[/WpuCUw3uTlgE]
+[X6Q3tVNLQDtH#0] ^An<det><def><sp>$ ^29<num><mf><pl>$ ^a<pr>$ ^miz Meurzh<n><m><sp>$ ^ha<cnjcoo>$ ^an<det><def><sp>$ ^9<num><mf><pl>$ ^a<pr>$ ^miz Ebrel<n><m><sp>$^.<sent>$
+[/X6Q3tVNLQDtH]
+[X8ensMKrPVr_#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/X8ensMKrPVr_]
+[XJ3CnLL7G6bx#0] ^War<pr>$ ^toenn<n><f><sg>$ ^an<det><def><sp>$ ^ti<n><m><sg>$^.<sent>$
+[/XJ3CnLL7G6bx]
+[XJaOXhrSHh6k#0] ^Ne<adv><neg>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^ket<adv>$ ^bezañ<vblex><pp>$ ^lazhañ<vblex><pp>$^.<sent>$
+[/XJaOXhrSHh6k]
+[XhyX_5uVfUAL#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/XhyX_5uVfUAL]
+[Y120yQm0BO_1#0] ^Skuizh<adj><mf><sp>$^.<sent>$
+[/Y120yQm0BO_1]
+[Y6jEPUzbuM87#0] ^Ne<adv><neg>$ ^gouzout<vblex><pri><p1><sg><@+FMAINV>$ ^ket mui<adv>$^.<sent>$
+[/Y6jEPUzbuM87]
+[Y8OznRC78zEQ#0] ^Distagañ<vblex><inf>$ ^a<vpart>$ ^ober<vblex><past><p3><sg><@+FMAINV>$ ^an<det><def><sp>$ ^chadenn<n><f><sg>$ ^aour<n><m><sg>$^.<sent>$
+[/Y8OznRC78zEQ]
+[YD1BIzESbZs2#0] ^Ti<n><m><sg>$ ^Herve<np><ant><m><sg>$^.<sent>$
+[/YD1BIzESbZs2]
+[YM3xQFA3HKKN#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/YM3xQFA3HKKN]
+[YQ6tlN0h9zg4#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p2><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/YQ6tlN0h9zg4]
+[YV6jeA1YUtZA#0] ^ma<cnjsub>$ ^bezañ<vblex><pii><p3><pl><@+FMAINV>$ ^mat<adj><mf><sp>$ ^renkañ<vblex><pp>$ ^dindan<adv>$ ^pajenn<n><f><pl>$ ^a-ratozh<adv>$
+[/YV6jeA1YUtZA]
+[Y_n-44SzE3ml#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p2><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/Y_n-44SzE3ml]
+[Yr-j7so-czD5#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p1><mf><pl>$^.<sent>$
+[/Yr-j7so-czD5]
+[Z8FPf3ahQCgA#0] ^Prosez<n><m><sg>$ ^tarzhadenn<n><f><sg>$ ^labouradeg<n><f><sg>$ ^AZF<n><acr><m><sg>$ ^Tolosa<np><top><sg>$^.<sent>$
+[/Z8FPf3ahQCgA]
+[ZbVcFTm83YHz#0] ^Bugel<n><m><pl>$ ^ma<det><pos><mf><sp>$ ^c’hoar<n><f><sg>$^.<sent>$
+[/ZbVcFTm83YHz]
+[Ze8A825bFWEr#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$^.<sent>$
+[/Ze8A825bFWEr]
+[Zp-Z6A9AEp5m#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/Zp-Z6A9AEp5m]
+[_0yyToP1rupW#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p2><mf><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/_0yyToP1rupW]
+[_9lFcXBZfQ52#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/_9lFcXBZfQ52]
+[_TfN_UFJse7T#0] ^Tra<n><m><sg>$ ^Yann<np><ant><m><sg>$^.<sent>$
+[/_TfN_UFJse7T]
+[__J-Pu2b06Ke#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/__J-Pu2b06Ke]
+[_xckepMZJA3F#0] ^An<det><def><sp>$ ^bugel<n><m><pl>$ ^a<vpart>$ ^redek<vblex><pii><p3><sg><@+FMAINV>$ ^buan<adv>$^.<sent>$
+[/_xckepMZJA3F]
+[a-8po5pjYcT6#0] ^Ti<n><m><sg>$ ^an<det><def><sp>$ ^bro<n><f><sg>$^.<sent>$
+[/a-8po5pjYcT6]
+[aGSCrS7F5-qK#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p2><mf><sg>$^.<sent>$
+[/aGSCrS7F5-qK]
+[aGxhmwoxug77#0] ^Ne<adv><neg>$ ^labourat<vblex><pri><p3><sg><@+FMAINV>$ ^ket<adv>$ ^amañ<adv>$^.<sent>$
+[/aGxhmwoxug77]
+[aOVLdQim5x1Z#0] ^O<vpart><ger>$ ^redek<vblex><inf>$ ^un tamm pep lec’h<adv>$ ^bezañ<vbloc><pri><p3><pl><@+FMAINV>$^.<sent>$
+[/aOVLdQim5x1Z]
+[ahVw2BwxeA5G#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$^.<sent>$
+[/ahVw2BwxeA5G]
+[attZghoTL5N2#0] ^Prpers<prn><subj><p1><mf><sg><@SUBJ→>$ ^a<vpart>$ ^sellet# ouzh<vblex><pri><p3><sg><@+FMAINV>+direct<prn><obj><p3><m><sg>$
+[/attZghoTL5N2]
+[aw5AQcYH3CeA#0] ^Kelenner<n><f><sg>$ ^saozneg<n><m><sg>$^.<sent>$
+[/aw5AQcYH3CeA]
+[awaTyx12WWqZ#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/awaTyx12WWqZ]
+[b1CYoJtaZBYn#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/b1CYoJtaZBYn]
+[bSIf_cL8RX8q#0] ^E<pr>$ ^Balearez<np><top><pl>$
+[/bSIf_cL8RX8q]
+[bWWP1ZV4JDWf#0] ^An<det><def><sp>$ ^tra<n><m><sg>$^.<sent>$
+[/bWWP1ZV4JDWf]
+[b_f6_GL7d9UB#0] ^6<num><mf><pl>$ ^den<n><m><sg>$ ^an<det><def><sp>$ ^ti<n><m><sg>$^.<sent>$
+[/b_f6_GL7d9UB]
+[boKYEge9XvT0#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/boKYEge9XvT0]
+[c75MeyIPVDO7#0] ^An<det><def><sp>$ ^tra<n><m><pl>$ ^nevez<adj><mf><sp>$^.<sent>$
+[/c75MeyIPVDO7]
+[cN6zVEV1FU-g#0] ^Londrez<np><top><sg>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^kêr#-p#enn<n><f><sg>$ ^Bro-Saoz<np><top><sg>$^.<sent>$
+[/cN6zVEV1FU-g]
+[cRXTPSSm9N7e#0] ^Gwelet<vblex><inf>$ ^a<vpart>$ ^ober<vblex><fti><p1><sg><@+FMAINV>$ ^direct<prn><obj><p2><mf><sg>$^.<sent>$
+[/cRXTPSSm9N7e]
+[cW9virx2M0kM#0] ^Pa<cnjsub>$ ^bezañ# anv a<vblex><prh><p3><sg><@+FMAINV>$ ^mont# kuit<vblex><inf>$^.<sent>$
+[/cW9virx2M0kM]
+[cWtiBrTsql_s#0] ^An<det><def><sp>$ ^levr<n><m><pl>$ ^nemet<pr>+indirect<prn><obj><p3><mf><pl>$
+[/cWtiBrTsql_s]
+[cbyub8flqCwC#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$^.<sent>$
+[/cbyub8flqCwC]
+[cdrC-NC1C_IK#0] ^E<pr>$ ^Guatemala<np><top><sg>$
+[/cdrC-NC1C_IK]
+[chUmqZIx_9D5#0] ^En-dro da<pr>$ ^an<det><def><sp>$ ^ti<n><m><sg>$^.<sent>$
+[/chUmqZIx_9D5]
+[cvkIYUtrFmbz#0] ^Kaout<vblex><pp>$ ^kaout<vblex><pri><p1><pl><@+FMAINV>$ ^kalz a<pr>$ ^tra<n><m><pl>$^.<sent>$
+[/cvkIYUtrFmbz]
+[czs-BT7Fm0JQ#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/czs-BT7Fm0JQ]
+[d5HD6lzXaP3Q#0] ^Levraoueg<n><f><sg>$ ^skolaj<n><m><sg>$^.<sent>$
+[/d5HD6lzXaP3Q]
+[d5oWOr7h__SR#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/d5oWOr7h__SR]
+[d9LJ25E95d0Z#0] ^Ne<adv><neg>$ ^e<vpart><obj>$ ^mont<vblex><pri><p1><sg><@+FMAINV>$ ^ket<adv>$ ^da<pr>$ ^labourat<vblex><inf>$^.<sent>$
+[/d9LJ25E95d0Z]
+[dEcHElVPt7or#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/dEcHElVPt7or]
+[da2DdRdJ7yGp#0] ^Ret<adj><mf><sp>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$ ^dont<vblex><inf>$^.<sent>$
+[/da2DdRdJ7yGp]
+[dadblq6otqx9#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/dadblq6otqx9]
+[dgNaczr4yHb5#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p1><mf><pl>$^.<sent>$
+[/dgNaczr4yHb5]
+[dqLZp1HBoko6#0] ^An<det><def><sp>$ ^serc’h<n><mf><pl>$ ^en em<vpart><ref>$ ^stardañ<vblex><pii><p3><sg><@+FMAINV>$^.<sent>$
+[/dqLZp1HBoko6]
+[dqOnmPDaftx_#0] ^Pevar<num><m><pl>$ ^lec’h<n><m><sg>$ ^divyezhek<adj><mf><sp>$
+[/dqOnmPDaftx_]
+[drqckGdrntMw#0] ^Poent<n><m><sg>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^debriñ<vblex><inf>$^.<sent>$
+[/drqckGdrntMw]
+[dug9MT4zyxgZ#0] ^Ne<adv><neg>$ ^gwelet<vblex><fti><p1><sg><@+FMAINV>$ ^ket<adv>$ ^direct<prn><obj><p2><mf><pl>$^.<sent>$
+[/dug9MT4zyxgZ]
+[e50sdQCG5K-z#0] ^Merc’her<n><m><sp>$ ^18<num><mf><pl>$ ^a<pr>$ ^miz Ebrel<n><m><sp>$
+[/e50sdQCG5K-z]
+[eJdmt5eQasi_#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p2><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/eJdmt5eQasi_]
+[ehFWZL5j6Eat#0] ^6<num><mf><pl>$ ^den<n><m><sg>$ ^skuizh<adj><mf><sp>$^.<sent>$
+[/ehFWZL5j6Eat]
+[eod5a7chw2Zr#0] ^Re a<pr>$ ^ger<n><m><pl>$^.<sent>$
+[/eod5a7chw2Zr]
+[f9BKuThbsS9F#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p2><mf><pl>$ ^da<pr>+indirect<prn><obj><p1><mf><pl>$^.<sent>$
+[/f9BKuThbsS9F]
+[fGcJ924pk4hg#0] ^Dre ma<cnjsub>$ ^bezañ<vblex><pii><p2><sg><@+FMAINV>$ ^skuizh<adj><mf><sp>$^.<sent>$
+[/fGcJ924pk4hg]
+[fLqIwb6ZYzFa#0] ^An<det><def><sp>$ ^hanter<n><m><sg>$ ^eus<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/fLqIwb6ZYzFa]
+[fNV5lmOZCCnk#0] ^C’hwitellat<vblex><inf>$ ^a<vpart>$ ^ober<vblex><pri><p3><sg><@+FMAINV>$ ^en ur<vpart><ppres>$ ^labourat<vblex><inf>$^.<sent>$
+[/fNV5lmOZCCnk]
+[fOIyxz155ZNn#0] ^An<det><def><sp>$ ^6<num><mf><pl>$ ^den<n><m><sg>$^.<sent>$
+[/fOIyxz155ZNn]
+[fRq7Z2K6f8VY#0] ^O<vpart><ger>$ ^kanañ<vblex><inf>$ ^kreñv<adj><mf><sp>$ ^bezañ<vbloc><pri><p3><sg><@+FMAINV>$^.<sent>$
+[/fRq7Z2K6f8VY]
+[fTpQuea0EhYO#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p1><mf><pl>$^.<sent>$
+[/fTpQuea0EhYO]
+[fUErHbnBanVV#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^lavarout<vblex><inf>$ ^da<pr>+indirect<prn><obj><p1><mf><pl>$^.<sent>$
+[/fUErHbnBanVV]
+[fjWzz_bRqTao#0] ^Un<det><ind><sp>$ ^levr<n><m><sg>$ ^fizik<n><m><sg>$^.<sent>$
+[/fjWzz_bRqTao]
+[foR3V1-m5xfs#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/foR3V1-m5xfs]
+[fsgIdAbXCkeP#0] ^Klask<vblex><inf>$ ^a<vpart>$ ^ober<vblex><pri><p1><sg><@+FMAINV>$ ^ober<vblex><inf>$ ^un dra bennak<prn><ind><mf><sg>$^.<sent>$
+[/fsgIdAbXCkeP]
+[fucfalUO7F60#0] ^An<det><def><sp>$ ^levr<n><m><sg>$ ^bras<adj><mf><sp>$ ^mañ<adv>$^.<sent>$
+[/fucfalUO7F60]
+[gWyGVKEN7_Pg#0] ^Cheñchamant<n><m><sg>$ ^an<det><def><sp>$ ^hin<n><f><sg>$^.<sent>$
+[/gWyGVKEN7_Pg]
+[gX1sMR3f0pvC#0] ^An<det><def><sp>$ ^skol#-m#eur<n><f><sg>$ ^hañv<n><m><sg>$ ^mañ<adv>$^.<sent>$
+[/gX1sMR3f0pvC]
+[gYtLBRxIf3yK#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/gYtLBRxIf3yK]
+[gcJFLLk-vZLJ#0] ^Katell<np><ant><f><sg>$^.<sent>$
+[/gcJFLLk-vZLJ]
+[gjenxCFEw7OK#0] ^An<det><def><sp>$ ^labour<n><m><sg>$ ^a<vpart>$ ^bezañ<vblex><fti><p3><sg><@+FMAINV>$ ^kinnig<vblex><pp>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$^.<sent>$
+[/gjenxCFEw7OK]
+[gqUx34ChZcua#0] ^Kerzhet<vblex><pp>$ ^kaout<vblex><pri><p1><pl><@+FMAINV>$ ^e-pad<pr>$ ^2<num><mf><pl>$ ^eurvezh<n><f><sg>$^.<sent>$
+[/gqUx34ChZcua]
+[gtS1LCj-UUHR#0] ^Unan<num><mf><sg>$ ^eus<pr>$ ^brav<adj><sint><sup>$ ^ti<n><m><pl>$ ^Karaez<np><top><sg>$
+[/gtS1LCj-UUHR]
+[h97mkcC6DRCo#0] ^E-pad<pr>$ ^an<det><def><sp>$ ^eil<adj><mf><sp>$ ^hanterenn<n><f><sg>$ ^eus<pr>$ ^an<det><def><sp>$ ^XXvet<num><mf><sg>$ ^kantved<n><m><sg>$
+[/h97mkcC6DRCo]
+[hA5DCFbOz2vf#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/hA5DCFbOz2vf]
+[hAA0THsU1ZbV#0] ^E<pr>$ ^Eusa<np><top><sg>$
+[/hAA0THsU1ZbV]
+[hBH3XxnWRYee#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$^.<sent>$
+[/hBH3XxnWRYee]
+[hBWBZRyYpBHX#0] ^An<det><def><sp>$ ^tra<n><m><pl>$ ^nevez<adj><sint><sup>$^.<sent>$
+[/hBWBZRyYpBHX]
+[hL20EMmrl45R#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^lavarout<vblex><inf>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/hL20EMmrl45R]
+[hQLfLIv01QVb#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p2><mf><pl>$ ^da<pr>+indirect<prn><obj><p1><mf><pl>$^.<sent>$
+[/hQLfLIv01QVb]
+[hRLjBtia7JHK#0] ^An<det><def><sp>$ ^darn# b#rasañ<n><f><sg>$ ^eus<pr>$ ^an<det><def><sp>$ ^den<n><m><pl>$^.<sent>$
+[/hRLjBtia7JHK]
+[hRzGSBFio0gU#0] ^Gwelet<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^an<det><def><sp>$ ^ki<n><m><sg>$ ^en ur<vpart><ppres>$ ^treuziñ<vblex><inf>$ ^an<det><def><sp>$ ^hent<n><m><sg>$^.<sent>$
+[/hRzGSBFio0gU]
+[hh4RS1krZly6#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$^.<sent>$
+[/hh4RS1krZly6]
+[hlYMD-bH79xV#0] ^E<pr>$ ^Gabon<np><top><sg>$
+[/hlYMD-bH79xV]
+[hrvHKnZ80vBw#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/hrvHKnZ80vBw]
+[hviMVoj8Uem6#0] ^Lenn<vblex><pp>$ ^kaout<vblex><pii><p3><f><sg><@+FMAINV>$ ^un<det><ind><sp>$ ^kontadenn<n><f><sg>$ ^da<pr>+he<det><pos><f><sp>$ ^bugel<n><m><sg>$^.<sent>$
+[/hviMVoj8Uem6]
+[hyBqrqP7csYs#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p2><mf><sg>$^.<sent>$
+[/hyBqrqP7csYs]
+[hyHgAewWOehc#0] ^An<det><def><sp>$ ^hanter<n><m><sg>$ ^eus<pr>$ ^an<det><def><sp>$ ^den<n><m><pl>$^.<sent>$
+[/hyHgAewWOehc]
+[hzHzBOZtVWPR#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p2><mf><sg>$^.<sent>$
+[/hzHzBOZtVWPR]
+[i-qJJv_WfiBN#0] ^Gwelet<vblex><inf>$ ^a<vpart>$ ^ober<vblex><fti><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><f><sg>$^.<sent>$
+[/i-qJJv_WfiBN]
+[iAKwXFTwAUOy#0] ^Enskrivadur<n><m><pl>$ ^an<det><def><sp>$ ^studier<n><m><pl>$ ^a<vpart>$ ^bezañ<vblex><fti><p3><sg><@+FMAINV>$ ^degemer<vblex><pp>$ ^etre<pr>$ ^an<det><def><sp>$ ^29<num><mf><pl>$ ^a<pr>$ ^miz Meurzh<n><m><sp>$ ^ha<cnjcoo>$ ^an<det><def><sp>$ ^9<num><mf><pl>$ ^a<pr>$ ^miz Ebrel<n><m><sp>$^.<sent>$
+[/iAKwXFTwAUOy]
+[iP-sQZ47N_qd#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/iP-sQZ47N_qd]
+[iS9EVPVs74oW#0] ^Ti<n><m><sg>$ ^du<adj><mf><sp>$^.<sent>$
+[/iS9EVPVs74oW]
+[icMNTKou4AkA#0] ^An<det><def><sp>$ ^den<n><m><sg>$ ^skuizh<adj><mf><sp>$^.<sent>$
+[/icMNTKou4AkA]
+[igzoN-w0K46b#0] ^Gwalldaol<n><m><sg>$ ^grevus<adj><sint><sup>$ ^Iwerzhon<np><top><sg>$
+[/igzoN-w0K46b]
+[iiY961CdHSkM#0] ^Ne<adv><neg>$ ^gouzout<vblex><pri><p1><sg><@+FMAINV>$ ^ket<adv>$ ^petra<prn><itg><mf><sp>$ ^ober<vblex><inf>$^.<sent>$
+[/iiY961CdHSkM]
+[itTGO7nwWn46#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$^.<sent>$
+[/itTGO7nwWn46]
+[j2ZyJ-h9tfQv#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$^.<sent>$
+[/j2ZyJ-h9tfQv]
+[j6b-AEr-k5tt#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p2><mf><sg>$^.<sent>$
+[/j6b-AEr-k5tt]
+[j7Ll-Nj6dWFo#0] ^An<det><def><sp>$ ^pemp<num><mf><pl>$ ^a<pr>$ ^miz Mae<n><m><sp>$
+[/j7Ll-Nj6dWFo]
+[jKOiYYfIVMlT#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/jKOiYYfIVMlT]
+[jRehDsFKQqsh#0] ^Lazhañ<vblex><pp>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^bezañ<vblex><pp>$^.<sent>$
+[/jRehDsFKQqsh]
+[jYBf9rOVcvpf#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/jYBf9rOVcvpf]
+[jl762VEieNY9#0] ^Ti<n><m><sg>$ ^Yann<np><ant><m><sg>$^.<sent>$
+[/jl762VEieNY9]
+[jsJKhbVKKPeQ#0] ^Bezañ<vblex><inf>$ ^kaout<vblex><fti><p1><pl><@+FMAINV>$ ^muioc’h a<pr>$ ^amzer<n><f><sg>$ ^warc’hoazh<adv>$^.<sent>$
+[/jsJKhbVKKPeQ]
+[jwGQUBEawp_Y#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p2><mf><sg>$^.<sent>$
+[/jwGQUBEawp_Y]
+[k6wJbfVQWTkA#0] ^Ret<adj><mf><sp>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$^.<sent>$
+[/k6wJbfVQWTkA]
+[kARQISYsHhpk#0] ^Ti<n><m><sg>$ ^bras<adj><mf><sp>$ ^du<adj><mf><sp>$^.<sent>$
+[/kARQISYsHhpk]
+[kE9lA7SR_tZl#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/kE9lA7SR_tZl]
+[kQ67drHSJrnN#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/kQ67drHSJrnN]
+[kWAQnlFeXpEo#0] ^Un<det><ind><sp>$ ^bed<n><m><sg>$ ^nevez<adj><mf><sp>$^.<sent>$
+[/kWAQnlFeXpEo]
+[kaZnElVt7Zbs#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$^.<sent>$
+[/kaZnElVt7Zbs]
+[kfdPRIC-x62v#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$^.<sent>$
+[/kfdPRIC-x62v]
+[kvjjGJq5fM_G#0] ^E<pr>$ ^Frañs<np><top><sg>$
+[/kvjjGJq5fM_G]
+[l6q1Q-IQsvcB#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/l6q1Q-IQsvcB]
+[lAWeciDHK--6#0] ^Ret<adj><mf><sp>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$ ^dont<vblex><inf>$^.<sent>$
+[/lAWeciDHK--6]
+[lZIcMuZH6Kil#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><pl>$^.<sent>$
+[/lZIcMuZH6Kil]
+[lfHHSzXxSIgS#0] ^Gwelet<vblex><inf>$ ^a<vpart>$ ^ober<vblex><fti><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><mf><pl>$^.<sent>$
+[/lfHHSzXxSIgS]
+[lkvHoK9lZSPU#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/lkvHoK9lZSPU]
+[m41qupNIypmZ#0] ^Debriñ<vblex><inf>$^.<sent>$
+[/m41qupNIypmZ]
+[m8yHRrsRhPQ6#0] ^Fellout<vblex><inf>$ ^a<vpart>$ ^ober<vblex><pri><p3><sg><@+FMAINV>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$ ^ma<cnjsub>$ ^advevañ<vblex><fti><p3><sg><@+FMAINV>$ ^yezh<n><f><sg>$ ^e<det><pos><m><sp>$ ^bro<n><f><sg>$^.<sent>$
+[/m8yHRrsRhPQ6]
+[mBEtQ-togQ0Q#0] ^C’hwec’h<num><mf><pl>$ ^den<n><m><sg>$ ^an<det><def><sp>$ ^ti<n><m><sg>$^.<sent>$
+[/mBEtQ-togQ0Q]
+[mFE-6cOgDkKG#0] ^E<pr>+an<det><def><sp>$ ^Andoù<np><top><pl>$
+[/mFE-6cOgDkKG]
+[mMUAzpqcnjLF#0] ^Un<det><ind><sp>$ ^eil<adj><mf><sp>$ ^lec’h<n><m><sg>$ ^publik<adj><mf><sp>$^.<sent>$
+[/mMUAzpqcnjLF]
+[mlcUYoCz8ecr#0] ^Un<det><ind><sp>$ ^tra<n><m><sg>$ ^koad<n><m><sg>$^.<sent>$
+[/mlcUYoCz8ecr]
+[mqU8kJeOw_6k#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/mqU8kJeOw_6k]
+[mx3ay15sgh33#0] ^C’hwec’h<num><mf><pl>$ ^den# yaouank<n><m><sg>$^.<sent>$
+[/mx3ay15sgh33]
+[mypZgVI_sDaB#0] ^Ober a ober# war-dro<vblex><pri><p1><sg><@+FMAINV>$
+[/mypZgVI_sDaB]
+[n-irDe4TGnRj#0] ^Ne<adv><neg>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^ket<adv>$ ^roiñ<vblex><pp>$^.<sent>$
+[/n-irDe4TGnRj]
+[n38_ybBOOg9A#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/n38_ybBOOg9A]
+[nFJO_bS2ibPP#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p2><mf><sg>$^.<sent>$
+[/nFJO_bS2ibPP]
+[nKvPLF1Q1WYJ#0] ^3<num><mf><pl>$ ^den<n><m><sg>$ ^ouzhpenn<adv>$^.<sent>$
+[/nKvPLF1Q1WYJ]
+[nc-wzg1AjmM0#0] ^Dav<adj><mf><sp>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$^.<sent>$
+[/nc-wzg1AjmM0]
+[nnLK_KHDiwgP#0] ^Koad<n><m><sg>$ ^Kemper<np><top><sg>$
+[/nnLK_KHDiwgP]
+[o0oxJzkOrJ97#0] ^Pevar<num><m><pl>$ ^lec’h<n><m><sg>$ ^divyezhek<adj><mf><sp>$ ^nevez<adj><mf><sp>$
+[/o0oxJzkOrJ97]
+[o1IIddKfD8Eh#0] ^Breizh<np><top><sg>$
+[/o1IIddKfD8Eh]
+[o3PSxnIWY-Pn#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/o3PSxnIWY-Pn]
+[o3XpkUXkNR44#0] ^E<pr>$ ^bro-Saoz<np><top><sg>$
+[/o3XpkUXkNR44]
+[oe6aDPk9F2AM#0] ^Re a<pr>$ ^den<n><m><pl>$^.<sent>$
+[/oe6aDPk9F2AM]
+[ojUSHhqHELjT#0] ^Kuitaat<vblex><inf>$ ^an<det><def><sp>$ ^kentañ<adj><mf><sp>$ ^klas<n><m><sg>$^.<sent>$
+[/ojUSHhqHELjT]
+[ozIMQyzGwH-v#0] ^Adalek<pr>$ ^penn-kentañ<n><m><sg>$ ^o<n><m><sp>$ ^raktres<n><m><sg>$
+[/ozIMQyzGwH-v]
+[p3Fhle2LNOn7#0] ^Emgav<n><m><sg>$ ^an<det><def><sp>$ ^den<n><m><pl>$^.<sent>$
+[/p3Fhle2LNOn7]
+[pG8QGoihj6w6#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><sg>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/pG8QGoihj6w6]
+[pIk7FIJrhUKi#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/pIk7FIJrhUKi]
+[peqhYaT2XDi3#0] ^Bras<adj><sint><comp>$^.<sent>$
+[/peqhYaT2XDi3]
+[pm4FyZusLcLf#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p1><mf><pl>$^.<sent>$
+[/pm4FyZusLcLf]
+[pr4z9HnxwEKq#0] ^Da<pr>$ ^Breizh<np><top><sg>$
+[/pr4z9HnxwEKq]
+[q3qGWYmIS74Z#0] ^Un<det><ind><sp>$ ^den<n><m><sg>$ ^a<pr>$ ^talvoudegezh<n><f><sg>$^.<sent>$
+[/q3qGWYmIS74Z]
+[q9MPGYuDXjac#0] ^Yann<np><ant><m><sg>$^-<guio>$^Fañch<np><ant><m><sg>$ ^Jakez<np><cog><mf><sg>$^.<sent>$
+[/q9MPGYuDXjac]
+[qQ_v7vPVupZv#0] ^Prezegenn<n><f><sg>$ ^Erwan<np><ant><m><sg>$^.<sent>$
+[/qQ_v7vPVupZv]
+[qVCe82wl_f9I#0] ^Ne<adv><neg>$ ^gouzout<vblex><pri><p1><sg><@+FMAINV>$ ^ket ken<adv>$^.<sent>$
+[/qVCe82wl_f9I]
+[qWxY53nM6r_s#0] ^Yann<np><ant><m><sg>$^-<guio>$^Fañch<np><ant><m><sg>$^.<sent>$
+[/qWxY53nM6r_s]
+[q_fRx-Pwrxzi#0] ^E<pr>+an<det><def><sp>$ ^British Museum<np><al><m><sg>$
+[/q_fRx-Pwrxzi]
+[r-RM1JgsNhW1#0] ^Framm# etrekumunel<n><m><pl>$ ^su<n><m><sg>$ ^an<det><def><sp>$ ^bro<n><f><sg>$^.<sent>$
+[/r-RM1JgsNhW1]
+[rIUwMHdXbxoQ#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/rIUwMHdXbxoQ]
+[rMlxsTXdDEUI#0] ^An<det><def><sp>$ ^tra<n><m><pl>$ ^nevez<adj><sint><comp>$^.<sent>$
+[/rMlxsTXdDEUI]
+[rXEcFDW9Rk9A#0] ^Ti<n><m><sg>$ ^mignon<n><m><pl>$ ^Herve<np><ant><m><sg>$^.<sent>$
+[/rXEcFDW9Rk9A]
+[rXrU7bNxvPnD#0] ^Prezegenn<n><f><sg>$ ^maer<n><m><sg>$ ^Karaez<np><top><sg>$
+[/rXrU7bNxvPnD]
+[rY-gqQote3Ti#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p2><mf><sg>$^.<sent>$
+[/rY-gqQote3Ti]
+[reQcEKmp_EZL#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/reQcEKmp_EZL]
+[rfu772kcACvZ#0] ^E<pr>+an<det><def><sp>$ ^2<num><mf><pl>$ ^yezh<n><f><sg>$ ^war<pr>$ ^glad<n><m><sg>$ ^an<det><def><sp>$ ^kumun<n><f><sg>$
+[/rfu772kcACvZ]
+[s2XG034ktpUf#0] ^Skipailh<n><m><sg>$ ^ti<n><m><sg>$ ^an<det><def><sp>$ ^bro<n><f><sg>$^.<sent>$
+[/s2XG034ktpUf]
+[sEqL2gvoh3E8#0] ^Klask<vblex><inf>$ ^mont# kuit<vblex><inf>$^.<sent>$
+[/sEqL2gvoh3E8]
+[se0I1Fl_5RJ_#0] ^Re<n><m><sg>$ ^Roazhon<np><top><sg>$^.<sent>$
+[/se0I1Fl_5RJ_]
+[st7IlwAeMDHQ#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/st7IlwAeMDHQ]
+[t75TmjOkLQYO#0] ^Grevus<adj><sint><sup>$ ^gwalldaol<n><m><sg>$ ^Iwerzhon<np><top><sg>$
+[/t75TmjOkLQYO]
+[t8XJMuHMCRex#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/t8XJMuHMCRex]
+[tOv7NE4nGFVf#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/tOv7NE4nGFVf]
+[tTzkaw0z0HH2#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/tTzkaw0z0HH2]
+[tzAES_mlApve#0] ^Erc’h a ober<vblex><pri><p3><sg><@+FMAINV>$^.<sent>$
+[/tzAES_mlApve]
+[u7ZWQp-oUCzQ#0] ^15<num><mf><pl>$ ^studier<n><m><sg>$^.<sent>$
+[/u7ZWQp-oUCzQ]
+[uLLqrammJchy#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/uLLqrammJchy]
+[uPWR1R_TNJ-b#0] ^Ne<adv><neg>$ ^gouzout<vblex><pri><p1><sg><@+FMAINV>$ ^ket<adv>$^.<sent>$
+[/uPWR1R_TNJ-b]
+[uZ_Ixy9yKRRu#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/uZ_Ixy9yKRRu]
+[uabraSWrhPC2#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^lavarout<vblex><inf>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/uabraSWrhPC2]
+[uoDjrBQCdgg1#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><sg>$^.<sent>$
+[/uoDjrBQCdgg1]
+[uxCKFJyF0MRV#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p1><mf><pl>$^.<sent>$
+[/uxCKFJyF0MRV]
+[v5op7dXtkMxe#0] ^An<det><def><sp>$ ^kador<n><f><sg>$ ^nemet<pr>+indirect<prn><obj><p3><f><sg>$
+[/v5op7dXtkMxe]
+[vJM_HPiyhmCa#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p2><mf><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/vJM_HPiyhmCa]
+[vPm2mVSbk160#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^lavarout<vblex><inf>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$^.<sent>$
+[/vPm2mVSbk160]
+[vSq6K_4X50WZ#0] ^Den<n><m><pl>$ ^an<det><def><sp>$ ^Stadoù-Unanet<np><top><pl>$^.<sent>$
+[/vSq6K_4X50WZ]
+[veYY4FEPwnzF#0] ^Debriñ<vblex><pp>$^.<sent>$
+[/veYY4FEPwnzF]
+[vkpO69wxUSz4#0] ^Ouzhpenn<adv>$ ^bezañ<vblex><inf>$^.<sent>$
+[/vkpO69wxUSz4]
+[vkspF4-sO6Ce#0] ^E<pr>$ ^Brest<np><top><sg>$
+[/vkspF4-sO6Ce]
+[vm1UuR2Q9S3f#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/vm1UuR2Q9S3f]
+[vtiEhOMOkkyJ#0] ^An<det><def><sp>$ ^lizherenneg<n><f><sg>$ ^direct<prn><ref><p3><f><sg>$^.<sent>$
+[/vtiEhOMOkkyJ]
+[w4b_Glaf_kmG#0] ^An<det><def><sp>$ ^holl<predet><mf><sp>$ ^tra<n><m><pl>$ ^se<adv>$^.<sent>$
+[/w4b_Glaf_kmG]
+[wCI91CpOqoBJ#0] ^Glav a ober<vblex><pri><p3><sg><@+FMAINV>$^.<sent>$
+[/wCI91CpOqoBJ]
+[wGHihsj07nRb#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/wGHihsj07nRb]
+[wTDeYh6xL74-#0] ^Poent<n><m><sg>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^da<pr>+indirect<prn><obj><p1><mf><sg>$ ^mont<vblex><inf>$^.<sent>$
+[/wTDeYh6xL74-]
+[wazoXP-2jmAH#0] ^25<num><mf><pl>$ ^ouzhpenn<adv>$^.<sent>$
+[/wazoXP-2jmAH]
+[wuSzc_9P48S8#0] ^Prpers<prn><subj><p1><mf><sg><@X>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^kanal<vblex><pp>$^.<sent>$
+[/wuSzc_9P48S8]
+[wxi3-G2sTwEl#0] ^Glas<adj><mf><sp>$ ^du<adj><mf><sp>$^.<sent>$
+[/wxi3-G2sTwEl]
+[x5Z52mQG3iQJ#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/x5Z52mQG3iQJ]
+[xFVlgP8dvu1h#0] ^Ober<vblex><pp>$ ^kaout<vblex><pri><p3><f><sg><@+FMAINV>$^.<sent>$
+[/xFVlgP8dvu1h]
+[xP1TDwiT_9HF#0] ^Krog<n><m><sg>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kompren<vblex><inf>$^.<sent>$
+[/xP1TDwiT_9HF]
+[xUJm_6vj9DDt#0] ^An<det><def><sp>$ ^meneg<n><m><pl>$ ^skrivañ<vblex><pp>$ ^kentañ<adj><mf><sp>$ ^eus<pr>$ ^an<det><def><sp>$ ^c’hoari# go<n><m><sg>$^.<sent>$
+[/xUJm_6vj9DDt]
+[xUwUC1BT2Gqt#0] ^Mont a ober<vblex><pri><p1><sg><@+FMAINV>$ ^da<pr>$ ^kinnig<vblex><inf>$ ^direct<prn><obj><p1><mf><pl>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/xUwUC1BT2Gqt]
+[xWpDAUFzQDkI#0] ^An<det><def><sp>$ ^den<n><m><sg>$ ^mañ<adv>$^.<sent>$
+[/xWpDAUFzQDkI]
+[xbWPa2hCa7j_#0] ^Bep<det><ind><mf><sg>$ ^pemzektez<n><m><sg>$^.<sent>$
+[/xbWPa2hCa7j_]
+[xhQv-Jc7ugFI#0] ^Mont<vblex><inf>$ ^da<pr>$ ^debriñ<vblex><inf>$^.<sent>$
+[/xhQv-Jc7ugFI]
+[xqKPYHu2zkZt#0] ^Ne<adv><neg>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^ket<adv>$ ^bezañ<vblex><pp>$ ^o<vpart><ger>$ ^lavarout<vblex><inf>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/xqKPYHu2zkZt]
+[xxXHz31R2PVS#0] ^Tad<n><m><sg>$ ^Yann<np><ant><m><sg>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^ma<det><pos><mf><sp>$ ^eontr<n><m><sg>$^.<sent>$
+[/xxXHz31R2PVS]
+[xxuFmXBdQTjw#0] ^An<det><def><sp>$ ^holl<predet><mf><sp>$ ^den<n><m><pl>$^.<sent>$
+[/xxuFmXBdQTjw]
+[xy__I1WXIzdv#0] ^Ret<adj><mf><sp>$ ^bezañ<vblex><pri><p3><sg><@+FMAINV>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$ ^dont<vblex><inf>$^.<sent>$
+[/xy__I1WXIzdv]
+[y3-Ior4i06nw#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><f><sg>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$^.<sent>$
+[/y3-Ior4i06nw]
+[yoZSPh4SoKpG#0] ^Grevus<adj><sint><sup>$^.<sent>$
+[/yoZSPh4SoKpG]
+[yosSI912FYIT#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p3><mf><pl>$^.<sent>$
+[/yosSI912FYIT]
+[yzUn_D0BZzJA#0] ^An<det><def><sp>$ ^Emvod#-meur<n><m><sg>$ ^kaout<vblex><pri><p3><m><sg><@+FMAINV>$ ^votiñ<vblex><pp>$ ^evit<pr>$ ^dilenn<vblex><inf>$ ^an<det><def><sp>$ ^Kuzul#-merañ<n><m><sg>$^.<sent>$
+[/yzUn_D0BZzJA]
+[z1NxGlBrS9iK#0] ^Reiñ<vblex><inf>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p2><mf><pl>$^.<sent>$
+[/z1NxGlBrS9iK]
+[z8GJ75UesARU#0] ^D’ar mare ma<cnjadv>$ ^bezañ<vblex><pii><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^digeriñ<vblex><inf>$ ^an<det><def><sp>$ ^dor<n><f><sg>$^.<sent>$
+[/z8GJ75UesARU]
+[z9w7e26CI-yA#0] ^Na<cnjcoo>$ ^ober<vblex><inf>$ ^netra<prn><def><mf><sg>$^.<sent>$
+[/z9w7e26CI-yA]
+[zHJlFfo77vJ-#0] ^Tra<n><m><sg>$ ^Breizh<np><top><sg>$^.<sent>$
+[/zHJlFfo77vJ-]
+[zNT2MpYmp_ww#0] ^d’ar Yaou<adv>$ ^12<num><mf><pl>$ ^a<pr>$ ^miz Genver<n><m><sp>$
+[/zNT2MpYmp_ww]
+[zWG3q_2f3hbi#0] ^E<pr>+an<det><def><sp>$ ^Antilhez<np><top><pl>$
+[/zWG3q_2f3hbi]
+[zlMFWVzJNarE#0] ^Roiñ<vblex><pp>$ ^kaout<vblex><pri><p1><sg><@+FMAINV>$ ^direct<prn><obj><p3><m><sg>$ ^da<pr>+indirect<prn><obj><p3><f><sg>$^.<sent>$
+[/zlMFWVzJNarE]
+[zxKe4LguIya-#0] ^Bezañ<vblex><pp>$ ^bezañ<vblex><pri><p1><sg><@+FMAINV>$ ^o<vpart><ger>$ ^lavarout<vblex><inf>$ ^da<pr>+indirect<prn><obj><p3><m><sg>$^.<sent>$
+[/zxKe4LguIya-]

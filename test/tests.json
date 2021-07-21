@@ -1,0 +1,10 @@
+{
+    "br-fr-pending": {
+        "input": "br-fr-pending-input.txt",
+        "mode": "br-fr"
+    },
+    "br-fr-regression": {
+        "input": "br-fr-regression-input.txt",
+        "mode": "br-fr"
+    }
+}
