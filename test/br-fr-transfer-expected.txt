@@ -1,0 +1,100 @@
+[0PXDruPXZPhB#0] ^Pour<pr>$ ^gens<n><m><pl>$ ^être<vblex><pri><p3><pl>$ ^il<prn><tn><p3><m><sg>$ ^venir<vblex><cni><p3><sg>$ ^de<pr>$ ^le<det><def><m><sg>$ ^latin<adj><m><sg>$^.<sent>$
+[/0PXDruPXZPhB]
+[0sh2lGIhLHrk#0] ^Attendre<vblex><pp><m><sg>$ ^il<prn><tn><p3><m><sg>$ ^être<vblex><pri><p3><sg>$ ^170<num><mf><pl>$ ^an<n><m><pl>$ ^avant<adv>$ ^Milizac<np><top>$ ^voir<vblex><inf>$ ^en<pr>$ ^train<n><m><sg>$ ^de<pr>$ ^revenir<vblex><inf>$ ^dans<pr>$ ^le<det><def><m><sg>$ ^canton<n><m><sg>$ ^de<pr>$ ^Saint-Renan<np><top>$^.<sent>$
+[/0sh2lGIhLHrk]
+[1O8K853v_Zne#0] ^Deux<num><mf><pl>$ ^explication<n><f><pl>$ ^être<vblex><pri><p3><pl>$ ^:<sent>$
+[/1O8K853v_Zne]
+[4xEaE7-aXqWm#0] ^Ci-dessus<adv>$ ^:<sent>$ ^Le<det><def><f><sg>$ ^équipe municipale<n><f><sg>$^,<cm>$ ^être<vblex><pp><m><sg>$ ^en mars<adv>$ ^élire<vblex><pp><m><sg>$ ^2001<num><mf><pl>$
+[/4xEaE7-aXqWm]
+[5xufZCuom-nF#0] ^Autrefois<adv>$^-<guio>$^vieux<adj><m><sg>$ ^il<prn><tn><p3><m><sg>$ ^être<vblex><pii><p3><sg>$ ^le<det><def><f><sg>$ ^terre<n><f><sg>$ ^de<pr>$ ^Milizac<np><top>$ ^dessous<adv>$ ^arbre<n><m><pl>$^,<cm>$ ^ajonc<n><m><sg>$ ^et<cnjcoo>$ ^je<prn><tn><p1><mf><sg>$ ^bêcher<vblex><pri><p1><sg>$^,<cm>$ ^selon<pr>$ ^le<det><def><mf><pl>$ ^nom<n><m><pl>$ ^de<pr>$ ^le<det><def><m><pl>$ ^village<n><m><pl>$ ^et<cnjcoo>$ ^le<det><def><m><pl>$ ^village<n><m><pl>$ ^être<vblex><pri><p3><pl>$ ^dans<pr>$ ^lui<prn><pro><p3><mf><sg>$^.<sent>$
+[/5xufZCuom-nF]
+[71GoyLWb0ElB#0] ^XXX<n><acr><m><sg>$ ^être<vblex><pri><p3><sg>$ ^surtout<adv>$ ^charger<vblex><pp><m><sg>$ ^occuper<vblex><inf># de$ ^le<det><def><f><pl>$ ^élection<n><f><pl>$ ^et<cnjcoo>$ ^facturer<vblex><inf>$ ^le<det><def><m><pl>$ ^repas<n><m><sp>$ ^être<vblex><pri><p3><pl>$ ^servir<vblex><pp><m><sg>$ ^dans<pr>$ ^le<det><def><m><sg>$ ^restaurant<n><m><sg>$^-<guio>$^école<n><f><sg>$^.<sent>$
+[/71GoyLWb0ElB]
+[7vcx96sTwdhD#0] ^Adjoint Au Maire<n><m><sg>$^,<cm>$ ^délégué<n><m><sg>$ ^pour<pr>$ ^le<det><def><m><sg>$ ^argent<n><m><sg>$ ^et<cnjcoo>$ ^le<det><def><f><sg>$ ^communication<n><f><sg>$
+[/7vcx96sTwdhD]
+[BN3AHFeULau3#0] ^Adjoint Au Maire<n><f><sg>$^,<cm>$ ^délégué<n><f><sg>$ ^pour<pr>$ ^le<det><def><f><pl>$ ^école<n><f><pl>$ ^et<cnjcoo>$ ^le<det><def><f><pl>$ ^société<n><f><pl>$ ^culturel<adj><f><pl>$
+[/BN3AHFeULau3]
+[BRPfK3Sm5Q93#0] ^Parmi<pr>$ ^le<det><def><f><pl>$ ^chose<n><f><pl>$ ^être<vblex><pri><p3><pl>$ ^à voir<adv>$ ^il<prn><tn><p3><m><sg>$ ^être<vblex><pri><p3><sg>$ ^manoir<n><m><sg>$ ^le<det><def><m><sg>$ ^*c’hurru$^,<cm>$  ^il<prn><tn><p3><m><sg>$ ^être<vblex><pii><p3><sg>$ ^être<vblex><pp><m><sg>$ ^lever<vblex><pp><p3><sg>$ ^en<pr>$ ^1238<num><mf><pl>$ ^;<sent>$ ^manoir<n><m><sg>$ ^*Keranflec’h$ ^de<pr>$ ^le<det><def><f><sg>$ ^année<n><f><sg>$ ^1712<num><mf><pl>$ ^;<sent>$ ^le<det><def><f><sg>$ ^église<n><f><sg>$^,<cm>$ ^être<vblex><pp><m><sg>$ ^lever<vblex><pp><p3><sg>$ ^dans<pr>$ ^le<det><def><m><sg>$ ^XVIIème<num><mf><sg>$ ^siècle<n><m><sg>$^,<cm>$ ^il<prn><tn><p3><m><sg>$ ^être<vblex><pri><p3><sg>$ ^engager<vblex><pp><m><sg>$ ^à<pr>$ ^le<det><def><m><sg>$ ^saint<n><m><sg>$ ^de<pr>$ ^Pêr<np><ant>$ ^et<cnjcoo>$ ^à<pr>$ ^le<det><def><m><sg>$ ^saint<n><m><sg>$ ^de<pr>$ ^Paol<np><ant>$^.<sent>$
+[/BRPfK3Sm5Q93]
+[DenFE-iJzY3w#0] ^XXX<n><acr><m><sg>$ ^occuper<vblex><pri><p3><sg># de$ ^le<det><def><m><sg>$ ^secrétariat<n><m><sg>$ ^de<pr>$ ^le<det><def><f><sg>$ ^direction<n><f><sg>$ ^et<cnjcoo>$ ^il<prn><tn><p3><m><sg>$ ^participer<vblex><pri><p3><sg>$ ^dans<pr>$ ^le<det><def><m><pl>$ ^travail<n><m><pl>$ ^pour<pr>$ ^définir<vblex><inf>$ ^et<cnjcoo>$ ^suivre<vblex><inf>$ ^le<det><def><f><pl>$ ^fabrication<n><f><pl>$^,<cm>$ ^celui qui<rel><m><pl>$  ^il<prn><tn><p3><m><sg>$ ^tirer<vblex><pri><p3><sg>$ ^à<pr>$ ^le<det><def><m><sg>$ ^*gêraozouriezh$ ^notamment<adv>$^.<sent>$
+[/DenFE-iJzY3w]
+[EA9AGVvPraXf#0] ^Milizac<np><top>$ ^le<prn><pro><p3><f><sg>$ ^être<vblex><pri><p3><sg>$ ^un<det><ind><f><sg>$ ^paroisse<n><f><sg>$ ^de<pr>$ ^le<det><def><m><sg>$ ^vieux<adj><m><sg>$ ^évêché<n><m><sg>$ ^de<pr>$ ^le<det><def><m><sg>$ ^Leon<np><top>$ ^;<sent>$ ^jusque<pr>$ ^1420<num><mf><pl>$ ^il<prn><tn><p3><m><sg>$ ^ne<adv>$ ^faire<vblex><pii><p3><sg>$ ^que<cnjsub>$ ^un<num><GD><sg>$^,<cm>$ ^un<det><ind><f><sg>$ ^vieux<adj><f><sg>$ ^paroisse<n><f><sg>$^,<cm>$ ^avec<pr>$ ^Guipronvel<np><top>$^.<sent>$
+[/EA9AGVvPraXf]
+[Ed36O9h1iLja#0] ^À voir<adv>$ ^aussi<adv>$^,<cm>$ ^un<det><ind><f><sg>$ ^pierre<n><f><sg>$^-<guio>$^deuil<n><m><sg>$ ^*arvorigat$ ^de<pr>$ ^le<det><def><f><sg>$ ^ère<n><f><sg>$ ^de<pr>$ ^le<det><def><m><sg>$ ^fer<n><m><sg>$ ^être<vblex><pri><p3><sg>$ ^sur<pr>$ ^le<det><def><mf><pl>$ ^traversée<n><f><pl>$ ^de<pr>$ ^le<det><def><m><sg>$ ^cimetière<n><m><sg>$^.<sent>$
+[/Ed36O9h1iLja]
+[GJM801sHXg2j#0] ^Dans<pr>$ ^le<det><def><f><sg>$ ^équipe<n><f><sg>$ ^être<vblex><pri><p3><sg>$
+[/GJM801sHXg2j]
+[KQEOPMnwLELq#0] ^Auxiliaire<n><mf><sg>$ ^de<pr>$ ^conservation<n><f><sg>$^,<cm>$ ^à<pr>$ ^le<det><def><m><sg>$ ^accueil<n><m><sg>$ ^de<pr>$ ^vous<prn><pro><p2><mf><pl>$ ^dans<pr>$ ^le<det><def><f><sg>$ ^Bibliothèque<n><f><sg>$ ^être<vblex><pri><p3><sg>$ ^gérer<vblex><pp><m><sg>$ ^avec<pr>$ ^il<prn><tn><p3><f><sg>$^,<cm>$ ^avec<pr>$ ^aide<n><f><sg>$ ^de<pr>$ ^membre<n><mf><pl>$ ^bénévole<adj><mf><pl>$ ^de<pr>$ ^le<det><def><f><sg>$ ^société<n><f><sg>$ ^XXX<n><acr><m><sg>$^.<sent>$
+[/KQEOPMnwLELq]
+[LcAmHELdnlvT#0] ^Il<prn><tn><p3><m><sg>$ ^venir<vblex><cni><p3><sg>$ ^le<det><def><m><sg>$ ^nom<n><m><sg>$ ^de<pr>$ ^aucun<adv>$ ^un<det><ind><m><sg>$ ^lieutenant<n><m><sg>$ ^quel<adj><itg><m><sg>$ ^un<det><ind><m><sg>$ ^*c’hantener$ ^romain<adj><m><sg>$^,<cm>$ ^*Militius$^.<sent>$ ^Celui-là<prn><tn><m><sg>$ ^diriger<vblex><pii><p3><sg>$ ^un<det><ind><m><sg>$ ^camp<n><m><sg>$ ^de<pr>$ ^soldat<n><mf><pl>$ ^gallo-romain<adj><m><sg>$ ^et<cnjcoo>$  ^il<prn><tn><p3><m><sg>$ ^être<vblex><pii><p3><sg>$ ^dans<pr>$ ^le<det><def><m><sg>$ ^lieu<n><m><sg>$ ^si<cnjsub>$ ^il<prn><tn><p3><m><sg>$ ^être<vblex><pri><p3><sg>$ ^le<det><def><m><sg>$ ^bourg<n><m><sg>$ ^maintenant<adv>$^.<sent>$
+[/LcAmHELdnlvT]
+[MSXMolXZzY95#0] ^Charge<n><f><pl>$ ^et<cnjcoo>$ ^rendez-vous<n><m><sp>$ ^avec<pr>$ ^le<det><def><m><sg>$ ^Maire<n><m><sg>$ ^et<cnjcoo>$ ^e<n><m><sp>$ ^de<pr>$ ^Adjoint Au Maire<n><m><pl>$
+[/MSXMolXZzY95]
+[OIwHEVHhZqoN#0] ^Eau<n><f><sg>$ ^et<cnjcoo>$ ^*yac’husaat$
+[/OIwHEVHhZqoN]
+[OgadlPFQl2Qa#0] ^Le<det><def><f><sg>$ ^bibliothèque<n><f><sg>$
+[/OgadlPFQl2Qa]
+[Q7M7GRYLuhcP#0] ^Un<det><ind><m><sg>$ ^trésor<n><m><sg>$ ^être<vblex><pri><p3><sg>$ ^dans<pr>$ ^le<det><def><f><sg>$ ^église<n><f><sg>$ ^:<sent>$ ^un<det><ind><m><sg>$ ^*relegouer$ ^argent<n><m><sg>$ ^sculpter<vblex><pp><m><sg>$ ^de<pr>$ ^le<det><def><m><sg>$ ^XVIIème<num><mf><sg>$ ^siècle<n><m><sg>$ ^et<cnjcoo>$ ^un<det><ind><f><sg>$ ^croix<n><f><sp>$^-<guio>$^poitrine<n><f><sg>$ ^*ivor$^,<cm>$ ^de<pr>$ ^le<det><def><m><sg>$ ^IXème<num><mf><sg>$ ^siècle<n><m><sg>$^,<cm>$  ^il<prn><tn><p3><m><sg>$ ^être<vblex><pii><p3><sg>$ ^à<pr>$ ^moine<n><m><pl>$ ^de<pr>$ ^abbaye<n><f><sg>$ ^*Lokmazhe$^.<sent>$
+[/Q7M7GRYLuhcP]
+[S0OpbZ2BKFwp#0] ^Adjoint Au Maire<n><m><sg>$^,<cm>$ ^délégué<n><m><sg>$ ^pour<pr>$ ^le<det><def><f><pl>$ ^route<n><f><pl>$
+[/S0OpbZ2BKFwp]
+[SJTtOnTdzjNY#0] ^Autre<adj><ind><mf><pl>$ ^gens<n><m><pl>$ ^leur<prn><pro><p3><mf><pl>$ ^penser<vblex><pri><p3><pl>$ ^il<prn><tn><p3><m><sg>$ ^être<vblex><cni><p3><sg>$ ^un<det><ind><m><sg>$ ^nom<n><m><sg>$ ^à<pr>$ ^origine<n><f><sg>$ ^breton<adj><f><sg>$^.<sent>$
+[/SJTtOnTdzjNY]
+[THNgqYvBzuLN#0] ^Ne<adv>$ ^on<prn><pro><ref><p3><mf><sp>$ ^être<vblex><pri><p3><sg>$ ^sauf<pr>$ ^dix<num><mf><pl>$ ^nom de lieu<n><m><pl>$ ^finir<vblex><pri><p3><pl>$ ^@o<vpart><ger>$ ^il<prn><tn><p3><m><sg>$ ^former<vblex><pri><p3><sg>$ ^français<adj><m><sg>$ ^avec<pr>$ “^*ac$”^,<cm>$ ^en<pr>$ ^Basse-Bretagne<np><top>$^.<sent>$
+[/THNgqYvBzuLN]
+[WPJCNq8CY5Dd#0] ^Le<det><def><m><sg>$ ^conseil municipal<n><m><sg>$
+[/WPJCNq8CY5Dd]
+[Wyr6lzbHXOMC#0] ^À côté<adv>$ ^le<det><def><f><sg>$ ^église<n><f><sg>$ ^être<vblex><pri><p3><sg>$ ^le<det><def><f><sg>$ ^chapelle<n><f><sg>$ ^de<pr>$ ^Saint<n><f><sg>$ ^de<pr>$ ^Anna<np><ant>$^,<cm>$ ^être<vblex><pp><m><sg>$ ^lever<vblex><pp><p3><sg>$ ^dans<pr>$ ^le<det><def><m><sg>$ ^*xvivet$ ^siècle<n><m><sg>$^.<sent>$
+[/Wyr6lzbHXOMC]
+[XDB4YxpSOGQl#0] ^Aussitôt<adv>$ ^et<cnjcoo>$ ^créer<vblex><pp><m><sg>$ ^le<det><def><m><pl>$ ^arrondissement<n><m><pl>$ ^administratif<adj><m><pl>$^,<cm>$ ^à<pr>$ ^le<det><def><m><sg>$ ^26<num><mf><pl>$ ^à<pr>$ ^doigt<n><m><sg>$ ^*c’hwrever$ ^1790<num><mf><pl>$^,<cm>$ ^il<prn><tn><p3><m><sg>$ ^être<vblex><ifi><p3><sg>$ ^attacher<vblex><pp><m><sg>$ ^Milizac<np><top>$ ^contre<pr>$ ^le<det><def><m><sg>$ ^canton<n><m><sg>$ ^de<pr>$ ^Saint-Renan<np><top>$^.<sent>$
+[/XDB4YxpSOGQl]
+[XGzYkJGuyQps#0] ^Maire<n><m><sg>$
+[/XGzYkJGuyQps]
+[XwxpNc3CkDLJ#0] ^Arranger<vblex><inf>$ ^le<det><def><m><pl>$ ^bâtiment<n><m><pl>$
+[/XwxpNc3CkDLJ]
+[YhXEHjO0xnX5#0] ^Service<n><m><pl>$ ^administratif<adj><m><pl>$
+[/YhXEHjO0xnX5]
+[ZMxfMGKlAVwh#0] ^XXX<n><acr><m><sg>$ ^être<vblex><pri><p3><sg>$ ^en charge de<pr>$ ^le<det><def><f><sg>$ ^comptabilité<n><f><sg>$ ^et<cnjcoo>$ ^de<pr>$ ^le<det><def><m><pl>$ ^salaire<n><m><pl>$^.<sent>$
+[/ZMxfMGKlAVwh]
+[_XyNQfB8X31-#0] ^De<pr>$ ^le<det><def><m><sg>$ ^24<num><mf><sg>$ ^novembre<n><m><sg>$ ^1792<num><mf><pl>$ ^il<prn><tn><p3><m><sg>$ ^être<vblex><pri><p3><sg>$ ^le<det><def><m><sg>$ ^premier<adj><m><sg>$ ^acte<n><m><sg>$ ^être<vblex><ifi><p3><sg>$ ^signer<vblex><pp><m><sg>$ ^dans<pr>$ ^le<det><def><f><sg>$ ^mairie<n><f><sg>$ ^et<cnjcoo>$ ^tenir<vblex><pp><m><sg>$ ^il<prn><tn><p3><m><sg>$ ^être<vblex><ifi><p3><sg>$ ^le<det><def><m><sg>$ ^premier<adj><m><sg>$ ^conseil municipal<n><m><sg>$ ^dans<pr>$ ^le<det><def><f><sg>$ ^chapelle<n><f><sg>$ ^de<pr>$ ^Saint<n><f><sg>$ ^de<pr>$ ^Anna<np><ant>$^.<sent>$
+[/_XyNQfB8X31-]
+[_x4wwklytA8o#0] ^Inviter<vblex><pp><p3><sg>$ ^vous<prn><tn><p2><mf><pl>$ ^être<vblex><pri><p2><pl>$ ^aller<vblex><inf>$ ^parler<vblex><inf>$ ^avec<pr>$ ^le<det><def><m><pl>$ ^élu<n><m><pl>$ ^dans<pr>$ ^le<det><def><m><sg>$ ^o<n><m><sp>$ ^de<pr>$ ^bureau<n><m><pl>$^.<sent>$
+[/_x4wwklytA8o]
+[bsV4z0YsJxDW#0] ^XXX<n><acr><m><sg>$^,<cm>$ ^Employé<n><m><pl>$ ^de<pr>$ ^Administration<n><f><sg>$ ^*Perzhek$^,<cm>$ ^à<pr>$ ^le<det><def><m><sg>$ ^accueil<n><m><sg>$ ^de<pr>$ ^vous<prn><pro><p2><mf><pl>$ ^dans<pr>$ ^le<det><def><f><sg>$ ^mairie<n><f><sg>$ ^pour<pr>$ ^répondre<vblex><inf>$ ^à<pr>$ ^votre<det><pos><mf><pl>$ ^question<n><f><pl>$ ^quotidien<adj><f><pl>$^.<sent>$
+[/bsV4z0YsJxDW]
+[bxuxFohRCgjY#0] ^Adjoint Au Maire<n><m><sg>$^,<cm>$ ^délégué<n><m><sg>$ ^pour<pr>$ ^le<det><def><m><sg>$ ^*gêraozouriezh$^,<cm>$ ^le<det><def><m><sg>$ ^environnement<n><m><sg>$ ^et<cnjcoo>$ ^le<det><def><f><sg>$ ^agriculture<n><f><sg>$
+[/bxuxFohRCgjY]
+[eQhAFOpUZSLe#0] ^Vieux<adj><m><sg>$^-<guio>$^*noe$ ^il<prn><tn><p3><m><sg>$ ^être<vblex><pri><p3><sg>$ ^le<det><def><m><sg>$ ^nom<n><m><sg>$ ^de<pr>$ ^Milizac<np><top>$^,<cm>$ ^sans aucun doute<adv>$ ^ni<cnjcoo>$ ^peut-être<adv>$^,<cm>$ ^mais<cnjcoo>$ ^on<prn><pro><ref><p3><mf><sp>$ ^ne<adv>$ ^savoir<vblex><pri><p3><sg>$ ^pas<adv>$ ^précis<adj><m><sg>$ ^de<pr>$ ^où<adv><itg>$ ^il<prn><tn><p3><m><sg>$ ^venir<vblex><pri><p3><sg>$^.<sent>$
+[/eQhAFOpUZSLe]
+[elBjsdu5FIUt#0] ^Plus<preadv>$ ^mieux<adj><mf><sp>$ ^il<prn><tn><p3><m><sg>$ ^être<vblex><pri><p3><sg>$ ^mettre<vblex><inf>$ ^rendez-vous<n><m><sp>$ ^avec<pr>$ ^eux<prn><tn><p3><m><pl>$ ^par<pr>$ ^médiation<n><f><sg>$ ^*implijdi$ ^le<det><def><f><sg>$ ^Mairie<n><f><sg>$^.<sent>$
+[/elBjsdu5FIUt]
+[fgrhaSmtBfH9#0] ^En<pr>$ ^1790<num><mf><pl>$ ^il<prn><tn><p3><m><sg>$ ^venir<vblex><ifi><p3><sg>$ ^Milizac<np><top>$ ^être<vblex><inf>$ ^un<det><ind><f><sg>$ ^commune<n><f><sg>$^.<sent>$
+[/fgrhaSmtBfH9]
+[fl642VnzZ6-Y#0] ^Adjoint Au Maire<n><f><sg>$^,<cm>$ ^délégué<n><f><sg>$ ^pour<pr>$ ^le<det><def><f><pl>$ ^affaire<n><f><pl>$ ^*social$
+[/fl642VnzZ6-Y]
+[fr75uKJKI4Aa#0] ^Le<det><def><m><pl>$ ^service<n><m><pl>$ ^technique<adj><mf><pl>$ ^être<vblex><pri><p3><pl>$ ^regrouper<vblex><pp><m><sg>$ ^dans<pr>$ ^le<det><def><m><pl>$ ^atelier<n><m><pl>$^,<cm>$ ^le<det><def><f><sg>$ ^rue<n><f><sg>$ ^de<pr>$ ^Le<det><def><m><sg>$ ^Pont<n><m><sg>$ ^de<pr>$ ^Pêr<np><ant>$^,<cm>$ ^et<cnjcoo>$ ^animer<vblex><pp><m><sg>$ ^il<prn><tn><p3><m><pl>$ ^être<vblex><pri><p3><pl>$ ^avec<pr>$ ^xxx<n><acr><m><sg>$^.<sent>$
+[/fr75uKJKI4Aa]
+[iZgAY-LQmcyh#0] ^Adjoint Au Maire<n><m><sg>$^,<cm>$ ^délégué<n><m><sg>$ ^pour<pr>$ ^le<det><def><f><pl>$ ^société<n><f><pl>$ ^de<pr>$ ^sport<n><m><sg>$ ^et<cnjcoo>$ ^le<det><def><m><sg>$ ^transport<n><m><sg>$
+[/iZgAY-LQmcyh]
+[jCssbvWXQkS9#0] ^Par<pr>$ ^rendez-vous<n><m><sp>$ ^dans<pr>$ ^le<det><def><f><sg>$ ^mairie<n><f><sg>$ ^le mercredi<adv>$ ^et<cnjcoo>$ ^tous les jours<adv>$
+[/jCssbvWXQkS9]
+[joKmvS7bS1cW#0] ^Le samedi<adv>$ ^matin<n><m><sg>$^,<cm>$ ^de<pr>$ ^10<num><mf><pl>$ ^en<pr>$ ^30<num><mf><pl>$ ^à<pr>$ ^11<num><mf><pl>$ ^son<det><pos><m><sg>$ ^30<num><mf><pl>$ (^sauf<pr>$ ^pendant<pr>$ ^le<det><def><f><pl>$ ^vacances<n><f><pl>$^-<guio>$^école<n><f><sg>$)^,<cm>$ ^il<prn><tn><p3><m><sg>$ ^être<vblex><pri><p3><sg>$ ^accueillir<vblex><pp><m><sg>$ ^le<det><def><m><pl>$ ^gens<n><m><pl>$ ^avec<pr>$ ^monsieur Maer<np><ant><m><sg>$ ^quel<adj><itg><m><sg>$ ^avec<pr>$ ^quelqu’un<prn><tn><m><sg>$ ^de<pr>$ ^e<n><m><sp>$ ^de<pr>$ ^adjoint au maire<n><m><pl>$^.<sent>$
+[/joKmvS7bS1cW]
+[kEUbQoQNFRPG#0] ^Milizac<np><top>$ ^@a<vpart>$ ^son<det><pos><m><sg>$ ^nom<n><m><sg>$ ^être<vblex><cni><p3><sg>$ ^évoluer<vblex><pp><m><sg>$ ^de<pr>$ ^miel<n><m><sg>$ ^*Izag$^,<cm>$ ^de<pr>$ ^le<det><def><m><sg>$ ^cher<adj><m><sg>$ ^Miel<n><m><sg>$ ^quel<adj><itg><m><sg>$ ^Mael<np><ant>$^,<cm>$ ^maintien<n><m><sg>$^,<cm>$ ^il<prn><tn><p3><m><sg>$ “^être<vblex><imp><p3><sg>$ ^maintien<n><m><sg>$ ^*Izag$”^,<cm>$ ^quel<adj><itg><m><sg>$ “^le<det><def><m><sg>$ ^moulin<n><m><sg>$ ^de<pr>$ ^le<det><def><m><sg>$ ^comte<n><m><sg>$ ^*Izag$” ^quel<adj><itg><m><sg>$ “^*pennbrezelour$ ^*Izag$”^.<sent>$
+[/kEUbQoQNFRPG]
+[lkFld-_ALSFy#0] ^Dans<pr>$ ^ce<det><dem><mf><pl>$ ^village<n><m><pl>$ ^autrefois<adv>$ ^il<prn><tn><p3><m><sg>$ ^être<vblex><pii><p3><sg>$ ^manoir<n><m><pl>$ ^être<vblex><pri><p3><pl>$ ^aujourd’hui<adv>$ ^disparaître<vblex><pp><m><sg>$^,<cm>$ ^comme<pr>$ ^manoir<n><m><sg>$ ^*Treleon$ ^et<cnjcoo>$ ^son<det><pos><m><sg>$ ^moulin<n><m><sg>$ ^trouver<vblex><pri><p3><sg>$ ^le<det><def><f><sg>$ ^mention<n><f><sg>$ ^de<pr>$ ^le<prn><pro><p3><mf><pl>$ ^dans<pr>$ ^le<det><def><m><pl>$ ^écrit<n><m><pl>$ ^à partir de<pr>$ ^le<det><def><m><sg>$ ^*xvvet$ ^siècle<n><m><sg>$^.<sent>$
+[/lkFld-_ALSFy]
+[llPUPICgxE3h#0] ^Arranger<vblex><inf>$ ^le<det><def><f><pl>$ ^route<n><f><pl>$
+[/llPUPICgxE3h]
+[mbTtKNA8T2yI#0] ^Le<det><def><m><pl>$ ^service<n><m><pl>$^-<guio>$^ville<n><f><sg>$ ^être<vblex><pri><p3><sg>$ ^charger<vblex><pp><m><sg>$^,<cm>$ ^dessous<adv>$ ^le<det><def><f><sg>$ ^autorité<n><f><sg>$ ^de<pr>$ ^le<det><def><m><sg>$ ^Maire<n><m><sg>$^,<cm>$ ^préparer<vblex><inf>$ ^le<det><def><f><pl>$ ^décision<n><f><pl>$ ^prendre<vblex><pp><f><pl>$ ^avec<pr>$ ^lui<prn><pro><p3><mf><sg>$ ^et<cnjcoo>$ ^le<det><def><m><sg>$ ^conseil municipal<n><m><sg>$ ^et<cnjcoo>$ ^mettre<vblex><inf>$ ^de<pr>$ ^eux<prn><tn><p3><m><pl>$ ^dans<pr>$ ^pratique<n><f><sg>$^.<sent>$ ^XXX<n><acr><m><sg>$ ^*Pennrener$ ^le<det><def><m><pl>$ ^Service<n><m><pl>$^,<cm>$ ^il<prn><tn><p3><m><sg>$ ^être<vblex><pri><p3><sg>$ ^en charge de<pr>$ ^ce<det><dem><mf><pl>$ ^service<n><m><pl>$^.<sent>$
+[/mbTtKNA8T2yI]
+[mpJE89q91-zQ#0] ^XXX<n><acr><m><sg>$^,<cm>$ ^*Pennskriverez$^,<cm>$ ^il<prn><tn><p3><m><sg>$ ^être<vblex><pri><p3><sg>$ ^en charge de<pr>$ ^tout<predet><m><pl>$ ^le<det><def><m><pl>$ ^dossier<n><m><pl>$ ^regarder<vblex><pri><p3><pl>$ ^K<n><m><sp>$^.<sent>$^O<n><m><sp>$^.<sent>$^S<n><m><sp>$^.<sent>$^G<n><m><sp>$^.<sent>$^,<cm>$ ^le<det><def><m><sg>$ ^*gêraozouriezh$ ^et<cnjcoo>$ ^le<det><def><f><sg>$ ^communication<n><f><sg>$^.<sent>$
+[/mpJE89q91-zQ]
+[pct7B2myG6gO#0] ^Si<cnjsub>$ ^vous<prn><tn><p2><mf><pl>$ ^ne<adv>$ ^être<vblex><pri><p2><pl>$ ^pas<adv>$ ^pour<pr>$ ^venir<vblex><inf>$ ^à<pr>$ ^le<det><def><m><pl>$ ^jour<n><m><pl>$ ^habitué<adj><m><pl>$^,<cm>$ ^vous<prn><tn><p2><mf><pl>$ ^venir<vblex><pri><p2><pl>$ ^sans manières<adj><mf><sp>$ ^en relation avec<pr>$ ^le<det><def><mf><pl>$ ^employé<n><m><pl>$ ^de<pr>$ ^le<det><def><f><sg>$ ^Mairie<n><f><sg>$ ^:<sent>$ ^un<det><ind><f><sg>$ ^date<n><f><sg>$ ^de<pr>$ ^autre<adj><ind><mf><sg>$ ^rendez-vous<n><m><sp>$ ^être<vblex><fti><p3><sg>$ ^présenter<vblex><pp><m><sg>$ ^à<pr>$ ^vous<prn><pro><p2><mf><pl>$^.<sent>$
+[/pct7B2myG6gO]
+[qmD-cIWeLbZ4#0] ^Le<det><def><mf><pl>$ ^événement<n><m><pl>$ ^de<pr>$ ^le<det><def><f><sg>$ ^histoire<n><f><sg>$ ^*froudennus$ ^alors<adv>$  ^il<prn><tn><p3><m><sg>$ ^faire<vblex><ifi><p3><sg>$ ^à<pr>$ ^Milizac<np><top>$ ^être<vblex><inf>$ ^dans<pr>$ ^le<det><def><m><sg>$ ^canton<n><m><sg>$ ^de<pr>$ ^Plabennec<np><top>$^,<cm>$ ^à partir de<pr>$ ^1801<num><mf><pl>$ ^jusque<pr>$ ^1971<num><mf><pl>$^.<sent>$
+[/qmD-cIWeLbZ4]
+[s-Scgm38XvMz#0] ^Le<det><def><m><pl>$ ^Service<n><m><pl>$
+[/s-Scgm38XvMz]
+[yFsESgHrdhcI#0] ^Le<det><def><m><pl>$ ^service<n><m><pl>$ ^technique<adj><mf><pl>$
+[/yFsESgHrdhcI]

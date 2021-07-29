@@ -6,5 +6,9 @@
     "br-fr-regression": {
         "input": "br-fr-regression-input.txt",
         "mode": "br-fr"
+    },
+    "br-fr": {
+        "input": "br-fr-input.txt",
+        "mode": "br-fr_rtx"
     }
 }
