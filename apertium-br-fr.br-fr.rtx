@@ -260,7 +260,10 @@ V -> %vblex.$lem/sl
 					     (if (1.nbr = pl) o2pl else o2sg)
 					  if (1.nbr = pl) o3pl
 					  else o1sgm) !TODO?
-		 		  else "")]
+		 		  else ""),
+        $temps=(if ((1.temps/tl = imp) and (1.pers/tl not = p2)) prs
+                else 1.temps/tl)
+       ]
        {
           (if (($obj_prn in prn_swap) and ($ind_prn in prn_swap))
 		      [ %*(ind_pronoun_pro)[lemcase=$lemcase] _
@@ -308,6 +311,10 @@ V -> %vblex.$lem/sl
 			(if (($obj_prn in prn_alone) and ($ind_prn not = ""))
 			    [ _ à@pr _  %*(ind_pronoun_enc)[lemcase=aa] ])
 		   } |
+     10: %bezañ@V AP.vblex.pp.$lem
+           {
+             1 _ 2
+           } |
 	 %kaout@V AP.vblex.pp
 	       { %1[lemcase=$lemcase,
 	           ind_prn=(if ($obj_prn in prn_alone) "" else $ind_prn)]
@@ -325,7 +332,7 @@ V -> %vblex.$lem/sl
 	             2[obj_prn=$obj_prn,ind_prn=$ind_prn] ] )
 		} |
 	 %aller@V da@pr V.inf { %1 _ 3 } |
-	 e@vpart.obj %V [$lemcase=1.lemcase/sl] { %2 } |
+	 !e@vpart.obj %V [$lemcase=1.lemcase/sl] { %2 } |
 	 %bezañ@V AP.vblex.pp.$lem
 	       { (if ((2.lem incl vbambser) or (1.temps = fti))
 		   	 	 [ %1[lemcase=$lemcase] _
@@ -412,6 +419,7 @@ S -> 1: VP.[temps_fin] { 1(subj_prn)
 	    { 1[lemcase=$lemcase] _ se@prn.pro.ref.p3.mf.sp _ 3[nbr=1.nbr] } |
 	 VP.[temps_fin] AP DP
 	    { 3[lemcase=$lemcase] _ 1[lemcase=aa,nbr=3.nbr] _ 2[nbr=3.nbr] } |
+     e@vpart VP DP { 3 _ 2[nbr=3.nbr] } |
 	 S pr ANT { 1 _ 2 _ 3 } ; !@HACK
 
 blah: _;

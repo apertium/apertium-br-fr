@@ -16,10 +16,12 @@
         <file name="apertium-br-fr.pre-xfer-br.t1x"/>
         <file name="br-fr.pre-xfer.t1x.bin"/>
       </program>
-      <program name="apertium-transfer">
+      <program name="lt-proc -b">
+        <file name="br-fr.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
         <file name="apertium-br-fr.br-fr.t1x"/>
         <file name="br-fr.t1x.bin"/>
-        <file name="br-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
         <file name="apertium-br-fr.br-fr.t2x"/>
@@ -314,7 +316,7 @@
       <program name="lrx-proc -m">
         <file name="br-fr.lrx.bin"/>
       </program>
-	  <program name="rtx-proc -F">
+	  <program name="rtx-proc">
 		<file name="br-fr.rtx.bin"/>
 	  </program>
       <program name="lt-proc $1">
