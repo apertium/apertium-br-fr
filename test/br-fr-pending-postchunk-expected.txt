@@ -14,13 +14,13 @@
 [/1rJHh7n5scg9]
 [2QbBPGfgpwQr#0] ^Je<prn><tn><p1><mf><sg>$ ^devoir<vblex><pri><p1><sg>$ ^aller<vblex><inf>$ ^maintenant<adv>$
 [/2QbBPGfgpwQr]
-[3heuvyBqkFu8#0] ^Le<det><def><f><sg>$ ^personne<n><f><sg>$ ^voir<vblex><pri><p3><sg>$ ^dans<pr>/à<pr>/en<pr>$ ^le<det><def><m><sg>$ ^miroir<n><m><sg>$
+[3heuvyBqkFu8#0] ^Le<det><def><f><sg>$ ^personne<n><f><sg>$ ^voir<vblex><pri><p3><sg>$ ^dans<pr>$ ^le<det><def><m><sg>$ ^miroir<n><m><sg>$
 [/3heuvyBqkFu8]
 [4cuqZKd9OKQJ#0] ^Jamais<adv>$ ^ne<adv>$ ^tu<prn><tn><p2><mf><sg>$ ^croire<vblex><cni><p2><sg>$ ^embrasser<vblex><inf>$ ^à<pr>$ ^il<prn><tn><p3><f><sg>$
 [/4cuqZKd9OKQJ]
 [4gLIYfjFE3ZY#0] ^Fatigué<adj><m><sg>$ ^je<prn><tn><p1><mf><sg>$ ^être<vblex><pri><p1><sg>$
 [/4gLIYfjFE3ZY]
-[4gfALWtEZZ5r#0] ^À<pr>/de<pr>$ ^il<prn><tn><p3><m><sg>$ ^voir<vblex><pri><p3><sg>$ ^à tous<adv>$
+[4gfALWtEZZ5r#0] ^À<pr>$ ^il<prn><tn><p3><m><sg>$ ^voir<vblex><pri><p3><sg>$ ^à tous<adv>$
 [/4gfALWtEZZ5r]
 [4i5Hh4Rlkffc#0] ^Apparaître<vblex><inf>$
 [/4i5Hh4Rlkffc]
@@ -64,7 +64,7 @@
 [/8uDD8CtfvNZe]
 [9QyL9mWr8Iil#0] ^Moi-même<prn><ref><p1><mf><sg>$
 [/9QyL9mWr8Iil]
-[9oM277rGU1f9#0] ^Il<prn><tn><p3><m><sg>$ ^ne<adv><neg>$ ^être<vblex><pri><p3><sg>$ ^pas<adv>$ ^nécessaire<adj><mf><sg>$ ^aller<vblex><inf>$ ^si<adv>$ ^vite<adv>$
+[9oM277rGU1f9#0] ^Il<prn><tn><p3><m><sg>$ ^ne<adv><neg>$ ^être<vblex><pri><p3><sg>$ ^pas<adv>$ ^nécessaire<adj><mf><sg>$ ^aller<vblex><inf>$ ^si$ ^vite<adv>$
 [/9oM277rGU1f9]
 [BiB8vEnIFLhy#0] ^Le<det><def><m><sp>$ ^e<n><m><sp>$ ^de<pr>$ ^le<det><def><f><sg>$ ^Roche<n><f><sg>$ ^de<pr>$ ^le<det><def><m><sg>$ ^feu<n><m><sg>$
 [/BiB8vEnIFLhy]
@@ -84,7 +84,7 @@
 [/E_FqgBMQI9Bf]
 [EvT3bxxPztAx#0] ^Le<det><def><m><sg>$ ^tous<adv>$ ^de<pr>$ ^eux<prn><tn><p3><m><pl>$
 [/EvT3bxxPztAx]
-[FBW9x1Xsnvug#0] ^Dans<pr>/À<pr>/En<pr>$ ^le<det><def><m><sg>$ ^Gouvernement<n><m><sg>$
+[FBW9x1Xsnvug#0] ^Dans<pr>$ ^le<det><def><m><sg>$ ^Gouvernement<n><m><sg>$
 [/FBW9x1Xsnvug]
 [FdWk7F1l6pew#0] ^Second<adj><m><sg>$ ^fois<n><f><sp>$ ^à<pr>$ ^moi<prn><tn><p1><mf><sg>$ ^voir<vblex><inf>$ ^ça<prn><tn><nt><sg>$
 [/FdWk7F1l6pew]
@@ -98,9 +98,9 @@
 [/GsD5nMydNoze]
 [H-wHo3E2FzkJ#0] ^Besoin<n><m><sg>$ ^je<prn><tn><p1><mf><sg>$ ^avoir<vblex><pri><p1><sg>$ ^bois<n><m><sp>$ ^pour<pr>$ ^faire<vblex><inf>$ ^feu<n><m><sg>$
 [/H-wHo3E2FzkJ]
-[HDFHsZTwhabI#0] ^Dans<pr>/À<pr>/En<pr>$ ^le<det><def><f><sg>$ ^salle<n><f><sg>$ ^de<pr>$ ^eau<n><f><sg>$ ^laver<vblex><pri><p1><sg>$
+[HDFHsZTwhabI#0] ^Dans<pr>$ ^le<det><def><f><sg>$ ^salle<n><f><sg>$ ^de<pr>$ ^eau<n><f><sg>$ ^laver<vblex><pri><p1><sg>$
 [/HDFHsZTwhabI]
-[HK30neRaKqF3#0] ^Je<prn><tn><p1><mf><sg>$ ^penser<vblex><pri><p1><sg>$ ^dans<pr>/à<pr>/en<pr>$ ^il<prn><tn><p3><f><sg>$
+[HK30neRaKqF3#0] ^Je<prn><tn><p1><mf><sg>$ ^penser<vblex><pri><p1><sg>$ ^dans<pr>$ ^il<prn><tn><p3><f><sg>$
 [/HK30neRaKqF3]
 [HQ667Q-TfqRo#0] ^Content<adj><m><sg>$ ^il<prn><tn><p3><m><sg>$ ^être<vblex><pii><p3><sg>$ ^Katell<np><ant>$
 [/HQ667Q-TfqRo]
@@ -140,13 +140,13 @@
 [/Q4KXURkigJK3]
 [QP11hB9PeIXp#0] ^Second<adj><m><sg>$
 [/QP11hB9PeIXp]
-[QXawWKELxL1F#0] ^À<pr>$ ^Vannes<np><top>$ ^dans<pr>/à<pr>/en<pr>$ ^ton<det><pos><m><sg>$ ^tu<prn><tn><p2><mf><sg>$ ^aller<vblex><fti><p2><sg>$
+[QXawWKELxL1F#0] ^À<pr>$ ^Vannes<np><top>$ ^dans<pr>$ ^ton<det><pos><m><sg>$ ^tu<prn><tn><p2><mf><sg>$ ^aller<vblex><fti><p2><sg>$
 [/QXawWKELxL1F]
-[Q_aGiAj6FpjK#0] ^Dans<pr>/À<pr>/En<pr>$ ^le<det><def><f><sg>$ ^salle<n><f><sg>$ ^de<pr>$ ^eau<n><f><sg>$ ^je<prn><tn><p1><mf><sg>$ ^être<vblex><pri><p1><sg>$   ^laver<vblex><pp><m><sg>$
+[Q_aGiAj6FpjK#0] ^Dans<pr>$ ^le<det><def><f><sg>$ ^salle<n><f><sg>$ ^de<pr>$ ^eau<n><f><sg>$ ^je<prn><tn><p1><mf><sg>$ ^être<vblex><pri><p1><sg>$   ^laver<vblex><pp><m><sg>$
 [/Q_aGiAj6FpjK]
 [RIdgckfvzzPq#0] ^Il<prn><tn><p3><m><sg>$ ^être<vbser><fti><p3><sg>$ ^juger<vblex><pp><m><sg>$ ^six<num><mf><pl>$ ^militant<n><m><pl>$ ^de<pr>$ ^le<det><def><f><sg>$ ^réunification<n><f><sg>$ ^le jeudi<adv>$ ^12<num><mf><sg>$ ^février<n><m><sg>$ ^le<det><def><m><sp>$ ^e<n><m><sp>$ ^de<pr>$ ^le<det><def><m><sg>$ ^Tribunal correctionnel<n><m><sg>$ ^de<pr>$ ^Nantes<np><top>$
 [/RIdgckfvzzPq]
-[RS_Mrp2s2xhR#0] ^Premier<adj><m><sg>$ ^à<pr>/de<pr>$ ^mars<n><m><sp>$
+[RS_Mrp2s2xhR#0] ^Premier<adj><m><sg>$ ^à<pr>$ ^mars<n><m><sp>$
 [/RS_Mrp2s2xhR]
 [RUIHXYEd2wAp#0] ^Ar Redadeg<np><al>$ ^il<prn><tn><p3><m><sg>$ ^être<vblex><pri><p3><sg>$ ^son<det><pos><m><sg>$ ^objectif<n><m><sg>$ ^valoriser<vblex><inf>$ ^le<det><def><f><sg>$ ^langue<n><f><sg>$
 [/RUIHXYEd2wAp]
@@ -174,7 +174,7 @@
 [/WggVCKQoYtC4]
 [XQO3qHEW0pQw#0] ^Pour<pr>$ ^mon<det><pos><m><sg>$ ^il<prn><tn><p3><m><sg>$ ^vivre<vblex><fti><p3><sg>$ ^le<det><def><f><sg>$ ^langue<n><f><sg>$
 [/XQO3qHEW0pQw]
-[YJiYz5WxNJpu#0] ^Pour l’instant<adv>$ ^on<prn><pro><ref><p3><mf><sp>$ ^pouvoir<vbmod><pri><p3><sg>$ ^faire<vblex><inf>$ ^avec<pr>$ ^le<det><def><m><sp>$ ^e<n><m><sp>$ ^de<pr>$ ^invention<n><f><sg>$ ^dans<pr>/à<pr>/en<pr>$ ^un<det><ind><f><pl>$ ^dix<num><mf><pl>$ ^langue<n><f><pl>$ ^quelconque<adj><mf><pl>$
+[YJiYz5WxNJpu#0] ^Pour l’instant<adv>$ ^on<prn><pro><ref><p3><mf><sp>$ ^pouvoir<vbmod><pri><p3><sg>$ ^faire<vblex><inf>$ ^avec<pr>$ ^le<det><def><m><sp>$ ^e<n><m><sp>$ ^de<pr>$ ^invention<n><f><sg>$ ^dans<pr>$ ^un<det><ind><f><pl>$ ^dix<num><mf><pl>$ ^langue<n><f><pl>$ ^quelconque<adj><mf><pl>$
 [/YJiYz5WxNJpu]
 [Z0-8d66Hx916#0] ^Il<prn><tn><p3><m><sg>$ ^être<vbser><pii><p3><sg>$ ^venir<vblex><pp><m><sg>$ ^le<det><def><m><sg>$ ^tous<adv>$
 [/Z0-8d66Hx916]
@@ -202,7 +202,7 @@
 [/asiB4VUIDcgr]
 [b8f_9RKGVPV5#0] ^Troisième<adj><mf><sg>$ ^classe<n><f><sg>$
 [/b8f_9RKGVPV5]
-[bE1F-BAvsN8u#0] ^Dans<pr>/À<pr>/En<pr>$ ^le<det><def><f><sg>$ ^salle<n><f><sg>$ ^de<pr>$ ^eau<n><f><sg>$ ^laver<vblex><pii><p1><sg>$
+[bE1F-BAvsN8u#0] ^Dans<pr>$ ^le<det><def><f><sg>$ ^salle<n><f><sg>$ ^de<pr>$ ^eau<n><f><sg>$ ^laver<vblex><pii><p1><sg>$
 [/bE1F-BAvsN8u]
 [bh-p9G8cG7qo#0] ^Il<prn><tn><p3><f><sg>$ ^être<vblex><pri><p3><sg>$ ^cinquième<adj><mf><sg>$
 [/bh-p9G8cG7qo]
@@ -214,7 +214,7 @@
 [/clMGrc4chDu4]
 [cmCLWYi-5zBv#0] ^Un<det><ind><m><sg>$ ^petit<adj><m><sg>$ ^chien<n><m><sg>$ ^je<prn><tn><p1><mf><sg>$ ^voir<vblex><pri><p1><sg>$
 [/cmCLWYi-5zBv]
-[dfHzi6FZW5hV#0] ^À<pr>$ ^Ar Menez<np><top>/Montagne<np><top>$ ^Brai<n><m><sg>$
+[dfHzi6FZW5hV#0] ^À<pr>$ ^Ar Menez<np><top>$ ^Brai<n><m><sg>$
 [/dfHzi6FZW5hV]
 [ecbs2HkRVVOm#0] ^Ne<adv>$ ^On<prn><pro><ref><p3><mf><sp>$ ^avoir<vbhaver><pri><p3><sg>$ ^être<vblex><pp><m><sg>$ ^apporter<vblex><pp><m><sg>$ ^renseignement<n><m><sg>$ ^pas<adv>$ ^nouveau<adj><m><sg>$
 [/ecbs2HkRVVOm]
@@ -230,7 +230,7 @@
 [/gAYB1AqWWXUS]
 [gDpnNupqbRYf#0] ^à<pr>$  ^Roc'h Trédudon<np><top>$
 [/gDpnNupqbRYf]
-[gEVyrjmOy_ER#0] ^avoir<vbhaver><pri><p1><sg>$ ^laver<vblex><pp><m><sg>$ ^dans<pr>/à<pr>/en<pr>$ ^le<det><def><f><sg>$ ^salle<n><f><sg>$ ^de<pr>$ ^eau<n><f><sg>$
+[gEVyrjmOy_ER#0] ^avoir<vbhaver><pri><p1><sg>$ ^laver<vblex><pp><m><sg>$ ^dans<pr>$ ^le<det><def><f><sg>$ ^salle<n><f><sg>$ ^de<pr>$ ^eau<n><f><sg>$
 [/gEVyrjmOy_ER]
 [gNSjH_n2l1hj#0] ^laver<vblex><fti><p1><sg>$
 [/gNSjH_n2l1hj]
@@ -280,7 +280,7 @@
 [/ofkEQs9YCOFH]
 [pCxfnDvz6qyN#0] ^Car<cnjcoo>$ ^ci<adv>$
 [/pCxfnDvz6qyN]
-[pWjY-RAfUiPr#0] ^Dans<pr>/À<pr>/En<pr>$ ^le<det><def><m><sg>$ ^magasin<n><m><sg>$ ^être<vblex><pri><p3><sg>$ ^de<pr>$ ^le<det><def><mf><pl>$ ^chose<n><f><pl>$ ^bon marché<adj><mf><pl>$
+[pWjY-RAfUiPr#0] ^Dans<pr>$ ^le<det><def><m><sg>$ ^magasin<n><m><sg>$ ^être<vblex><pri><p3><sg>$ ^de<pr>$ ^le<det><def><mf><pl>$ ^chose<n><f><pl>$ ^bon marché<adj><mf><pl>$
 [/pWjY-RAfUiPr]
 [pr4z9HnxwEKq#0] ^À<pr>$ ^Bretagne<np><top>$
 [/pr4z9HnxwEKq]
@@ -308,7 +308,7 @@
 [/sIpk6JtUu7XF]
 [sWskqwSOvIln#0] ^Le<det><def><m><sg>$ ^maître<n><m><sg>$ ^de<pr>$ ^le<det><def><f><sg>$ ^petit<adj><f><sg>$ ^maison<n><f><sg>$
 [/sWskqwSOvIln]
-[t3panbI1mnvc#0] ^Excursion<n><f><pl>$ ^orienter<vblex><pp><f><pl>$ ^et<cnjcoo>$ ^compter<vblex><pp><f><pl>$ ^dans<pr>/à<pr>/en<pr>$ ^le<det><def><m><pl>$ ^bois<n><m><sp>$ ^il<prn><tn><p3><m><sg>$ ^être<vbser><fti><p3><sg>$ ^organiser<vblex><pp><m><sg>$ ^aussi<adv>$
+[t3panbI1mnvc#0] ^Excursion<n><f><pl>$ ^orienter<vblex><pp><f><pl>$ ^et<cnjcoo>$ ^compter<vblex><pp><f><pl>$ ^dans<pr>$ ^le<det><def><m><pl>$ ^bois<n><m><sp>$ ^il<prn><tn><p3><m><sg>$ ^être<vbser><fti><p3><sg>$ ^organiser<vblex><pp><m><sg>$ ^aussi<adv>$
 [/t3panbI1mnvc]
 [tBPvaiQjpXgG#0] ^Le<det><def><f><sg>$ ^chaise<n><f><sg>$ ^de<pr>$ ^le<det><def><m><sp>$ ^bois<n><m><sp>$ ^de<pr>$ ^le<det><def><m><sg>$ ^pays<n><m><sp>$
 [/tBPvaiQjpXgG]
@@ -318,7 +318,7 @@
 [/uClS5LImahcH]
 [uGFkEK1CnNyW#0] ^Quand<cnjsub>$ ^je<prn><tn><p1><mf><sg>$ ^réveiller<vblex><pri><p1><sg>$ ^paire<n><f><sg>$ ^tôt<adj><mf><sp>$ ^je<prn><tn><p1><mf><sg>$ ^ne<adv><neg>$ ^lever<vblex><pri><p1><sg>$ ^pas<adv>$ ^tout de suite<adv>$
 [/uGFkEK1CnNyW]
-[uZ4YoNVhvJWs#0] ^Dans<pr>/À<pr>/En<pr>$ ^le<det><def><m><sg>$ ^Conseil<n><m><sg>$ ^de<pr>$ ^Région<n><f><sg>$
+[uZ4YoNVhvJWs#0] ^Dans<pr>$ ^le<det><def><m><sg>$ ^Conseil<n><m><sg>$ ^de<pr>$ ^Région<n><f><sg>$
 [/uZ4YoNVhvJWs]
 [uqHJeBjgBAtu#0] ^avoir<vbhaver><pri><p2><sg>$ ^battre<vblex><pp><m><sg>$ ^encore<adv>$ ^?<sent>$
 [/uqHJeBjgBAtu]

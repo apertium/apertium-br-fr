@@ -407,6 +407,8 @@ S -> 1: VP.[temps_fin] { 1(subj_prn)
           (if (1.pers = impers) 1[lemcase=aa,pers=p3,nbr=sg]
 		   else 1[lemcase=aa]) } |
 	 DP VP ?(1.pers = 2.pers) { 1 _ 2[gen=1.gen,nbr=1.nbr] } |
+     AP e@vpart VP { 1 _ 3[gen=1.gen,nbr=1.nbr] } |
+     AP e@vpart VP DP { 1 _ 3[gen=1.gen,nbr=1.nbr] _ 4 } |
 	 VP.*.neg DP { 2[lemcase=$lemcase] _ 1[lemcase=aa] } |
 	 17: DP a@vpart VP { 1 _ (if ((3.pers = p3) and (3.nbr = sg))
 	                         3[pers=1.pers,nbr=1.nbr,gen=1.gen]
@@ -414,6 +416,15 @@ S -> 1: VP.[temps_fin] { 1(subj_prn)
 	 AP bezañ@V DP { 3[lemcase=Aa] _ 2 _ 1[lemcase=aa,gen=3.gen] } |
 	 AP bezañ@V
 	    { 2(subj_prn)[lemcase=$lemcase] 2[lemcase=aa] _ 1[lemcase=aa] } |
+     AP bezañ@V da@pr DP
+        { 2(subj_prn)[lemcase=$lemcase] 2[lemcase=aa] _ 1[lemcase=aa]
+          _ que@rel.mf.sp _ 4 } |
+     DP bezañ@V da@pr DP VP
+        { 2(subj_prn)[lemcase=$lemcase] 2[lemcase=aa] _ 1[lemcase=aa] _ pour@pr
+          _ 4 _ 5 } |
+     AP e@vpart bezañ@V da@pr
+        { 3(subj_prn)[lemcase=$lemcase] 3[lemcase=aa] _ 1[lemcase=aa]
+          _ que@rel.mf.sp } |
 	 VP DP VP.inf { 2[lemcase=$lemcase] _ 1[lemcase=aa,nbr=2.nbr] _ 3 } |
 	 DP.p3 "en em"@vpart.ref VP.*.p3
 	    { 1[lemcase=$lemcase] _ se@prn.pro.ref.p3.mf.sp _ 3[nbr=1.nbr] } |

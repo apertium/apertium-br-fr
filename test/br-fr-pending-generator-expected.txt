@@ -14,13 +14,13 @@
 [/1rJHh7n5scg9]
 [2QbBPGfgpwQr#0] ~Je dois aller maintenant
 [/2QbBPGfgpwQr]
-[3heuvyBqkFu8#0] ~La personne voit #dans ~le miroir
+[3heuvyBqkFu8#0] ~La personne voit dans ~le miroir
 [/3heuvyBqkFu8]
 [4cuqZKd9OKQJ#0] Jamais ~ne tu croirais embrasser ~à elle
 [/4cuqZKd9OKQJ]
 [4gLIYfjFE3ZY#0] Fatigué ~je suis
 [/4gLIYfjFE3ZY]
-[4gfALWtEZZ5r#0] #À il voit à tous
+[4gfALWtEZZ5r#0] ~À il voit à tous
 [/4gfALWtEZZ5r]
 [4i5Hh4Rlkffc#0] Apparaître
 [/4i5Hh4Rlkffc]
@@ -64,7 +64,7 @@
 [/8uDD8CtfvNZe]
 [9QyL9mWr8Iil#0] Moi-même
 [/9QyL9mWr8Iil]
-[9oM277rGU1f9#0] Il ~ne est pas nécessaire aller si vite
+[9oM277rGU1f9#0] Il ~ne est pas nécessaire aller #si vite
 [/9oM277rGU1f9]
 [BiB8vEnIFLhy#0] #Le e ~de ~la Roche ~de ~le feu
 [/BiB8vEnIFLhy]
@@ -84,7 +84,7 @@
 [/E_FqgBMQI9Bf]
 [EvT3bxxPztAx#0] ~Le tous ~de eux
 [/EvT3bxxPztAx]
-[FBW9x1Xsnvug#0] #Dans ~le Gouvernement
+[FBW9x1Xsnvug#0] Dans ~le Gouvernement
 [/FBW9x1Xsnvug]
 [FdWk7F1l6pew#0] Second fois ~à moi voir ça
 [/FdWk7F1l6pew]
@@ -98,9 +98,9 @@
 [/GsD5nMydNoze]
 [H-wHo3E2FzkJ#0] Besoin ~je ai bois pour faire feu
 [/H-wHo3E2FzkJ]
-[HDFHsZTwhabI#0] #Dans ~la salle ~de eau lave
+[HDFHsZTwhabI#0] Dans ~la salle ~de eau lave
 [/HDFHsZTwhabI]
-[HK30neRaKqF3#0] ~Je pense #dans elle
+[HK30neRaKqF3#0] ~Je pense dans elle
 [/HK30neRaKqF3]
 [HQ667Q-TfqRo#0] Content il était Katell
 [/HQ667Q-TfqRo]
@@ -140,13 +140,13 @@
 [/Q4KXURkigJK3]
 [QP11hB9PeIXp#0] Second
 [/QP11hB9PeIXp]
-[QXawWKELxL1F#0] ~À Vannes #dans ~ton tu iras
+[QXawWKELxL1F#0] ~À Vannes dans ~ton tu iras
 [/QXawWKELxL1F]
-[Q_aGiAj6FpjK#0] #Dans ~la salle ~de eau ~je suis   lavé
+[Q_aGiAj6FpjK#0] Dans ~la salle ~de eau ~je suis   lavé
 [/Q_aGiAj6FpjK]
 [RIdgckfvzzPq#0] Il sera jugé six militants ~de ~la réunification le jeudi 12 février #le e ~de ~le Tribunal correctionnel ~de Nantes
 [/RIdgckfvzzPq]
-[RS_Mrp2s2xhR#0] Premier #à mars
+[RS_Mrp2s2xhR#0] Premier ~à mars
 [/RS_Mrp2s2xhR]
 [RUIHXYEd2wAp#0] Ar Redadeg il est ~son objectif valoriser ~la langue
 [/RUIHXYEd2wAp]
@@ -174,7 +174,7 @@
 [/WggVCKQoYtC4]
 [XQO3qHEW0pQw#0] Pour ~mon il vivra ~la langue
 [/XQO3qHEW0pQw]
-[YJiYz5WxNJpu#0] Pour l’instant on peut faire avec #le e ~de invention #dans quelques dix langues quelconques
+[YJiYz5WxNJpu#0] Pour l’instant on peut faire avec #le e ~de invention dans quelques dix langues quelconques
 [/YJiYz5WxNJpu]
 [Z0-8d66Hx916#0] Il était venu ~le tous
 [/Z0-8d66Hx916]
@@ -202,7 +202,7 @@
 [/asiB4VUIDcgr]
 [b8f_9RKGVPV5#0] Troisième classe
 [/b8f_9RKGVPV5]
-[bE1F-BAvsN8u#0] #Dans ~la salle ~de eau lavais
+[bE1F-BAvsN8u#0] Dans ~la salle ~de eau lavais
 [/bE1F-BAvsN8u]
 [bh-p9G8cG7qo#0] Elle est cinquième
 [/bh-p9G8cG7qo]
@@ -214,7 +214,7 @@
 [/clMGrc4chDu4]
 [cmCLWYi-5zBv#0] Un petit chien ~je vois
 [/cmCLWYi-5zBv]
-[dfHzi6FZW5hV#0] ~À #Ar Menez Brai
+[dfHzi6FZW5hV#0] ~À Ar Menez Brai
 [/dfHzi6FZW5hV]
 [ecbs2HkRVVOm#0] ~Ne On a été apporté renseignement pas ~nouveau
 [/ecbs2HkRVVOm]
@@ -230,7 +230,7 @@
 [/gAYB1AqWWXUS]
 [gDpnNupqbRYf#0] ~à  Roc'h Trédudon
 [/gDpnNupqbRYf]
-[gEVyrjmOy_ER#0] ai lavé #dans ~la salle ~de eau
+[gEVyrjmOy_ER#0] ai lavé dans ~la salle ~de eau
 [/gEVyrjmOy_ER]
 [gNSjH_n2l1hj#0] laverai
 [/gNSjH_n2l1hj]
@@ -280,7 +280,7 @@
 [/ofkEQs9YCOFH]
 [pCxfnDvz6qyN#0] Car ci
 [/pCxfnDvz6qyN]
-[pWjY-RAfUiPr#0] #Dans ~le magasin est ~de ~les choses bon marchés
+[pWjY-RAfUiPr#0] Dans ~le magasin est ~de ~les choses bon marchés
 [/pWjY-RAfUiPr]
 [pr4z9HnxwEKq#0] ~À Bretagne
 [/pr4z9HnxwEKq]
@@ -308,7 +308,7 @@
 [/sIpk6JtUu7XF]
 [sWskqwSOvIln#0] ~Le maître ~de ~la petite maison
 [/sWskqwSOvIln]
-[t3panbI1mnvc#0] Excursions orientées et comptées #dans ~les bois il sera organisé aussi
+[t3panbI1mnvc#0] Excursions orientées et comptées dans ~les bois il sera organisé aussi
 [/t3panbI1mnvc]
 [tBPvaiQjpXgG#0] ~La chaise ~de #le bois ~de ~le pays
 [/tBPvaiQjpXgG]
@@ -318,7 +318,7 @@
 [/uClS5LImahcH]
 [uGFkEK1CnNyW#0] Quand ~je réveille paire tôt ~je ~ne lève pas tout de suite
 [/uGFkEK1CnNyW]
-[uZ4YoNVhvJWs#0] #Dans ~le Conseil ~de Région
+[uZ4YoNVhvJWs#0] Dans ~le Conseil ~de Région
 [/uZ4YoNVhvJWs]
 [uqHJeBjgBAtu#0] as battu encore ~?
 [/uqHJeBjgBAtu]
