@@ -96,6 +96,15 @@
   </pardefs>  
 
   <section id="main" type="standard">
+    <e r="LR"><p><l>a<s n="vpart"/></l><r></r></p></e>
+    <e r="LR"><p><l>e<s n="vpart"/></l><r></r></p></e>
+    <e r="LR"><p><l>en<b/>em<s n="vpart"/></l><r></r></p></e>
+    <e r="LR"><p><l>en<b/>ur<s n="vpart"/></l><r></r></p></e>
+    <e r="LR"><p><l>na<s n="vpart"/></l><r></r></p></e>
+    <e r="LR"><p><l>o<s n="vpart"/></l><r></r></p></e>
+    <e r="LR"><p><l>oo<s n="vpart"/></l><r></r></p></e>
+    <e r="LR"><p><l>ra<s n="vpart"/></l><r></r></p></e>
+
     <e><p><l>ac’h<s n="ij"/></l><r>arrg<s n="ij"/></r></p></e>
     <e><p><l>ac’hanta<s n="ij"/></l><r>alors<s n="ij"/></r></p></e>
     <e><p><l>a<b/>galon<s n="ij"/></l><r>cordialement<s n="ij"/></r></p></e>
