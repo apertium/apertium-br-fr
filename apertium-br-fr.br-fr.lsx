@@ -26,18 +26,18 @@
 	</pardef>
 	<pardef n="penn">
 	  <e><p>
-		<l>pennãn<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/><j/></l>
+		<l>pennãn<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/><d/></l>
 		<r></r>
 	  </p></e>
 	  <e r="LR"><p>
-		<l>penn<s n="n"/><s n="m"/><s n="sg"/><j/></l>
+		<l>penn<s n="n"/><s n="m"/><s n="sg"/><d/></l>
 		<r></r>
 	  </p></e>
 	</pardef>
   </pardefs>
 
   <section id="main" type="standard">
-	<e><par n="e"/><i><j/></i><par n="penn"/></e>
+	<e><par n="e"/><i><d/></i><par n="penn"/></e>
   </section>
 </dictionary>
 
