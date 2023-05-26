@@ -16,10 +16,10 @@
         <file name="apertium-br-fr.pre-xfer-br.t1x"/>
         <file name="br-fr.pre-xfer.t1x.bin"/>
       </program>
-      <program name="lt-proc">
+      <program name="lt-proc -b">
         <file name="br-fr.autobil.bin"/>
       </program>
-      <program name="apertium-transfer">
+      <program name="apertium-transfer -b">
         <file name="apertium-br-fr.br-fr.t1x"/>
         <file name="br-fr.t1x.bin"/>
       </program>
@@ -135,10 +135,10 @@
         <file name="apertium-br-fr.pre-xfer-br.t1x"/>
         <file name="br-fr.pre-xfer.t1x.bin"/>
       </program>
-      <program name="lt-proc">
+      <program name="lt-proc -b">
         <file name="br-fr.autobil.bin"/>
       </program>
-      <program name="apertium-transfer">
+      <program name="apertium-transfer -b">
         <file name="apertium-br-fr.br-fr.t1x"/>
         <file name="br-fr.t1x.bin"/>
       </program>
@@ -157,10 +157,10 @@
         <file name="br-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
-      <program name="lt-proc">
+      <program name="lt-proc -b">
         <file name="br-fr.autobil.bin"/>
       </program>
-      <program name="apertium-transfer">
+      <program name="apertium-transfer -b">
         <file name="apertium-br-fr.br-fr.t1x"/>
         <file name="br-fr.t1x.bin"/>
       </program>
@@ -183,10 +183,10 @@
         <file name="br-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
-      <program name="lt-proc">
+      <program name="lt-proc -b">
         <file name="br-fr.autobil.bin"/>
       </program>
-      <program name="apertium-transfer">
+      <program name="apertium-transfer -b">
         <file name="apertium-br-fr.br-fr.t1x"/>
         <file name="br-fr.t1x.bin"/>
       </program>
@@ -213,10 +213,10 @@
         <file name="br-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
-      <program name="lt-proc">
+      <program name="lt-proc -b">
         <file name="br-fr.autobil.bin"/>
       </program>
-      <program name="apertium-transfer">
+      <program name="apertium-transfer -b">
         <file name="apertium-br-fr.br-fr.t1x"/>
         <file name="br-fr.t1x.bin"/>
       </program>
@@ -267,10 +267,10 @@
         <file name="fr-br.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
-      <program name="lt-proc">
+      <program name="lt-proc -b">
         <file name="fr-br.autobil.bin"/>
       </program>
-      <program name="apertium-transfer">
+      <program name="apertium-transfer -b">
         <file name="apertium-br-fr.fr-br.t1x"/>
         <file name="fr-br.t1x.bin"/>
       </program>
@@ -299,3 +299,4 @@
   </mode>
 
 </modes>
+
