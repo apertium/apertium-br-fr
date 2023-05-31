@@ -6,7 +6,7 @@
         <file name="br-fr.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="br-fr.rlx.bin"/> 
+        <file name="br-fr.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
         <file name="br-fr.prob"/>
@@ -16,10 +16,12 @@
         <file name="apertium-br-fr.pre-xfer-br.t1x"/>
         <file name="br-fr.pre-xfer.t1x.bin"/>
       </program>
-      <program name="apertium-transfer">
+      <program name="lt-proc -b">
+        <file name="br-fr.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
         <file name="apertium-br-fr.br-fr.t1x"/>
         <file name="br-fr.t1x.bin"/>
-        <file name="br-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
         <file name="apertium-br-fr.br-fr.t2x"/>
@@ -53,11 +55,10 @@
       </program>
       <program name="cg-conv -a"/>
       <program name="vislcg3 --trace --grammar">
-        <file name="br-fr.rlx.bin"/> 
+        <file name="br-fr.rlx.bin"/>
       </program>
     </pipeline>
   </mode>
-
 
   <mode name="br-fr-constraints" install="no">
     <pipeline>
@@ -65,11 +66,10 @@
         <file name="br-fr.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="br-fr.rlx.bin"/> 
+        <file name="br-fr.rlx.bin"/>
       </program>
     </pipeline>
   </mode>
-
 
   <mode name="br-fr-pretransfer" install="no">
     <pipeline>
@@ -77,7 +77,7 @@
         <file name="br-fr.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="br-fr.rlx.bin"/> 
+        <file name="br-fr.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
         <file name="br-fr.prob"/>
@@ -92,7 +92,7 @@
         <file name="br-fr.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="br-fr.rlx.bin"/> 
+        <file name="br-fr.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
         <file name="br-fr.prob"/>
@@ -107,7 +107,7 @@
         <file name="br-fr.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="br-fr.rlx.bin"/> 
+        <file name="br-fr.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
         <file name="br-fr.prob"/>
@@ -116,10 +116,8 @@
       <program name="lt-proc -b">
         <file name="br-fr.autobil.bin"/>
       </program>
-       
     </pipeline>
   </mode>
-
 
   <mode name="br-fr-chunker" install="no">
     <pipeline>
@@ -127,7 +125,7 @@
         <file name="br-fr.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="br-fr.rlx.bin"/> 
+        <file name="br-fr.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
         <file name="br-fr.prob"/>
@@ -137,10 +135,12 @@
         <file name="apertium-br-fr.pre-xfer-br.t1x"/>
         <file name="br-fr.pre-xfer.t1x.bin"/>
       </program>
-      <program name="apertium-transfer">
+      <program name="lt-proc -b">
+        <file name="br-fr.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
         <file name="apertium-br-fr.br-fr.t1x"/>
         <file name="br-fr.t1x.bin"/>
-        <file name="br-fr.autobil.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -151,16 +151,18 @@
         <file name="br-fr.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="br-fr.rlx.bin"/> 
+        <file name="br-fr.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
         <file name="br-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
-      <program name="apertium-transfer">
+      <program name="lt-proc -b">
+        <file name="br-fr.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
         <file name="apertium-br-fr.br-fr.t1x"/>
         <file name="br-fr.t1x.bin"/>
-        <file name="br-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
         <file name="apertium-br-fr.br-fr.t2x"/>
@@ -175,16 +177,18 @@
         <file name="br-fr.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="br-fr.rlx.bin"/> 
+        <file name="br-fr.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
         <file name="br-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
-      <program name="apertium-transfer">
+      <program name="lt-proc -b">
+        <file name="br-fr.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
         <file name="apertium-br-fr.br-fr.t1x"/>
         <file name="br-fr.t1x.bin"/>
-        <file name="br-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
         <file name="apertium-br-fr.br-fr.t2x"/>
@@ -203,16 +207,18 @@
         <file name="br-fr.automorf.bin"/>
       </program>
       <program name="cg-proc">
-        <file name="br-fr.rlx.bin"/> 
+        <file name="br-fr.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
         <file name="br-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
-      <program name="apertium-transfer">
+      <program name="lt-proc -b">
+        <file name="br-fr.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
         <file name="apertium-br-fr.br-fr.t1x"/>
         <file name="br-fr.t1x.bin"/>
-        <file name="br-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
         <file name="apertium-br-fr.br-fr.t2x"/>
@@ -251,9 +257,6 @@
     </pipeline>
   </mode>
 
-
-
-
   <!-- not installed for now -->
   <mode name="fr-br" install="no">
     <pipeline>
@@ -264,10 +267,12 @@
         <file name="fr-br.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
-      <program name="apertium-transfer">
+      <program name="lt-proc -b">
+        <file name="fr-br.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
         <file name="apertium-br-fr.fr-br.t1x"/>
         <file name="fr-br.t1x.bin"/>
-        <file name="fr-br.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
         <file name="apertium-br-fr.fr-br.t2x"/>
@@ -286,11 +291,12 @@
       </program>
       <program name="lt-proc -p">
         <file name="fr-br.autopgen.bin"/>
-      </program> 
+      </program>
       <program name="lt-proc -p">
         <file name="fr-br.autoorth.bin"/>
-      </program> 
+      </program>
     </pipeline>
   </mode>
 
 </modes>
+
